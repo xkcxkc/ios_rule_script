@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 02:11:48
+# UPDATED: 2022-03-28 22:37:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 46045
-# DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 76614
+# DOMAIN-KEYWORD: 85
+# DOMAIN-SUFFIX: 76619
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 123303
+# TOTAL: 123307
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1349,7 +1349,6 @@ abbanreddy.com
 abbeyblog.me
 abbeyxxx.com
 abbowtxibib.com
-abbp1.space
 abbyspanties.com
 abc-check.com
 abc-neways.com
@@ -4229,6 +4228,7 @@ api.sec.intl.miui.com
 api.setting.intl.miui.com
 api.shareitgames.com
 api.sms.intl.miui.com
+api.so
 api.tinyhoneybee.com
 api.touchcommerce.com
 api.truuapp.com
@@ -9918,7 +9918,6 @@ cs6serial.net
 cs6serialcrack.com
 csagov.jinanyuz.com
 csbsyukodmga.com
-csc.beap.
 cscactmkbfvn.com
 cscbarja.org
 cscprivatelabel.com
@@ -34104,6 +34103,7 @@ s.webdatacentr.com
 s.zkcdn.net
 s.zlhudong.com
 s1.176878.com
+s1.stat
 s1.wp.com
 s1.yzdh44.com
 s11.cn
@@ -48473,7 +48473,6 @@ zzzrtrcm2.com
 .888b.com
 .888b.in
 .888casino.com
-.888lianmeng.com
 .888media.net
 .888promos.com
 .888zr022.com
@@ -49491,7 +49490,6 @@ zzzrtrcm2.com
 .abbott.vo.llnwd.net
 .abbp1.com
 .abbp1.pw
-.abbp1.space.
 .abbyychina.com
 .abc-ads.com
 .abc.bayer04.de
@@ -55931,7 +55929,6 @@ zzzrtrcm2.com
 .api-z.weidian.com
 .api.0.0.0.0.cn
 .api.140proof.com
-.api.22lianmeng.com
 .api.24kidea.com
 .api.557400.com
 .api.abcxs.org
@@ -56792,6 +56789,7 @@ zzzrtrcm2.com
 .asttcp.vatera.hu
 .astyk.cn
 .asu05mm.cn
+.asukahan.xyz
 .asuler.ru
 .asumi.shinobi.jp
 .asundersimultaneously.com
@@ -68419,6 +68417,7 @@ zzzrtrcm2.com
 .dotandads.com
 .dotardberet.com
 .dotaudiences.com
+.dotchaudou.com
 .dotcomsecrets.com
 .dotcounter.douyutv.com
 .dothbognib.com
@@ -71620,6 +71619,7 @@ zzzrtrcm2.com
 .exclusivegiftcards.com
 .exclusivepussy.com
 .excpm.com
+.excsyrv.cn
 .excuseearthquake.com
 .excuseparen.com
 .exd4.destinia.com.au
@@ -73383,6 +73383,7 @@ zzzrtrcm2.com
 .fpeiatypfcsthka.xyz
 .fperefo.ru
 .fpjs.io
+.fpmaypyeegktq.com
 .fpmef.com
 .fppmnvrubgl.xyz
 .fpreld.cn
@@ -78781,6 +78782,7 @@ zzzrtrcm2.com
 .ibjivzn.com
 .ibjlweoqb.com
 .ibnads.xl.co.id
+.iboxs.xyz
 .ibpxl.com
 .ibpxl.net
 .ibryte.com
@@ -79375,7 +79377,6 @@ zzzrtrcm2.com
 .img3.fy1g.com
 .img3.g.pptv.com
 .img3.km.com
-.img3.lianmengma.com
 .img50.pingguolv.com
 .img6.126.net
 .img752.de92.com
@@ -80978,6 +80979,7 @@ zzzrtrcm2.com
 .j6rudlybdy.com
 .j6y54.xyz
 .j6yh5.xyz
+.j6zh4g0.cn
 .j7182.hfxcsl.cn
 .j7rzxe098g5m.com
 .j83ad.speedrun.com
@@ -81805,6 +81807,7 @@ zzzrtrcm2.com
 .jpg1.oss-cn-beijing.aliyuncs.com
 .jph.itiexue.net
 .jpjmpqaupc.com
+.jpjrkdtbnwc.com
 .jpkwk.top
 .jpmpuxglivupwy.com
 .jponmlkj.carte-gr.total.fr
@@ -84420,8 +84423,6 @@ zzzrtrcm2.com
 .lianka.cn
 .lianle.com
 .lianmen1.joyyang.com
-.lianmeng.360.cn
-.lianmeng.com
 .lianruntang.cn
 .liantmartier.info
 .lianwangtech.com
@@ -86139,6 +86140,7 @@ zzzrtrcm2.com
 .lxgerdcitg.com
 .lxgmgalmrxqlj.xyz
 .lxhjaq.cn
+.lxiaoxin.com
 .lxind.cn
 .lxiu.shop
 .lxlx.shop
@@ -88498,7 +88500,6 @@ zzzrtrcm2.com
 .meirensuan.xyz
 .meishi0554.com
 .meishiba.com.cn
-.meitaolianmeng.ltd
 .meiti1.net
 .meitissp.com
 .meituan.xn--io0a7i
@@ -98419,7 +98420,6 @@ zzzrtrcm2.com
 .pxlad.io
 .pxlctl.elpais.com
 .pxlgnpgecom-a.akamaihd.net
-.pxlk9.net.
 .pxmyjxebxgv.com
 .pxptpv.jobup.ch
 .pxsg.pandora.com
@@ -101123,6 +101123,7 @@ zzzrtrcm2.com
 .rrgapzw.cn
 .rrimpl.com
 .rrkykn.cn
+.rrlafphbrpazu.com
 .rrogfhs.cn
 .rrolawcats2bsl4b.in.net
 .rrrwwwa.com
@@ -101492,6 +101493,7 @@ zzzrtrcm2.com
 .rzhcdnsl.com
 .rzhujam.com
 .rzjirk.com
+.rzjslm.com
 .rzlib.net
 .rzqctiudsvb.com
 .rzqdqw.com
@@ -105307,6 +105309,7 @@ zzzrtrcm2.com
 .smetrix.avon.uk.com
 .smetrix.youravon.com
 .smf82.cn
+.smgjupy.cn
 .smgru.net
 .smh.ink
 .smi.pp.ua
@@ -110465,6 +110468,7 @@ zzzrtrcm2.com
 .thunderbird.es
 .thunderhead.com
 .thunderingrose.com
+.thundersoft.top
 .thurag.com
 .thurnflfant.com
 .thursdayfeeemployee.com
@@ -114526,6 +114530,7 @@ zzzrtrcm2.com
 .unta.cn
 .untaryes.online
 .untd.com
+.untenable.wang
 .untidyquestion.com
 .untidyrice.com
 .untiloutrage.com

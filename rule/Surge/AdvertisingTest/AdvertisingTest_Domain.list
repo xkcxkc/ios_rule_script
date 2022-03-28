@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 02:11:46
+# UPDATED: 2022-03-28 22:37:35
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45301
-# DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 89665
+# DOMAIN: 45298
+# DOMAIN-KEYWORD: 85
+# DOMAIN-SUFFIX: 89670
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 135610
+# TOTAL: 135611
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1099,7 +1099,6 @@ a.namemilky.com
 a.networkworld.com
 a.softconsultgroup.com
 a.spicetv.com
-a.ssl.
 a.tadd.react2media.com
 a.targetserving.com
 a.tempurpedic.com
@@ -1227,7 +1226,6 @@ abbahoxgss.com
 abbanreddy.com
 abbeyxxx.com
 abbowtxibib.com
-abbp1.space
 abbyspanties.com
 abc-check.com
 abc-neways.com
@@ -4116,6 +4114,7 @@ api.sec.intl.miui.com
 api.setting.intl.miui.com
 api.shareitgames.com
 api.sms.intl.miui.com
+api.so
 api.touchcommerce.com
 api.truuapp.com
 api.tv.sohu.com
@@ -9716,7 +9715,6 @@ cs6serial.net
 cs6serialcrack.com
 csagov.jinanyuz.com
 csbsyukodmga.com
-csc.beap.
 cscactmkbfvn.com
 cscbarja.org
 cscprivatelabel.com
@@ -10918,7 +10916,6 @@ dhvaigzy.com
 dhvzrpvjwibr.com
 dhxwczetwdkt.com
 dhycazbjhewd.com
-di.ssl.
 di1.shopping.com
 diablo3cracked.org
 diablo3keygen.org
@@ -19811,7 +19808,6 @@ img.ruclicks.com
 img.skenzo.com
 img.smi2.net
 img.soulmate.com
-img.ssl.
 img.sunmediaads.com
 img001.com
 img01.coofinder.com
@@ -33466,6 +33462,7 @@ s.utdstc.com
 s.webdatacentr.com
 s.zlhudong.com
 s1.176878.com
+s1.stat
 s1.yzdh44.com
 s11clickmoviedownloadercom.maynemyltf.netdna-cdn.com
 s18.pixxxels.org
@@ -47962,7 +47959,6 @@ zzzrtrcm2.com
 .888b.in
 .888casino.com
 .888games.com
-.888lianmeng.com
 .888media.net
 .888poker.com
 .888promos.com
@@ -49329,7 +49325,6 @@ zzzrtrcm2.com
 .abbott.vo.llnwd.net
 .abbp1.com
 .abbp1.pw
-.abbp1.space.
 .abbyychina.com
 .abc-ads.com
 .abc.bayer04.de
@@ -56471,7 +56466,6 @@ zzzrtrcm2.com
 .api-z.weidian.com
 .api.0.0.0.0.cn
 .api.140proof.com
-.api.22lianmeng.com
 .api.24kidea.com
 .api.557400.com
 .api.aalbbh84.info
@@ -57611,6 +57605,7 @@ zzzrtrcm2.com
 .asttcp.vatera.hu
 .astyk.cn
 .asu05mm.cn
+.asukahan.xyz
 .asuler.ru
 .asumi.shinobi.jp
 .asundersimultaneously.com
@@ -71104,6 +71099,7 @@ zzzrtrcm2.com
 .dotandads.com
 .dotardberet.com
 .dotaudiences.com
+.dotchaudou.com
 .dotcomsecrets.com
 .dotcounter.douyutv.com
 .dothbognib.com
@@ -76869,6 +76865,7 @@ zzzrtrcm2.com
 .fperefo.ru
 .fpiikkttbl.com
 .fpjs.io
+.fpmaypyeegktq.com
 .fpmef.com
 .fppmnvrubgl.xyz
 .fpreld.cn
@@ -83669,7 +83666,6 @@ zzzrtrcm2.com
 .img3.fy1g.com
 .img3.g.pptv.com
 .img3.km.com
-.img3.lianmengma.com
 .img50.pingguolv.com
 .img6.126.net
 .img752.de92.com
@@ -84528,6 +84524,7 @@ zzzrtrcm2.com
 .inheart.ru
 .inheritedgeneralrailroad.com
 .inheritwalter.com
+.inhousedsp.com
 .inhumenesokia.com
 .ini.litingxin.cn
 .inigusyou.fun
@@ -85590,6 +85587,7 @@ zzzrtrcm2.com
 .j6rudlybdy.com
 .j6y54.xyz
 .j6yh5.xyz
+.j6zh4g0.cn
 .j7182.hfxcsl.cn
 .j7rzxe098g5m.com
 .j83ad.speedrun.com
@@ -86507,6 +86505,7 @@ zzzrtrcm2.com
 .jpg1.oss-cn-beijing.aliyuncs.com
 .jph.itiexue.net
 .jpjmpqaupc.com
+.jpjrkdtbnwc.com
 .jpkwk.top
 .jpmpuxglivupwy.com
 .jponmlkj.carte-gr.total.fr
@@ -89435,8 +89434,6 @@ zzzrtrcm2.com
 .lianka.cn
 .lianle.com
 .lianmen1.joyyang.com
-.lianmeng.360.cn
-.lianmeng.com
 .lianruntang.cn
 .liantmartier.info
 .lianwangtech.com
@@ -91327,6 +91324,7 @@ zzzrtrcm2.com
 .lxgoewxns.com
 .lxhjaq.cn
 .lxiaho.lesfurets.com
+.lxiaoxin.com
 .lxind.cn
 .lxiu.shop
 .lxlx.shop
@@ -94200,7 +94198,6 @@ zzzrtrcm2.com
 .meirensuan.xyz
 .meishi0554.com
 .meishiba.com.cn
-.meitaolianmeng.ltd
 .meiti1.net
 .meitissp.com
 .meituan.xn--io0a7i
@@ -109345,6 +109342,7 @@ zzzrtrcm2.com
 .rriedskillear.club
 .rrimpl.com
 .rrkykn.cn
+.rrlafphbrpazu.com
 .rrnoku.vitalityextracts.com
 .rrogfhs.cn
 .rrolawcats2bsl4b.in.net
@@ -109767,6 +109765,7 @@ zzzrtrcm2.com
 .rzhcdnsl.com
 .rzhujam.com
 .rzjirk.com
+.rzjslm.com
 .rzlib.net
 .rzoevr.qvc.de
 .rzqctiudsvb.com
@@ -115060,6 +115059,7 @@ zzzrtrcm2.com
 .smetrix.avon.uk.com
 .smetrix.youravon.com
 .smf82.cn
+.smgjupy.cn
 .smgru.net
 .smh.ink
 .smi.pp.ua
@@ -121315,6 +121315,7 @@ zzzrtrcm2.com
 .thunderbird.es
 .thunderhead.com
 .thunderingrose.com
+.thundersoft.top
 .thuniveryra.club
 .thurag.com
 .thurnflfant.com
@@ -128412,6 +128413,7 @@ zzzrtrcm2.com
 .wangzhenzhi.cn
 .wangzhichao.info
 .wangzibo.top
+.wangzj.top
 .wanhua6.com
 .waninusty.com
 .wannianli.mobi

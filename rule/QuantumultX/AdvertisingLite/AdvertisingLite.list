@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-17 09:55:25
-# HOST: 23558
+# UPDATED: 2022-03-28 22:37:36
+# HOST: 23557
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 13287
+# HOST-SUFFIX: 13285
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 37031
+# TOTAL: 37028
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -1001,7 +1001,6 @@ HOST,abakys.ru,AdvertisingLite
 HOST,abb963a46029eb.com,AdvertisingLite
 HOST,abbeyblog.me,AdvertisingLite
 HOST,abbp1.pw,AdvertisingLite
-HOST,abbp1.space,AdvertisingLite
 HOST,abc.hearst.co.uk,AdvertisingLite
 HOST,abc.pema.cl,AdvertisingLite
 HOST,abc.zuiairead.com,AdvertisingLite
@@ -2643,7 +2642,6 @@ HOST,api-luckycoinsdk.doglobal.net,AdvertisingLite
 HOST,api-secure.solvemedia.com,AdvertisingLite
 HOST,api-u-ssl.xunlei.com,AdvertisingLite
 HOST,api.140proof.com,AdvertisingLite
-HOST,api.22lianmeng.com,AdvertisingLite
 HOST,api.aalbbh84.info,AdvertisingLite
 HOST,api.ad.xv555.com,AdvertisingLite
 HOST,api.ad.yipinread.com,AdvertisingLite
@@ -2670,6 +2668,7 @@ HOST,api.newsfeed.intl.miui.com,AdvertisingLite
 HOST,api.no4book.com,AdvertisingLite
 HOST,api.qvpublish.com,AdvertisingLite
 HOST,api.sdk.fmobi.cn,AdvertisingLite
+HOST,api.so,AdvertisingLite
 HOST,api.ssp.zxrtb.com,AdvertisingLite
 HOST,api.stack-sonar.com,AdvertisingLite
 HOST,api.starsmp.com,AdvertisingLite
@@ -9992,7 +9991,6 @@ HOST,img2.g.pptv.com,AdvertisingLite
 HOST,img2.pengfu.net,AdvertisingLite
 HOST,img2.user.kanimg.com,AdvertisingLite
 HOST,img3.g.pptv.com,AdvertisingLite
-HOST,img3.lianmengma.com,AdvertisingLite
 HOST,imgdew.pw,AdvertisingLite
 HOST,imgf.gade.suimeng.la,AdvertisingLite
 HOST,imgfeedget.com,AdvertisingLite
@@ -17325,6 +17323,7 @@ HOST,s1.dapenti.com,AdvertisingLite
 HOST,s1.ei16h.cn,AdvertisingLite
 HOST,s1.kuaibaopay.com,AdvertisingLite
 HOST,s1.leshi123.cc,AdvertisingLite
+HOST,s1.stat,AdvertisingLite
 HOST,s1.szlu-an.com,AdvertisingLite
 HOST,s1.wp.com,AdvertisingLite
 HOST,s10.hostcontent.live,AdvertisingLite
@@ -24658,7 +24657,6 @@ HOST-SUFFIX,ab.meishiba.com.cn,AdvertisingLite
 HOST-SUFFIX,ab.pincai.com,AdvertisingLite
 HOST-SUFFIX,ab.sc115.com,AdvertisingLite
 HOST-SUFFIX,abakus.freenet.de,AdvertisingLite
-HOST-SUFFIX,abbp1.space.,AdvertisingLite
 HOST-SUFFIX,abc.dooccn.com,AdvertisingLite
 HOST-SUFFIX,abc.douguo.com,AdvertisingLite
 HOST-SUFFIX,abc.eastlady.cn,AdvertisingLite
@@ -30907,7 +30905,6 @@ HOST-SUFFIX,liacyne.pw,AdvertisingLite
 HOST-SUFFIX,lianfuhuang.cn,AdvertisingLite
 HOST-SUFFIX,liangao.com,AdvertisingLite
 HOST-SUFFIX,liangziweixg.com,AdvertisingLite
-HOST-SUFFIX,lianmeng.360.cn,AdvertisingLite
 HOST-SUFFIX,lianyicq.cn,AdvertisingLite
 HOST-SUFFIX,liaoren85.com,AdvertisingLite
 HOST-SUFFIX,liaoruochen.cn,AdvertisingLite

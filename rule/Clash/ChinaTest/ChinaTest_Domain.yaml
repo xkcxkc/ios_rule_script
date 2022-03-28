@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 02:11:50
-# DOMAIN-SUFFIX: 67910
+# UPDATED: 2022-03-28 22:37:39
+# DOMAIN-SUFFIX: 67923
 # DOMAIN: 86
 # IP-CIDR: 7
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68017
+# TOTAL: 68030
 payload:
   - '265.com'
   - '2mdn.net'
@@ -19381,6 +19381,7 @@ payload:
   - '+.dianxin.net'
   - '+.dianxinnews.com'
   - '+.dianxinos.com'
+  - '+.dianyingjie.com'
   - '+.dianyingshow.com'
   - '+.dianyingwenxue.com'
   - '+.dianyinjidiao.com'
@@ -24001,6 +24002,7 @@ payload:
   - '+.fuzhugo.com'
   - '+.fview.com'
   - '+.fvti.com'
+  - '+.fw-12365.com'
   - '+.fw-biotech.com'
   - '+.fw4.co'
   - '+.fw4.me'
@@ -29430,6 +29432,7 @@ payload:
   - '+.huhoo.net'
   - '+.huhua.net'
   - '+.huhuang.net'
+  - '+.huhuguanjia.com'
   - '+.huhuhiiuio.com'
   - '+.huhuvr.com'
   - '+.hui-ben.com'
@@ -37712,6 +37715,7 @@ payload:
   - '+.linlizone.com'
   - '+.linlongyun.com'
   - '+.linlongyx.com'
+  - '+.linmi.cc'
   - '+.linni.com'
   - '+.linnsea.com'
   - '+.linnyou.com'
@@ -38752,6 +38756,7 @@ payload:
   - '+.luoohu.com'
   - '+.luooqi.com'
   - '+.luoqiu.com'
+  - '+.luoqiu.info'
   - '+.luoqiuxs.com'
   - '+.luoqiuzw.com'
   - '+.luoqiuzww.com'
@@ -45680,6 +45685,7 @@ payload:
   - '+.qi-che.com'
   - '+.qi-ju.com'
   - '+.qi-wen.com'
+  - '+.qi58.com'
   - '+.qiachu.com'
   - '+.qiaiou.com'
   - '+.qiak.com'
@@ -48604,6 +48610,7 @@ payload:
   - '+.sdzdmjg.com'
   - '+.sdzhidian.com'
   - '+.sdzk.co'
+  - '+.sdzxswhjygjlm.com'
   - '+.se77en.cc'
   - '+.se7enzone.com'
   - '+.sea-group.org'
@@ -49208,6 +49215,7 @@ payload:
   - '+.shbars.com'
   - '+.shbbq.net'
   - '+.shbear.com'
+  - '+.shbg.org'
   - '+.shbicycle.com'
   - '+.shbj.com'
   - '+.shbnrj.com'
@@ -63063,6 +63071,7 @@ payload:
   - '+.yinan9.com'
   - '+.yinar.com'
   - '+.yinbaitu.com'
+  - '+.yinbangbroker.com'
   - '+.yinbin.ink'
   - '+.yinchengpai.com'
   - '+.yinchengwealth.com'
@@ -63189,6 +63198,7 @@ payload:
   - '+.yinxiangma.com'
   - '+.yinxiangqingyang.com'
   - '+.yinxiao.com'
+  - '+.yinxiaobao.net'
   - '+.yinxinbh.com'
   - '+.yinxing.com'
   - '+.yinxunbiao.com'
@@ -63243,6 +63253,7 @@ payload:
   - '+.yiqisoo.com'
   - '+.yiqisooimg.com'
   - '+.yiqisou.net'
+  - '+.yiqitp.com'
   - '+.yiqiu.org'
   - '+.yiqiuu.com'
   - '+.yiqiv.com'
@@ -63313,6 +63324,7 @@ payload:
   - '+.yitopapp.com'
   - '+.yituocn.com'
   - '+.yitutech.com'
+  - '+.yituyu.com'
   - '+.yiupin.com'
   - '+.yiuxiu.com'
   - '+.yivian.com'
@@ -64570,6 +64582,7 @@ payload:
   - '+.yunban.com'
   - '+.yunbang.net'
   - '+.yunbangcheng.com'
+  - '+.yunbaoriji.com'
   - '+.yunbei.com'
   - '+.yunbeitech.com'
   - '+.yunbiao.tv'
