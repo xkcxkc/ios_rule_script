@@ -1,15 +1,15 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-23 02:13:19
+# UPDATED: 2022-04-23 02:12:52
 # USER-AGENT: 32
 # DOMAIN-SUFFIX: 7089
 # PROCESS-NAME: 3
-# DOMAIN: 16
-# IP-CIDR: 6179
-# DOMAIN-KEYWORD: 12
-# IP-CIDR6: 6478
-# TOTAL: 19809
+# DOMAIN: 17
+# IP-CIDR: 6134
+# DOMAIN-KEYWORD: 13
+# IP-CIDR6: 4172
+# TOTAL: 17460
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -25,6 +25,7 @@ origin-a.akamaihd.ne
 origin-a.akamaihd.net
 safebrowsing.googleapis.com
 sms.imagetasks.com
+steamcommunity-a.akamaihd.net
 weizhiyundong.list
 .001wifi.com
 .00cdn.com
@@ -3082,6 +3083,7 @@ weizhiyundong.list
 .hmx3556y0o.com
 .hnacargo.com
 .hnair.com
+.hnair.net
 .hntncdn.com
 .hollisterco.com
 .homeinns.com
@@ -5571,7 +5573,6 @@ weizhiyundong.list
 .static163.net
 .staticdn.net
 .staticfile.org
-.steamcdn-a.akamaihd.net
 .stfile.com
 .stmjsociety.com
 .store-cdn.huami.com
