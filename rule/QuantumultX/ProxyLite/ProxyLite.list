@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 22:37:37
-# HOST-SUFFIX: 32573
+# UPDATED: 2022-04-03 10:56:29
+# HOST-SUFFIX: 32582
 # USER-AGENT: 5
 # HOST: 36
 # HOST-KEYWORD: 29
 # IP-CIDR: 92
 # IP6-CIDR: 3
-# TOTAL: 32738
+# TOTAL: 32747
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -940,6 +940,9 @@ HOST-SUFFIX,2drdrebeats.com,ProxyLite
 HOST-SUFFIX,2dway.com,ProxyLite
 HOST-SUFFIX,2femdom.com,ProxyLite
 HOST-SUFFIX,2gw.publichealthonline.gwu.edu,ProxyLite
+HOST-SUFFIX,2k.com,ProxyLite
+HOST-SUFFIX,2kcoretech.online,ProxyLite
+HOST-SUFFIX,2kgames.com,ProxyLite
 HOST-SUFFIX,2l387.cc,ProxyLite
 HOST-SUFFIX,2lib.org,ProxyLite
 HOST-SUFFIX,2lipstube.com,ProxyLite
@@ -7617,6 +7620,7 @@ HOST-SUFFIX,communistcrimes.org,ProxyLite
 HOST-SUFFIX,communitychoicecu.com,ProxyLite
 HOST-SUFFIX,como-hackearfacebook.com,ProxyLite
 HOST-SUFFIX,comodo.com,ProxyLite
+HOST-SUFFIX,comodo.net,ProxyLite
 HOST-SUFFIX,comodoca.com,ProxyLite
 HOST-SUFFIX,comodoca2.com,ProxyLite
 HOST-SUFFIX,comodoca3.com,ProxyLite
@@ -8559,6 +8563,7 @@ HOST-SUFFIX,digg.com,ProxyLite
 HOST-SUFFIX,diggingtunnels.com,ProxyLite
 HOST-SUFFIX,digi-ateljee.be,ProxyLite
 HOST-SUFFIX,digibet.com,ProxyLite
+HOST-SUFFIX,digicert-cn.com,ProxyLite
 HOST-SUFFIX,digiland.tw,ProxyLite
 HOST-SUFFIX,digisfera.com,ProxyLite
 HOST-SUFFIX,digital-id.ch,ProxyLite
@@ -19665,6 +19670,7 @@ HOST-SUFFIX,packages.kognito.com,ProxyLite
 HOST-SUFFIX,packagist.org,ProxyLite
 HOST-SUFFIX,packer.io,ProxyLite
 HOST-SUFFIX,packetix.net,ProxyLite
+HOST-SUFFIX,pacloudflare.com,ProxyLite
 HOST-SUFFIX,pacopacomama.com,ProxyLite
 HOST-SUFFIX,pacspace.com,ProxyLite
 HOST-SUFFIX,paddle.com,ProxyLite
@@ -20478,6 +20484,7 @@ HOST-SUFFIX,pornpussy.com,ProxyLite
 HOST-SUFFIX,pornrabbit.com,ProxyLite
 HOST-SUFFIX,pornradise.com,ProxyLite
 HOST-SUFFIX,pornrapidshare.com,ProxyLite
+HOST-SUFFIX,pornrips.cc,ProxyLite
 HOST-SUFFIX,pornsake.com,ProxyLite
 HOST-SUFFIX,pornscum.com,ProxyLite
 HOST-SUFFIX,pornsharing.com,ProxyLite
@@ -23625,6 +23632,7 @@ HOST-SUFFIX,taiwantp.net,ProxyLite
 HOST-SUFFIX,taiwantt.org.tw,ProxyLite
 HOST-SUFFIX,taiwanus.net,ProxyLite
 HOST-SUFFIX,taiwanyes.com,ProxyLite
+HOST-SUFFIX,take2games.com,ProxyLite
 HOST-SUFFIX,takeafile.com,ProxyLite
 HOST-SUFFIX,takegoto.com,ProxyLite
 HOST-SUFFIX,takemehome.com.au,ProxyLite
@@ -24008,6 +24016,7 @@ HOST-SUFFIX,thenation.com,ProxyLite
 HOST-SUFFIX,thenational.scot,ProxyLite
 HOST-SUFFIX,thenationalpulse.com,ProxyLite
 HOST-SUFFIX,thenewamerican.com,ProxyLite
+HOST-SUFFIX,thenewgirlspooping.com,ProxyLite
 HOST-SUFFIX,thenewgrace.org,ProxyLite
 HOST-SUFFIX,thenewslens.com,ProxyLite
 HOST-SUFFIX,thenextweb.com,ProxyLite

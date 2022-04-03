@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 22:37:36
-# DOMAIN-SUFFIX: 32573
+# UPDATED: 2022-04-03 10:56:28
+# DOMAIN-SUFFIX: 32582
 # USER-AGENT: 5
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 32738
+# TOTAL: 32747
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -940,6 +940,9 @@ www-cdn.icloud.com.akadns.net
 .2dway.com
 .2femdom.com
 .2gw.publichealthonline.gwu.edu
+.2k.com
+.2kcoretech.online
+.2kgames.com
 .2l387.cc
 .2lib.org
 .2lipstube.com
@@ -7617,6 +7620,7 @@ www-cdn.icloud.com.akadns.net
 .communitychoicecu.com
 .como-hackearfacebook.com
 .comodo.com
+.comodo.net
 .comodoca.com
 .comodoca2.com
 .comodoca3.com
@@ -8559,6 +8563,7 @@ www-cdn.icloud.com.akadns.net
 .diggingtunnels.com
 .digi-ateljee.be
 .digibet.com
+.digicert-cn.com
 .digiland.tw
 .digisfera.com
 .digital-id.ch
@@ -19665,6 +19670,7 @@ www-cdn.icloud.com.akadns.net
 .packagist.org
 .packer.io
 .packetix.net
+.pacloudflare.com
 .pacopacomama.com
 .pacspace.com
 .paddle.com
@@ -20478,6 +20484,7 @@ www-cdn.icloud.com.akadns.net
 .pornrabbit.com
 .pornradise.com
 .pornrapidshare.com
+.pornrips.cc
 .pornsake.com
 .pornscum.com
 .pornsharing.com
@@ -23625,6 +23632,7 @@ www-cdn.icloud.com.akadns.net
 .taiwantt.org.tw
 .taiwanus.net
 .taiwanyes.com
+.take2games.com
 .takeafile.com
 .takegoto.com
 .takemehome.com.au
@@ -24008,6 +24016,7 @@ www-cdn.icloud.com.akadns.net
 .thenational.scot
 .thenationalpulse.com
 .thenewamerican.com
+.thenewgirlspooping.com
 .thenewgrace.org
 .thenewslens.com
 .thenextweb.com

@@ -19,19 +19,19 @@
 
 ## 规则统计
 
-总计规则：84302 条。
+总计规则：81870 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| DOMAIN-SUFFIX | 71481 |
+| DOMAIN-SUFFIX | 71412 |
 | PROCESS-NAME | 5 |
-| DOMAIN | 79 |
-| IP-CIDR | 6183 |
-| DOMAIN-KEYWORD | 14 |
-| IP-CIDR6 | 6478 |
+| DOMAIN | 84 |
+| IP-CIDR | 6141 |
+| DOMAIN-KEYWORD | 15 |
+| IP-CIDR6 | 4151 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -501,7 +501,6 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 
 如果你正在使用这些复写规则，建议不要与本项目的国内网站/IP合集复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/4399.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
@@ -529,6 +528,7 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Podcast/Himalaya.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/iQIYI.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
