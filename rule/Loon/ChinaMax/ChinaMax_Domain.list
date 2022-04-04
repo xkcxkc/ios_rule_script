@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:30
+# UPDATED: 2022-04-05 02:13:01
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71412
+# DOMAIN-SUFFIX: 71420
 # DOMAIN: 84
 # IP-CIDR: 6141
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4151
-# TOTAL: 81865
+# TOTAL: 81873
 265.com
 adservice.google.com
 analytics.strava.com
@@ -3678,6 +3678,7 @@ www4-static.gog-statics.com
 .3gus.com
 .3h3.com
 .3haow.com
+.3incloud.com
 .3j4.com
 .3jdh.com
 .3jidi.com
@@ -10397,7 +10398,6 @@ www4-static.gog-statics.com
 .avnpc.com
 .avoscloud.com
 .avq360.com
-.avqrw.com
 .avrvi.com
 .avrw.com
 .avtechcn.com
@@ -12838,7 +12838,6 @@ www4-static.gog-statics.com
 .boluo.com
 .boluo.link
 .boluo.org
-.boluo1122.com
 .boluogouwu.com
 .boluomee.com
 .boluomeet.com
@@ -13721,6 +13720,7 @@ www4-static.gog-statics.com
 .caispace.com
 .caistv.com
 .cait.com
+.caitlinbeverly.com
 .caitun.com
 .caiu8.com
 .caiweiming.com
@@ -13938,6 +13938,7 @@ www4-static.gog-statics.com
 .catguo.com
 .cathayagroup.com
 .cathayfund.com
+.catherinebeverly.com
 .catjc.com
 .cato-travel.com
 .cattsoft.com
@@ -15609,7 +15610,6 @@ www4-static.gog-statics.com
 .chinagb.net
 .chinagb.org
 .chinagba.com
-.chinagcd.com
 .chinagcp.org
 .chinagdg.com
 .chinagiftsfair.com
@@ -18249,8 +18249,6 @@ www4-static.gog-statics.com
 .crazyflasher.com
 .crazyphper.com
 .crazypm.com
-.crbbav.com
-.crbbpp.com
 .crbeverage.com
 .crc.com.hk
 .crc.hk
@@ -20933,6 +20931,7 @@ www4-static.gog-statics.com
 .doido.com
 .doit.am
 .doitim.com
+.doiua.com
 .doki8.com
 .doko.com
 .dolanzz.com
@@ -22773,7 +22772,6 @@ www4-static.gog-statics.com
 .enamourmall.com
 .enbowang.com
 .enbrands.com
-.enci-world.com
 .enec.net
 .enelcn.com
 .enen6.com
@@ -24200,6 +24198,7 @@ www4-static.gog-statics.com
 .fghi34.com
 .fgidna.com
 .fgkj.cc
+.fgo-teamup.com
 .fgo.wiki
 .fgowiki.com
 .fgvisa.net
@@ -31697,6 +31696,7 @@ www4-static.gog-statics.com
 .hzsgjj.com
 .hzshudian.com
 .hzstad88.com
+.hzsxn.com
 .hzti.com
 .hztosz.com
 .hztraining.com
@@ -35471,6 +35471,7 @@ www4-static.gog-statics.com
 .jjapk.com
 .jjb-static.com
 .jjbang.com
+.jjbangbang.com
 .jjbank.net
 .jjbbs.com
 .jjbhn.com
@@ -40626,6 +40627,7 @@ www4-static.gog-statics.com
 .lty.fun
 .ltzsjt.com
 .lu.com
+.lu18.com
 .lu35.com
 .lu4n.com
 .lua.ren
@@ -48009,6 +48011,7 @@ www4-static.gog-statics.com
 .qhdjcbj.com
 .qhdlcdn.com
 .qhdnews.com
+.qhdok.com
 .qhdren.com
 .qhea.com
 .qhee-ma.com
@@ -51775,6 +51778,7 @@ www4-static.gog-statics.com
 .shangshi360.com
 .shangshici.com
 .shangshu.cc
+.shangshuyixue.com
 .shangtao.net
 .shangtao360.com
 .shangtianapp.com
@@ -58068,6 +58072,7 @@ www4-static.gog-statics.com
 .tz1288.com
 .tz1980.com
 .tz8.com
+.tz887.com
 .tz911.com
 .tzbank.com
 .tzbank.net
@@ -67576,6 +67581,7 @@ www4-static.gog-statics.com
 .ys168.com
 .ys1688.cc
 .ys2345.com
+.ys4fun.com
 .ys666888.com
 .ys7.com
 .ys720.com
@@ -68596,6 +68602,7 @@ www4-static.gog-statics.com
 .z12345.com
 .z211.top
 .z211.vip
+.z28j.com
 .z2sci.com
 .z3.cn
 .z3145x0367.com
@@ -68717,7 +68724,6 @@ www4-static.gog-statics.com
 .zbai.net
 .zbapk.com
 .zbbar.net
-.zbcrw.com
 .zbfilm.com
 .zbfjsj.com
 .zbgedu.com
@@ -71031,6 +71037,7 @@ www4-static.gog-statics.com
 .ztww.net
 .ztxz.cc
 .ztzy.com
+.zu1k.com
 .zuan-cheng.com
 .zuanbi8.com
 .zuanchuang.org
@@ -71080,6 +71087,7 @@ www4-static.gog-statics.com
 .zuiidea.com
 .zuijiao.net
 .zuijunshi.com
+.zuik.ren
 .zuikc.com
 .zuiku.com
 .zuikzy.com

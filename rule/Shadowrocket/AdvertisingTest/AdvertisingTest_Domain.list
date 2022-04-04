@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:33
+# UPDATED: 2022-04-05 02:13:04
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45296
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 89876
+# DOMAIN-SUFFIX: 89897
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 135814
+# TOTAL: 135835
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -46006,6 +46006,7 @@ zzzrtrcm2.com
 .1e310acae6aee.com
 .1e546a4cc5.com
 .1ea1sley.com
+.1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz
 .1empiredirect.com
 .1ex4oemg99mv.com
 .1f3k.com
@@ -47093,6 +47094,7 @@ zzzrtrcm2.com
 .51yes.com
 .51yhzp.com
 .51yusi.xyz
+.51yw.club
 .51zdwy.cn
 .51zhanzhuang.cn
 .51zrtx.com
@@ -64346,6 +64348,7 @@ zzzrtrcm2.com
 .cirochimi.com
 .cishantao.com
 .cisheeng.com
+.cistusbram.website
 .ciszhp.finanzfrage.net
 .ciszhp.gesundheitsfrage.net
 .ciszhp.gutefrage.net
@@ -68610,6 +68613,7 @@ zzzrtrcm2.com
 .d3zr5ye.cn
 .d4.sina.com.cn
 .d4.sinaimg.cn
+.d40.xyz
 .d41.co
 .d4624d2bc2.com
 .d4a77d8bc81ae17.com
@@ -70751,6 +70755,7 @@ zzzrtrcm2.com
 .dle-news.pw
 .dleke.com
 .dlesjf.jutarnji.hr
+.dlevpmd.cn
 .dlfclcey.com
 .dlfja.gdn
 .dlfvgndsdfsn.com
@@ -78778,6 +78783,7 @@ zzzrtrcm2.com
 .ggouh.com
 .ggr.yxdown.com
 .ggregardtrad.club
+.ggrywyonmyvh.com
 .ggs.myzaker.com
 .ggsafe.com
 .ggsaffiliates.com
@@ -79715,6 +79721,7 @@ zzzrtrcm2.com
 .goupaoerdai.com
 .gourmetadoonce.com
 .gourmetads.com
+.gousouse.com
 .goutee.top
 .goutong.baidu.com
 .gouweida.cn
@@ -79750,6 +79757,7 @@ zzzrtrcm2.com
 .govmetric.com
 .govowhaca.com
 .govqingdao.cn
+.govshangxi.cn
 .govshanxi.cn
 .govshenzhen.cn
 .govxian.cn
@@ -86535,6 +86543,7 @@ zzzrtrcm2.com
 .jnkqds.cn
 .jnm.o41qed.cn
 .jnmqym4.cn
+.jnqiangzhi.xyz
 .jnrsjm.com
 .jnrtavp2x66u.com
 .jnsdkjzs.com
@@ -87773,6 +87782,7 @@ zzzrtrcm2.com
 .kgdvs9ov3l2aasw4nuts.com
 .kgfnhf.cn
 .kgftlnvgql.com
+.kgho.info
 .kglmcsivtqcbj.com
 .kglmkkejuu.com
 .kgmobilestat.kugou.com
@@ -99865,6 +99875,7 @@ zzzrtrcm2.com
 .nxakpj4ac8gkd53.info
 .nxcount.com
 .nxcxithvcoeh.com
+.nxdfg.xyz
 .nxh2h.cn
 .nxkycx.com
 .nxnszu.ettoday.net
@@ -100632,6 +100643,7 @@ zzzrtrcm2.com
 .old.legacy.tester.controller.net.zooplus.com
 .oldapi.admins.net.zooplus.de
 .oldapi.login.net.zooplus.de
+.oldart.shop
 .olderdiverge.com
 .oldership.com
 .oldeststrickenambulance.com
@@ -105079,6 +105091,7 @@ zzzrtrcm2.com
 .prepenseprepensedefiance.com
 .preqoaojsdgmmc.xyz
 .prerollads.ign.com
+.preroot.xyz
 .presage.io
 .presatisfy.com
 .presbanise.pw
@@ -107112,6 +107125,7 @@ zzzrtrcm2.com
 .qss-client.qq.com
 .qsstats.com
 .qstore.inner.api.sj.360.cn
+.qstukqmsddqgs.com
 .qswotrk.com
 .qt.biqugezw.com
 .qt54a.cn
@@ -107370,6 +107384,7 @@ zzzrtrcm2.com
 .qyjzleh.cn
 .qymjpg.star-tex.ru
 .qyqc4s.com
+.qyshbf.ltd
 .qysknb.fukuishimbun.co.jp
 .qysyyg.com
 .qytkjsz.com
@@ -109169,6 +109184,7 @@ zzzrtrcm2.com
 .rkft2sdl8b.ru
 .rkllcrwtftx.com
 .rkoepfotesi.com
+.rkohksa.cn
 .rkomf.com
 .rkpecade.com
 .rktch.com
@@ -121157,6 +121173,7 @@ zzzrtrcm2.com
 .theclickers.net
 .thecoffeeilove.com
 .thecounter.com
+.thecred.info
 .thedatesafe.com
 .thederati.com
 .theeburs.com
@@ -130026,6 +130043,7 @@ zzzrtrcm2.com
 .wlmarketing.com
 .wlmhdk.cn
 .wlnrofikppw.xyz
+.wlog.tmon.co.kr
 .wlptux.habitaclia.com
 .wlshotel.cn
 .wltqfaeeiexixp.com
@@ -132733,6 +132751,7 @@ zzzrtrcm2.com
 .yangot.com
 .yangtingchina.com
 .yangtzeev.com
+.yanguomedia.top
 .yangzhenpeng.top
 .yangzheqing.cn
 .yangzxsh.top
@@ -133688,6 +133707,7 @@ zzzrtrcm2.com
 .yt-adv.bn.netease.com
 .yt.5.p2l.info
 .ytapi1.nagezan.net
+.ytb2017.club
 .ytbctyy.com
 .ytbnfd.fandeco.ru
 .ytbnm.cn
@@ -133959,6 +133979,7 @@ zzzrtrcm2.com
 .yypsuo.doctor-navi.jp
 .yyshow.top
 .yyslate.com
+.yystzl.cn
 .yysvzaodorhv.com
 .yyuin.com
 .yyy6999.com

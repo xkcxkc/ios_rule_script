@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:31
+# UPDATED: 2022-04-05 02:13:02
 # DOMAIN: 46047
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 76904
+# DOMAIN-SUFFIX: 76921
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 123292
+# TOTAL: 123309
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -46694,6 +46694,7 @@ payload:
   - DOMAIN-SUFFIX,1e310acae6aee.com
   - DOMAIN-SUFFIX,1e546a4cc5.com
   - DOMAIN-SUFFIX,1ea1sley.com
+  - DOMAIN-SUFFIX,1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz
   - DOMAIN-SUFFIX,1empiredirect.com
   - DOMAIN-SUFFIX,1ex4oemg99mv.com
   - DOMAIN-SUFFIX,1f3k.com
@@ -62657,6 +62658,7 @@ payload:
   - DOMAIN-SUFFIX,ciridola.com
   - DOMAIN-SUFFIX,cishantao.com
   - DOMAIN-SUFFIX,cisheeng.com
+  - DOMAIN-SUFFIX,cistusbram.website
   - DOMAIN-SUFFIX,ciszhp.finanzfrage.net
   - DOMAIN-SUFFIX,ciszhp.gesundheitsfrage.net
   - DOMAIN-SUFFIX,ciszhp.gutefrage.net
@@ -66340,6 +66342,7 @@ payload:
   - DOMAIN-SUFFIX,d3zr5ye.cn
   - DOMAIN-SUFFIX,d4.sina.com.cn
   - DOMAIN-SUFFIX,d4.sinaimg.cn
+  - DOMAIN-SUFFIX,d40.xyz
   - DOMAIN-SUFFIX,d41.co
   - DOMAIN-SUFFIX,d4624d2bc2.com
   - DOMAIN-SUFFIX,d4ax0r5detcsu.cloudfront.net
@@ -68102,6 +68105,7 @@ payload:
   - DOMAIN-SUFFIX,dle-news.pw
   - DOMAIN-SUFFIX,dleke.com
   - DOMAIN-SUFFIX,dlesjf.jutarnji.hr
+  - DOMAIN-SUFFIX,dlevpmd.cn
   - DOMAIN-SUFFIX,dlfja.gdn
   - DOMAIN-SUFFIX,dlfvgndsdfsn.com
   - DOMAIN-SUFFIX,dlhygj.com
@@ -75065,6 +75069,7 @@ payload:
   - DOMAIN-SUFFIX,ggmmqq.com
   - DOMAIN-SUFFIX,ggouh.com
   - DOMAIN-SUFFIX,ggr.yxdown.com
+  - DOMAIN-SUFFIX,ggrywyonmyvh.com
   - DOMAIN-SUFFIX,ggs.myzaker.com
   - DOMAIN-SUFFIX,ggsafe.com
   - DOMAIN-SUFFIX,ggsaffiliates.com
@@ -75863,6 +75868,7 @@ payload:
   - DOMAIN-SUFFIX,goupaoerdai.com
   - DOMAIN-SUFFIX,gourmetadoonce.com
   - DOMAIN-SUFFIX,gourmetads.com
+  - DOMAIN-SUFFIX,gousouse.com
   - DOMAIN-SUFFIX,goutee.top
   - DOMAIN-SUFFIX,goutong.baidu.com
   - DOMAIN-SUFFIX,gouweida.cn
@@ -75892,6 +75898,7 @@ payload:
   - DOMAIN-SUFFIX,govmetric.com
   - DOMAIN-SUFFIX,govowhaca.com
   - DOMAIN-SUFFIX,govqingdao.cn
+  - DOMAIN-SUFFIX,govshangxi.cn
   - DOMAIN-SUFFIX,govshanxi.cn
   - DOMAIN-SUFFIX,govshenzhen.cn
   - DOMAIN-SUFFIX,govxian.cn
@@ -81804,6 +81811,7 @@ payload:
   - DOMAIN-SUFFIX,jnkqds.cn
   - DOMAIN-SUFFIX,jnm.o41qed.cn
   - DOMAIN-SUFFIX,jnmqym4.cn
+  - DOMAIN-SUFFIX,jnqiangzhi.xyz
   - DOMAIN-SUFFIX,jnrsjm.com
   - DOMAIN-SUFFIX,jnrtavp2x66u.com
   - DOMAIN-SUFFIX,jnsdkjzs.com
@@ -82926,6 +82934,7 @@ payload:
   - DOMAIN-SUFFIX,kgdvs9ov3l2aasw4nuts.com
   - DOMAIN-SUFFIX,kgfnhf.cn
   - DOMAIN-SUFFIX,kgftlnvgql.com
+  - DOMAIN-SUFFIX,kgho.info
   - DOMAIN-SUFFIX,kglmcsivtqcbj.com
   - DOMAIN-SUFFIX,kglmkkejuu.com
   - DOMAIN-SUFFIX,kgmobilestat.kugou.com
@@ -92870,6 +92879,7 @@ payload:
   - DOMAIN-SUFFIX,nxakpj4ac8gkd53.info
   - DOMAIN-SUFFIX,nxcount.com
   - DOMAIN-SUFFIX,nxcxithvcoeh.com
+  - DOMAIN-SUFFIX,nxdfg.xyz
   - DOMAIN-SUFFIX,nxh2h.cn
   - DOMAIN-SUFFIX,nxkycx.com
   - DOMAIN-SUFFIX,nxnszu.ettoday.net
@@ -93565,6 +93575,7 @@ payload:
   - DOMAIN-SUFFIX,old.legacy.tester.controller.net.zooplus.com
   - DOMAIN-SUFFIX,oldapi.admins.net.zooplus.de
   - DOMAIN-SUFFIX,oldapi.login.net.zooplus.de
+  - DOMAIN-SUFFIX,oldart.shop
   - DOMAIN-SUFFIX,olderdiverge.com
   - DOMAIN-SUFFIX,oldership.com
   - DOMAIN-SUFFIX,oldeststrickenambulance.com
@@ -97387,6 +97398,7 @@ payload:
   - DOMAIN-SUFFIX,prepenseprepensedefiance.com
   - DOMAIN-SUFFIX,preqoaojsdgmmc.xyz
   - DOMAIN-SUFFIX,prerollads.ign.com
+  - DOMAIN-SUFFIX,preroot.xyz
   - DOMAIN-SUFFIX,presage.io
   - DOMAIN-SUFFIX,presatisfy.com
   - DOMAIN-SUFFIX,presbanise.pw
@@ -99199,6 +99211,7 @@ payload:
   - DOMAIN-SUFFIX,qss-client.qq.com
   - DOMAIN-SUFFIX,qsstats.com
   - DOMAIN-SUFFIX,qstore.inner.api.sj.360.cn
+  - DOMAIN-SUFFIX,qstukqmsddqgs.com
   - DOMAIN-SUFFIX,qt.biqugezw.com
   - DOMAIN-SUFFIX,qt54a.cn
   - DOMAIN-SUFFIX,qtbb6.com
@@ -100988,6 +101001,7 @@ payload:
   - DOMAIN-SUFFIX,rkft2sdl8b.ru
   - DOMAIN-SUFFIX,rkllcrwtftx.com
   - DOMAIN-SUFFIX,rkoepfotesi.com
+  - DOMAIN-SUFFIX,rkohksa.cn
   - DOMAIN-SUFFIX,rkomf.com
   - DOMAIN-SUFFIX,rkpecade.com
   - DOMAIN-SUFFIX,rktch.com
@@ -110455,6 +110469,7 @@ payload:
   - DOMAIN-SUFFIX,theclickers.net
   - DOMAIN-SUFFIX,thecoffeeilove.com
   - DOMAIN-SUFFIX,thecounter.com
+  - DOMAIN-SUFFIX,thecred.info
   - DOMAIN-SUFFIX,thedatesafe.com
   - DOMAIN-SUFFIX,thederati.com
   - DOMAIN-SUFFIX,theeburs.com
@@ -120708,6 +120723,7 @@ payload:
   - DOMAIN-SUFFIX,yangot.com
   - DOMAIN-SUFFIX,yangtingchina.com
   - DOMAIN-SUFFIX,yangtzeev.com
+  - DOMAIN-SUFFIX,yanguomedia.top
   - DOMAIN-SUFFIX,yangzhenpeng.top
   - DOMAIN-SUFFIX,yangzheqing.cn
   - DOMAIN-SUFFIX,yangzxsh.top
@@ -121821,6 +121837,7 @@ payload:
   - DOMAIN-SUFFIX,yypd.top
   - DOMAIN-SUFFIX,yyshow.top
   - DOMAIN-SUFFIX,yyslate.com
+  - DOMAIN-SUFFIX,yystzl.cn
   - DOMAIN-SUFFIX,yysvzaodorhv.com
   - DOMAIN-SUFFIX,yyuin.com
   - DOMAIN-SUFFIX,yyy6999.com

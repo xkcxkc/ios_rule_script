@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:32
-# DOMAIN-SUFFIX: 71412
+# UPDATED: 2022-04-05 02:13:03
+# DOMAIN-SUFFIX: 71420
 # PROCESS-NAME: 5
 # DOMAIN: 84
 # IP-CIDR: 6141
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4151
-# TOTAL: 81808
+# TOTAL: 81816
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -3679,6 +3679,7 @@ payload:
   - DOMAIN-SUFFIX,3gus.com
   - DOMAIN-SUFFIX,3h3.com
   - DOMAIN-SUFFIX,3haow.com
+  - DOMAIN-SUFFIX,3incloud.com
   - DOMAIN-SUFFIX,3j4.com
   - DOMAIN-SUFFIX,3jdh.com
   - DOMAIN-SUFFIX,3jidi.com
@@ -10398,7 +10399,6 @@ payload:
   - DOMAIN-SUFFIX,avnpc.com
   - DOMAIN-SUFFIX,avoscloud.com
   - DOMAIN-SUFFIX,avq360.com
-  - DOMAIN-SUFFIX,avqrw.com
   - DOMAIN-SUFFIX,avrvi.com
   - DOMAIN-SUFFIX,avrw.com
   - DOMAIN-SUFFIX,avtechcn.com
@@ -12839,7 +12839,6 @@ payload:
   - DOMAIN-SUFFIX,boluo.com
   - DOMAIN-SUFFIX,boluo.link
   - DOMAIN-SUFFIX,boluo.org
-  - DOMAIN-SUFFIX,boluo1122.com
   - DOMAIN-SUFFIX,boluogouwu.com
   - DOMAIN-SUFFIX,boluomee.com
   - DOMAIN-SUFFIX,boluomeet.com
@@ -13722,6 +13721,7 @@ payload:
   - DOMAIN-SUFFIX,caispace.com
   - DOMAIN-SUFFIX,caistv.com
   - DOMAIN-SUFFIX,cait.com
+  - DOMAIN-SUFFIX,caitlinbeverly.com
   - DOMAIN-SUFFIX,caitun.com
   - DOMAIN-SUFFIX,caiu8.com
   - DOMAIN-SUFFIX,caiweiming.com
@@ -13939,6 +13939,7 @@ payload:
   - DOMAIN-SUFFIX,catguo.com
   - DOMAIN-SUFFIX,cathayagroup.com
   - DOMAIN-SUFFIX,cathayfund.com
+  - DOMAIN-SUFFIX,catherinebeverly.com
   - DOMAIN-SUFFIX,catjc.com
   - DOMAIN-SUFFIX,cato-travel.com
   - DOMAIN-SUFFIX,cattsoft.com
@@ -15610,7 +15611,6 @@ payload:
   - DOMAIN-SUFFIX,chinagb.net
   - DOMAIN-SUFFIX,chinagb.org
   - DOMAIN-SUFFIX,chinagba.com
-  - DOMAIN-SUFFIX,chinagcd.com
   - DOMAIN-SUFFIX,chinagcp.org
   - DOMAIN-SUFFIX,chinagdg.com
   - DOMAIN-SUFFIX,chinagiftsfair.com
@@ -18250,8 +18250,6 @@ payload:
   - DOMAIN-SUFFIX,crazyflasher.com
   - DOMAIN-SUFFIX,crazyphper.com
   - DOMAIN-SUFFIX,crazypm.com
-  - DOMAIN-SUFFIX,crbbav.com
-  - DOMAIN-SUFFIX,crbbpp.com
   - DOMAIN-SUFFIX,crbeverage.com
   - DOMAIN-SUFFIX,crc.com.hk
   - DOMAIN-SUFFIX,crc.hk
@@ -20934,6 +20932,7 @@ payload:
   - DOMAIN-SUFFIX,doido.com
   - DOMAIN-SUFFIX,doit.am
   - DOMAIN-SUFFIX,doitim.com
+  - DOMAIN-SUFFIX,doiua.com
   - DOMAIN-SUFFIX,doki8.com
   - DOMAIN-SUFFIX,doko.com
   - DOMAIN-SUFFIX,dolanzz.com
@@ -22774,7 +22773,6 @@ payload:
   - DOMAIN-SUFFIX,enamourmall.com
   - DOMAIN-SUFFIX,enbowang.com
   - DOMAIN-SUFFIX,enbrands.com
-  - DOMAIN-SUFFIX,enci-world.com
   - DOMAIN-SUFFIX,enec.net
   - DOMAIN-SUFFIX,enelcn.com
   - DOMAIN-SUFFIX,enen6.com
@@ -24201,6 +24199,7 @@ payload:
   - DOMAIN-SUFFIX,fghi34.com
   - DOMAIN-SUFFIX,fgidna.com
   - DOMAIN-SUFFIX,fgkj.cc
+  - DOMAIN-SUFFIX,fgo-teamup.com
   - DOMAIN-SUFFIX,fgo.wiki
   - DOMAIN-SUFFIX,fgowiki.com
   - DOMAIN-SUFFIX,fgvisa.net
@@ -31698,6 +31697,7 @@ payload:
   - DOMAIN-SUFFIX,hzsgjj.com
   - DOMAIN-SUFFIX,hzshudian.com
   - DOMAIN-SUFFIX,hzstad88.com
+  - DOMAIN-SUFFIX,hzsxn.com
   - DOMAIN-SUFFIX,hzti.com
   - DOMAIN-SUFFIX,hztosz.com
   - DOMAIN-SUFFIX,hztraining.com
@@ -35472,6 +35472,7 @@ payload:
   - DOMAIN-SUFFIX,jjapk.com
   - DOMAIN-SUFFIX,jjb-static.com
   - DOMAIN-SUFFIX,jjbang.com
+  - DOMAIN-SUFFIX,jjbangbang.com
   - DOMAIN-SUFFIX,jjbank.net
   - DOMAIN-SUFFIX,jjbbs.com
   - DOMAIN-SUFFIX,jjbhn.com
@@ -40627,6 +40628,7 @@ payload:
   - DOMAIN-SUFFIX,lty.fun
   - DOMAIN-SUFFIX,ltzsjt.com
   - DOMAIN-SUFFIX,lu.com
+  - DOMAIN-SUFFIX,lu18.com
   - DOMAIN-SUFFIX,lu35.com
   - DOMAIN-SUFFIX,lu4n.com
   - DOMAIN-SUFFIX,lua.ren
@@ -48010,6 +48012,7 @@ payload:
   - DOMAIN-SUFFIX,qhdjcbj.com
   - DOMAIN-SUFFIX,qhdlcdn.com
   - DOMAIN-SUFFIX,qhdnews.com
+  - DOMAIN-SUFFIX,qhdok.com
   - DOMAIN-SUFFIX,qhdren.com
   - DOMAIN-SUFFIX,qhea.com
   - DOMAIN-SUFFIX,qhee-ma.com
@@ -51776,6 +51779,7 @@ payload:
   - DOMAIN-SUFFIX,shangshi360.com
   - DOMAIN-SUFFIX,shangshici.com
   - DOMAIN-SUFFIX,shangshu.cc
+  - DOMAIN-SUFFIX,shangshuyixue.com
   - DOMAIN-SUFFIX,shangtao.net
   - DOMAIN-SUFFIX,shangtao360.com
   - DOMAIN-SUFFIX,shangtianapp.com
@@ -58069,6 +58073,7 @@ payload:
   - DOMAIN-SUFFIX,tz1288.com
   - DOMAIN-SUFFIX,tz1980.com
   - DOMAIN-SUFFIX,tz8.com
+  - DOMAIN-SUFFIX,tz887.com
   - DOMAIN-SUFFIX,tz911.com
   - DOMAIN-SUFFIX,tzbank.com
   - DOMAIN-SUFFIX,tzbank.net
@@ -67577,6 +67582,7 @@ payload:
   - DOMAIN-SUFFIX,ys168.com
   - DOMAIN-SUFFIX,ys1688.cc
   - DOMAIN-SUFFIX,ys2345.com
+  - DOMAIN-SUFFIX,ys4fun.com
   - DOMAIN-SUFFIX,ys666888.com
   - DOMAIN-SUFFIX,ys7.com
   - DOMAIN-SUFFIX,ys720.com
@@ -68597,6 +68603,7 @@ payload:
   - DOMAIN-SUFFIX,z12345.com
   - DOMAIN-SUFFIX,z211.top
   - DOMAIN-SUFFIX,z211.vip
+  - DOMAIN-SUFFIX,z28j.com
   - DOMAIN-SUFFIX,z2sci.com
   - DOMAIN-SUFFIX,z3.cn
   - DOMAIN-SUFFIX,z3145x0367.com
@@ -68718,7 +68725,6 @@ payload:
   - DOMAIN-SUFFIX,zbai.net
   - DOMAIN-SUFFIX,zbapk.com
   - DOMAIN-SUFFIX,zbbar.net
-  - DOMAIN-SUFFIX,zbcrw.com
   - DOMAIN-SUFFIX,zbfilm.com
   - DOMAIN-SUFFIX,zbfjsj.com
   - DOMAIN-SUFFIX,zbgedu.com
@@ -71032,6 +71038,7 @@ payload:
   - DOMAIN-SUFFIX,ztww.net
   - DOMAIN-SUFFIX,ztxz.cc
   - DOMAIN-SUFFIX,ztzy.com
+  - DOMAIN-SUFFIX,zu1k.com
   - DOMAIN-SUFFIX,zuan-cheng.com
   - DOMAIN-SUFFIX,zuanbi8.com
   - DOMAIN-SUFFIX,zuanchuang.org
@@ -71081,6 +71088,7 @@ payload:
   - DOMAIN-SUFFIX,zuiidea.com
   - DOMAIN-SUFFIX,zuijiao.net
   - DOMAIN-SUFFIX,zuijunshi.com
+  - DOMAIN-SUFFIX,zuik.ren
   - DOMAIN-SUFFIX,zuikc.com
   - DOMAIN-SUFFIX,zuiku.com
   - DOMAIN-SUFFIX,zuikzy.com

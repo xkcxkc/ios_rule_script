@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-03 10:56:30
+# UPDATED: 2022-04-05 02:13:01
 # DOMAIN: 46047
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 76904
+# DOMAIN-SUFFIX: 76921
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 123292
+# TOTAL: 123309
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -46694,6 +46694,7 @@ payload:
   - '+.1e310acae6aee.com'
   - '+.1e546a4cc5.com'
   - '+.1ea1sley.com'
+  - '+.1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz'
   - '+.1empiredirect.com'
   - '+.1ex4oemg99mv.com'
   - '+.1f3k.com'
@@ -62657,6 +62658,7 @@ payload:
   - '+.ciridola.com'
   - '+.cishantao.com'
   - '+.cisheeng.com'
+  - '+.cistusbram.website'
   - '+.ciszhp.finanzfrage.net'
   - '+.ciszhp.gesundheitsfrage.net'
   - '+.ciszhp.gutefrage.net'
@@ -66340,6 +66342,7 @@ payload:
   - '+.d3zr5ye.cn'
   - '+.d4.sina.com.cn'
   - '+.d4.sinaimg.cn'
+  - '+.d40.xyz'
   - '+.d41.co'
   - '+.d4624d2bc2.com'
   - '+.d4ax0r5detcsu.cloudfront.net'
@@ -68102,6 +68105,7 @@ payload:
   - '+.dle-news.pw'
   - '+.dleke.com'
   - '+.dlesjf.jutarnji.hr'
+  - '+.dlevpmd.cn'
   - '+.dlfja.gdn'
   - '+.dlfvgndsdfsn.com'
   - '+.dlhygj.com'
@@ -75065,6 +75069,7 @@ payload:
   - '+.ggmmqq.com'
   - '+.ggouh.com'
   - '+.ggr.yxdown.com'
+  - '+.ggrywyonmyvh.com'
   - '+.ggs.myzaker.com'
   - '+.ggsafe.com'
   - '+.ggsaffiliates.com'
@@ -75863,6 +75868,7 @@ payload:
   - '+.goupaoerdai.com'
   - '+.gourmetadoonce.com'
   - '+.gourmetads.com'
+  - '+.gousouse.com'
   - '+.goutee.top'
   - '+.goutong.baidu.com'
   - '+.gouweida.cn'
@@ -75892,6 +75898,7 @@ payload:
   - '+.govmetric.com'
   - '+.govowhaca.com'
   - '+.govqingdao.cn'
+  - '+.govshangxi.cn'
   - '+.govshanxi.cn'
   - '+.govshenzhen.cn'
   - '+.govxian.cn'
@@ -81804,6 +81811,7 @@ payload:
   - '+.jnkqds.cn'
   - '+.jnm.o41qed.cn'
   - '+.jnmqym4.cn'
+  - '+.jnqiangzhi.xyz'
   - '+.jnrsjm.com'
   - '+.jnrtavp2x66u.com'
   - '+.jnsdkjzs.com'
@@ -82926,6 +82934,7 @@ payload:
   - '+.kgdvs9ov3l2aasw4nuts.com'
   - '+.kgfnhf.cn'
   - '+.kgftlnvgql.com'
+  - '+.kgho.info'
   - '+.kglmcsivtqcbj.com'
   - '+.kglmkkejuu.com'
   - '+.kgmobilestat.kugou.com'
@@ -92870,6 +92879,7 @@ payload:
   - '+.nxakpj4ac8gkd53.info'
   - '+.nxcount.com'
   - '+.nxcxithvcoeh.com'
+  - '+.nxdfg.xyz'
   - '+.nxh2h.cn'
   - '+.nxkycx.com'
   - '+.nxnszu.ettoday.net'
@@ -93565,6 +93575,7 @@ payload:
   - '+.old.legacy.tester.controller.net.zooplus.com'
   - '+.oldapi.admins.net.zooplus.de'
   - '+.oldapi.login.net.zooplus.de'
+  - '+.oldart.shop'
   - '+.olderdiverge.com'
   - '+.oldership.com'
   - '+.oldeststrickenambulance.com'
@@ -97387,6 +97398,7 @@ payload:
   - '+.prepenseprepensedefiance.com'
   - '+.preqoaojsdgmmc.xyz'
   - '+.prerollads.ign.com'
+  - '+.preroot.xyz'
   - '+.presage.io'
   - '+.presatisfy.com'
   - '+.presbanise.pw'
@@ -99199,6 +99211,7 @@ payload:
   - '+.qss-client.qq.com'
   - '+.qsstats.com'
   - '+.qstore.inner.api.sj.360.cn'
+  - '+.qstukqmsddqgs.com'
   - '+.qt.biqugezw.com'
   - '+.qt54a.cn'
   - '+.qtbb6.com'
@@ -100988,6 +101001,7 @@ payload:
   - '+.rkft2sdl8b.ru'
   - '+.rkllcrwtftx.com'
   - '+.rkoepfotesi.com'
+  - '+.rkohksa.cn'
   - '+.rkomf.com'
   - '+.rkpecade.com'
   - '+.rktch.com'
@@ -110455,6 +110469,7 @@ payload:
   - '+.theclickers.net'
   - '+.thecoffeeilove.com'
   - '+.thecounter.com'
+  - '+.thecred.info'
   - '+.thedatesafe.com'
   - '+.thederati.com'
   - '+.theeburs.com'
@@ -120708,6 +120723,7 @@ payload:
   - '+.yangot.com'
   - '+.yangtingchina.com'
   - '+.yangtzeev.com'
+  - '+.yanguomedia.top'
   - '+.yangzhenpeng.top'
   - '+.yangzheqing.cn'
   - '+.yangzxsh.top'
@@ -121821,6 +121837,7 @@ payload:
   - '+.yypd.top'
   - '+.yyshow.top'
   - '+.yyslate.com'
+  - '+.yystzl.cn'
   - '+.yysvzaodorhv.com'
   - '+.yyuin.com'
   - '+.yyy6999.com'
