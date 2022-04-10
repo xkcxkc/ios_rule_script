@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-10 02:11:29
+# UPDATED: 2022-04-11 02:12:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45301
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90412
+# DOMAIN-SUFFIX: 90440
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 136356
+# TOTAL: 136384
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -51853,6 +51853,7 @@ zzzrtrcm2.com
 .adquality.ch
 .adquan.com
 .adquantix.com
+.adquery.io
 .adquest3d.com
 .adquota.com
 .adqy6rzwcs.com
@@ -56327,6 +56328,7 @@ zzzrtrcm2.com
 .ant.conversive.nl
 .ant.prefinery.com
 .antaciddjebel.com
+.antalithate.website
 .antananarbdivu.com
 .antaraimedia.com
 .antbadani.club
@@ -57439,6 +57441,7 @@ zzzrtrcm2.com
 .aseadnet.com
 .asearch.alicdn.com
 .asecw.xyz
+.asemskull.com
 .asennessterfter.mobi
 .asepurch.pro
 .aserv.motorsgate.com
@@ -58304,6 +58307,7 @@ zzzrtrcm2.com
 .ayabreya.xyz
 .ayads.co
 .ayahtyros.com
+.ayahucapasso.website
 .ayandns.com
 .ayazsth.cn
 .aybe.me
@@ -60244,6 +60248,7 @@ zzzrtrcm2.com
 .bfgg365.com
 .bfgvqx.com
 .bfhxivpij.com
+.bfjl.ink
 .bfjpbw.herrenausstatter.de
 .bfmio.com
 .bfoleyinteractive.com
@@ -60795,6 +60800,7 @@ zzzrtrcm2.com
 .blaick.com
 .blaindgatum.com
 .blamads.com
+.blamedbuckie.fun
 .blammo.onrpg.com
 .blamper-news.ru
 .blamper-novosti.ru
@@ -63390,7 +63396,6 @@ zzzrtrcm2.com
 .cdn.clinch.co
 .cdn.comedia.coccoc.com
 .cdn.constafun.com
-.cdn.convertbox.com
 .cdn.cpiera.com
 .cdn.danmu.56.com
 .cdn.ddmanager.ru
@@ -63719,6 +63724,7 @@ zzzrtrcm2.com
 .cerceipremon.com
 .cerdmann.com
 .cerebral.typn.com
+.cerebrifetors.com
 .cerec.cereconline.com
 .ceregete.com
 .cerizoug.net
@@ -66513,6 +66519,7 @@ zzzrtrcm2.com
 .conversions.genieventures.co.uk
 .conversionsbox.com
 .conversityz.club
+.convertbox.com
 .convertcart.com
 .convertexperiments.com
 .convertexperiments.com.edgekey.net
@@ -68031,6 +68038,7 @@ zzzrtrcm2.com
 .cyjaruvndimgaa.com
 .cykynethe.com
 .cylinderlongcheng.com
+.cylize.com
 .cymaisefacsim.com
 .cymetaphy.xyz
 .cymichaire.club
@@ -68755,6 +68763,7 @@ zzzrtrcm2.com
 .d870bc20cc.com
 .d87c82a1da.com
 .d8885.com
+.d8962a.xyz
 .d899.webazilla.com
 .d8acddffe978b5dfcae6.date
 .d8af4fb8c1.com
@@ -81130,6 +81139,7 @@ zzzrtrcm2.com
 .haymarketstat.de
 .haypaydig.club
 .hazardguiltconsulting.com
+.hazardousschooloutcry.com
 .hazelnutshighs.com
 .hazy4cant.com
 .hb-247.com
@@ -81936,6 +81946,7 @@ zzzrtrcm2.com
 .hittail.com
 .hitter.ru
 .hittracker.com
+.hitugou.com
 .hitvhost.co
 .hitwake.com
 .hitweb.chosun.com
@@ -82244,6 +82255,7 @@ zzzrtrcm2.com
 .homicidearousedhand.com
 .homify.com.mx
 .homrus.net
+.homuradu.com
 .honcode.ch
 .hondajd.cn
 .hondasamulla.com
@@ -88762,6 +88774,7 @@ zzzrtrcm2.com
 .kuhou.com
 .kujrsivgg.com
 .kuk8.com
+.kukanlm-youeryuan.com
 .kuku99.com
 .kukulm.com
 .kukury2hf8nd09.com
@@ -89547,6 +89560,7 @@ zzzrtrcm2.com
 .ledraumt.com
 .ledsitling.pro
 .ledslevier.com
+.lee2code.com
 .lee789.com
 .leech.fuchsegg.at
 .leech.privacycloud.com
@@ -93880,6 +93894,7 @@ zzzrtrcm2.com
 .mauchopt.net
 .maudau.com
 .maudawhy.com
+.mauptaub.com
 .mauringer.club
 .maus77.ru
 .maustiwy.net
@@ -105656,7 +105671,6 @@ zzzrtrcm2.com
 .productsup.com
 .producttestpanel.com
 .prodwaves.pro
-.prodxnews1blob.blob.core.windows.net
 .proeminez.xyz
 .proeroclips.pro
 .proext.com
@@ -107210,6 +107224,7 @@ zzzrtrcm2.com
 .qinmon.xyz
 .qinongyouxuan.cn
 .qinqiaotrade.com
+.qintingapp.com
 .qinvaris.com
 .qinzhihao.com
 .qinzigenjudi.com
@@ -107324,6 +107339,7 @@ zzzrtrcm2.com
 .qmlzcm.petshop.ru
 .qmmmiyyxuceyt.xyz
 .qmname.com
+.qmnemxade.com
 .qmnyjs7jd1jp.com
 .qmoyfh.xcite.com.sa
 .qmpartner.vip
@@ -108354,6 +108370,7 @@ zzzrtrcm2.com
 .recallysugg.club
 .recapture.io
 .recastcompellease.com
+.recdirectgo.biz
 .receiptfastestparameter.com
 .receitasefinancas.com
 .receiver.eigene.io
@@ -108770,6 +108787,7 @@ zzzrtrcm2.com
 .relatedweboffers.com
 .relaxingovercomeexaggerate.com
 .relaxspace.com.cn
+.relaxtime24.biz
 .relay.fiverr.com
 .relead.com
 .release-me.ru
@@ -112231,6 +112249,7 @@ zzzrtrcm2.com
 .seducehandbookspecific.com
 .seductionprofits.com
 .see-back.com
+.see-what-is-trending.com
 .see-work.info
 .see.valimail.com
 .seeawhale.com
@@ -116276,6 +116295,7 @@ zzzrtrcm2.com
 .songcan.me
 .songlongtech.com
 .songrfid.com
+.songshijiazu.cn
 .songssmoke.com
 .sonlessmagmata.com
 .sonnerie.net
@@ -121968,6 +121988,7 @@ zzzrtrcm2.com
 .tianshilv.cn
 .tianshu-x.gtimg.cn
 .tianshu.gtimg.cn
+.tiantai.ink
 .tiantiansoft.com
 .tiantianwl.cn
 .tiantianyinyue.cn
@@ -122887,6 +122908,7 @@ zzzrtrcm2.com
 .tothisimpo.biz
 .totifiquo.com
 .totlnkbn.com
+.totlnkcl.com
 .totoc.top
 .totogetica.com
 .totoh.top
@@ -124858,6 +124880,7 @@ zzzrtrcm2.com
 .trcko.com
 .trckr.nordiskemedier.dk
 .trcksrvrs.com
+.trdnewsnow.net
 .trdyx.cn
 .treacherousaccentbruise.com
 .treacherouslongingjunkie.com
@@ -126906,6 +126929,7 @@ zzzrtrcm2.com
 .uscnvdcxttnh.com
 .uscpn0c485wn.com
 .usdbbx.mmartan.com.br
+.usdownload.widost.com
 .useads.com
 .usebutton.com
 .useconoming.club
@@ -128183,6 +128207,7 @@ zzzrtrcm2.com
 .visitor-analytics.io
 .visitor-analytics.net
 .visitor-metrics.com
+.visitor-microservice.ext.p-a.im
 .visitor-stats.de
 .visitor-track.com
 .visitor.arabiancentres.com
@@ -129073,6 +129098,7 @@ zzzrtrcm2.com
 .wangxuan.pw
 .wangyao.pro
 .wangyasen.link
+.wangye.icu
 .wangyeshij.top
 .wangyh.icu
 .wangyouxs.cn
@@ -132267,6 +132293,7 @@ zzzrtrcm2.com
 .xhnt.snqrk.cn
 .xhpbxqhito.com
 .xhpqpq.cn
+.xhr0.xyz
 .xhrplq.rolf-probeg.ru
 .xhrxb.com
 .xhrxmbqixobk.com
@@ -134355,6 +134382,7 @@ zzzrtrcm2.com
 .yuqhtlry.xyz
 .yuqi7.top
 .yuqnibpyn.com
+.yuquad.com
 .yuriaftereleven.com
 .yuriassignmentmall.com
 .yurivideo.com
