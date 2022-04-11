@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-11 02:12:23
+# UPDATED: 2022-04-12 02:13:06
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45301
+# DOMAIN: 45297
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90440
+# DOMAIN-SUFFIX: 90474
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 136384
+# TOTAL: 136414
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1169,7 +1169,6 @@ aagmbroxruno.com
 aahfcroigwso.com
 aaitudxr.com
 aakashgangarealtors.com
-aalbbh84.info
 aallycspkdf.com
 aamar106fm.com
 aamejtdlmk.com
@@ -9688,7 +9687,6 @@ crylukzsthjz.com
 crypto-coins-now.com
 crypto-elon.com
 cryptoassetfunding.com
-cryptocoinabout.com
 cryptoinsidenews.com
 cryptokitties.com
 cryptopiia-login.com
@@ -27382,7 +27380,6 @@ nishagopal.com
 nishkampolishsewakjatha.com
 nissan-datsunsolo.com
 nitrohacks.com
-nitsche.top
 nittlopp.online
 niuosnd.ru
 niusifan.com
@@ -44258,7 +44255,6 @@ yourhotgiftzone.com
 youripodnano4free.com
 youripodtouch4free.com
 yourlitetop.cn
-yourloganalytics.com
 yourlucky.top
 yourmediahq.com
 yournintendowii4free.com
@@ -45862,6 +45858,7 @@ zzzrtrcm2.com
 .14a3d6c4df.com
 .14nuzznszbdp.com
 .14vq.cn
+.150075.com
 .1503.net
 .1515788.net
 .151c1501b0fa.com
@@ -46706,6 +46703,7 @@ zzzrtrcm2.com
 .39330.bet
 .394b8b41ac5305d.com
 .395e27cfc83ea88f.com
+.396f4a512a.com
 .3975lm.com
 .397773.com
 .39785fe3f1.com
@@ -48321,6 +48319,7 @@ zzzrtrcm2.com
 .9ads.mobi
 .9ads.net
 .9ae7c9ffe8509b0.com
+.9af7e8a8cc.com
 .9amq5z4y1y.com
 .9b0v.cn
 .9bb6fa4987e.com
@@ -49281,6 +49280,7 @@ zzzrtrcm2.com
 .aakkzzz.com
 .aaktao.entel.cl
 .aakxxebotrofi.top
+.aalbbh84.info
 .aaliyaheartha.com
 .aam.gumtree.com.au
 .aamapi.com
@@ -54175,6 +54175,7 @@ zzzrtrcm2.com
 .afd.baidu.com
 .afd.l.google.com
 .afdads.com
+.afdjljiyagf.ru
 .afdyfxfrwbfy.com
 .afefw.com
 .afekiryj.xyz
@@ -56257,6 +56258,7 @@ zzzrtrcm2.com
 .aniview.com.edgekey.net
 .anizablevetor.pro
 .anizedglittledisco.info
+.ankexper.fun
 .ankieta-online.pl
 .ankingwit.one
 .anklandas.club
@@ -56540,7 +56542,6 @@ zzzrtrcm2.com
 .api.140proof.com
 .api.24kidea.com
 .api.557400.com
-.api.aalbbh84.info
 .api.abcxs.org
 .api.accengage.com
 .api.ad.xv555.com
@@ -57359,6 +57360,7 @@ zzzrtrcm2.com
 .as.bz-berlin.de
 .as.cf
 .as.cfcdist.loan
+.as.cfcnet.top
 .as.computerbild.de
 .as.ebalovo.adult
 .as.fitbook.de
@@ -57670,6 +57672,7 @@ zzzrtrcm2.com
 .astcarbinkom.com
 .astep.info
 .aster18cdn.nl
+.aster18prx.nl
 .asterilivestream.com
 .asteriresearch.com
 .asterpix.com
@@ -59376,6 +59379,7 @@ zzzrtrcm2.com
 .bb475d71fa0b1b2.com
 .bb4cf48126aab4.com
 .bbaahc.com
+.bbaannrr11.com
 .bbagnw.sedaily.com
 .bbba8.com
 .bbbazlp.cn
@@ -60213,7 +60217,6 @@ zzzrtrcm2.com
 .bewailindigestionunhappy.com
 .bewaslac.com
 .bewaycare.com
-.bewhoyouare.gq
 .bewilderedbattle.com
 .bewilderedblade.com
 .bexakezi.com
@@ -62670,6 +62673,7 @@ zzzrtrcm2.com
 .calfsbreedstax.com
 .caligula.pro
 .caliskankoylu.com
+.calistabeverly.com
 .caliyuna.cn
 .call-ad-network-api.marchex.com
 .call-tracking.by
@@ -62935,6 +62939,7 @@ zzzrtrcm2.com
 .carnegienet.net
 .carnol.cn
 .caroda.io
+.carolinebeverly.com
 .carotolbhavan.com
 .carp.getgift.me
 .carp.pbncontent.com
@@ -63789,7 +63794,6 @@ zzzrtrcm2.com
 .cfcloudcdn.com
 .cfcn.allocine.net
 .cfcnet.to
-.cfcnet.top
 .cfcs1.duckdns.org
 .cfdac.8g0ymk.cn
 .cfdanet.com
@@ -64190,6 +64194,7 @@ zzzrtrcm2.com
 .chioneflake.com
 .chip2gift.com
 .chipleader.com
+.chipmanksmochus.com
 .chipmunk.crestedbuttejobs.com
 .chipsleapt.com
 .chipsuziby.com
@@ -65658,6 +65663,7 @@ zzzrtrcm2.com
 .coinhits.com
 .coinhive-manager.com
 .coinhive-proxy-renxoslote.now.sh
+.coinhive-proxy.party
 .coinhive.com
 .coinhive.info
 .coinhive.net
@@ -67559,6 +67565,7 @@ zzzrtrcm2.com
 .cryptobara.com
 .cryptoblocks.site
 .cryptoblog.biz
+.cryptocoinabout.com
 .cryptocoinsad.com
 .cryptocurrecny.com
 .cryptokoinz.com
@@ -68127,6 +68134,7 @@ zzzrtrcm2.com
 .d.adlpo.com
 .d.annarbor.com
 .d.businessinsider.com
+.d.cfcnet.top
 .d.cntv.cn
 .d.dgzj.com
 .d.elong.cn
@@ -69027,6 +69035,7 @@ zzzrtrcm2.com
 .daretodreamfarm.com
 .daringprobablywithin.com
 .darkenedshrine.com
+.darking04.tk
 .darmowe-liczniki.info
 .darmowe-zakupy.com
 .darren01.oss-cn-beijing.aliyuncs.com
@@ -70235,7 +70244,6 @@ zzzrtrcm2.com
 .diamond88bet.com
 .diamondtraff.com
 .diamongs.com
-.diampokusy.com
 .dian500.com
 .dian5000.com
 .diandongchetoukui.com
@@ -72029,6 +72037,7 @@ zzzrtrcm2.com
 .dxkkb5tytkivf.cloudfront.net
 .dxkuwz.domyown.com
 .dxmci.com
+.dxmhkisurxxxhm.ru
 .dxp.baidu.com
 .dxpmedia.com
 .dxprla.m.qxs.la
@@ -72067,6 +72076,7 @@ zzzrtrcm2.com
 .dyingdesignscharming.com
 .dyino.com
 .dylanwong.com
+.dylenura.xyz
 .dymlo6ffhj97l.cloudfront.net
 .dyn.empflix.com
 .dyn.tnaflix.com
@@ -74721,6 +74731,7 @@ zzzrtrcm2.com
 .eu.business.samsung.com
 .eu.cf
 .eu.cfcdist.loan
+.eu.cfcnet.top
 .eu.groupondata.com
 .eu.market-place.su
 .eu.spgo.io
@@ -76649,10 +76660,12 @@ zzzrtrcm2.com
 .flexterkita.com
 .flextra.1.p2l.info
 .fliedridgin.com
+.flightsy.bi
 .flightsy.bid
 .flightsy.date
 .flightsy.win
 .flighty.win
+.flightzy.bi
 .flightzy.bid
 .flightzy.date
 .flightzy.win
@@ -84108,6 +84121,7 @@ zzzrtrcm2.com
 .imgxxx.shunxincar.cn
 .imhd.io
 .imho.ru
+.imhvlhaelvvbrq.ru
 .imhwzc.blibli.com
 .imiclk.com
 .imiek.com
@@ -85901,6 +85915,7 @@ zzzrtrcm2.com
 .ixrzwf.decathlon.be
 .ixsgoy.getpenta.com
 .ixspublic.com
+.ixvenhgwukn.ru
 .iy.com.cn
 .iyaos.com
 .iycwl.com
@@ -85972,6 +85987,7 @@ zzzrtrcm2.com
 .j.ytbt.cc
 .j.zhdap.com
 .j.zlszw.com
+.j05ot.online
 .j07773.com
 .j1.piaobing.com
 .j1503.com
@@ -86079,7 +86095,6 @@ zzzrtrcm2.com
 .japps.cn
 .japscat.org
 .japsulsa.com
-.japveny.ru
 .jarailso.com
 .jarproducercane.com
 .jarror.com
@@ -96264,7 +96279,6 @@ zzzrtrcm2.com
 .minessetion.info
 .minewhat.com
 .minexmr.com
-.minexmr.st
 .minexmr.stream
 .minfo.wps.cn
 .mingbangzichan.com
@@ -97023,6 +97037,7 @@ zzzrtrcm2.com
 .monero-miner.com
 .monero-miner.net
 .monero.how
+.monerominer.ro
 .monerominer.rocks
 .moneroocean.stream
 .monetate.net
@@ -98013,6 +98028,7 @@ zzzrtrcm2.com
 .mylink-today.com
 .mylinkbox.com
 .mylivechat.com
+.mylovelymommy.tk
 .mylovelypet.net
 .mylovesister.gq
 .mymediarecommendations.com
@@ -98026,6 +98042,7 @@ zzzrtrcm2.com
 .myntelligence.com
 .mynunu.net
 .myoffers.bid
+.myoffers.party
 .myolnyr5bsk18.com
 .myomnistar.com
 .myonionsoup.com
@@ -98729,6 +98746,7 @@ zzzrtrcm2.com
 .netincap.com
 .netinsight.co.kr
 .netizen.co
+.netkantu.com
 .netko0o.com
 .netliker.com
 .netloader.cc
@@ -99338,6 +99356,7 @@ zzzrtrcm2.com
 .nitrogenpleahierarchy.com
 .nitropay.com
 .nitsano.ru
+.nitsche.top
 .nityannoun.top
 .nitytolearnan.biz
 .niubiba.com
@@ -100036,6 +100055,7 @@ zzzrtrcm2.com
 .ntvpinp.com
 .ntvpwpush.com
 .ntvsw.com
+.ntwaafv.cn
 .ntxiangtai.com
 .ntymurmud.top
 .ntzfly.cn
@@ -100142,6 +100162,7 @@ zzzrtrcm2.com
 .nvmsa.top
 .nvoepbzqtn.com
 .nvpdaa.brightcellars.com
+.nvqonvfylkxdjc.com
 .nvqsjdvgqnyk.com
 .nvrblk.xyz
 .nvrentao8.com
@@ -100620,6 +100641,7 @@ zzzrtrcm2.com
 .octopuspop.com
 .octopuszyw.cn
 .octozoon.org
+.ocubafyv.xyz
 .ocwlhv.ecid.com.br
 .oczkgx.com
 .ocznxv.cn
@@ -102282,6 +102304,7 @@ zzzrtrcm2.com
 .oxtracking.com
 .oxtrmw.marinarinaldi.com
 .oxu24.com
+.oxwwoeukjispema.ru
 .oxybe.com
 .oxydend2r5umarb8oreum.com
 .oxygenpurpleairtight.com
@@ -106626,6 +106649,7 @@ zzzrtrcm2.com
 .pushno.com
 .pushnotifications.click
 .pushnotificationx.com
+.pushnott.com
 .pushofferpro.com
 .pushokey.com
 .pusholympus.com
@@ -111565,6 +111589,7 @@ zzzrtrcm2.com
 .schemea.prinit.net
 .schicksalnvi.cn
 .schjmp.com
+.schlaftabletten.cn
 .scholardevilcrayon.com
 .scholarshipidol.com
 .schoolyeargo.com
@@ -111903,6 +111928,7 @@ zzzrtrcm2.com
 .sdsttt.com
 .sdtbhbyb.com
 .sdtieta.com
+.sduptpppm.com
 .sdurhnd.com
 .sdv-m.ru
 .sdw8vzd.cn
@@ -119626,7 +119652,6 @@ zzzrtrcm2.com
 .suxhap.com
 .suzanne.pro
 .suzhoujinghui.com
-.suzihaza.com
 .sv-api-event.headlines.pw
 .sv-api-lottery.headlines.pw
 .sv-pr.ru
@@ -124827,7 +124852,6 @@ zzzrtrcm2.com
 .tratefirearly.top
 .trathy.com
 .tratouler.com
-.traumasister.tk
 .traumaticnoiseless.com
 .trav4life.site
 .travangeind.club
@@ -126272,6 +126296,7 @@ zzzrtrcm2.com
 .ultimateclixx.com
 .ultimatecounter.com
 .ultimowraxle.com
+.ultra-cdn.pl
 .ultraadserver.com
 .ultracet.1.p2l.info
 .ultraiso.net
@@ -126896,6 +126921,7 @@ zzzrtrcm2.com
 .us.bksn.se
 .us.cf
 .us.cfcdist.loan
+.us.cfcnet.top
 .us.i1.yimg.com
 .us.mattamyhomes.com
 .us.vortex-win.data.microsft.com
@@ -128102,6 +128128,7 @@ zzzrtrcm2.com
 .vip.adpiano.com
 .vip.cainiaofx.com
 .vip.catcs.cn
+.vip.cfcnet.top
 .vip.fortunatetime.xyz
 .vip.gophersport.com
 .vip.ludu319.com
@@ -128619,6 +128646,7 @@ zzzrtrcm2.com
 .vqfqo.us
 .vqlrwgj.cn
 .vqnqrs53.com
+.vqnqrs54.com
 .vqp3.madeindesign.co.uk
 .vqr3jeu1qi41.com
 .vr4011.com
@@ -129517,6 +129545,8 @@ zzzrtrcm2.com
 .webatam.com
 .webbridcar.xyz
 .webbug.seatreport.com
+.webcache-eu.datareporter.eu
+.webcache.datareporter.eu
 .webcampromo.com
 .webcampromotions.com
 .webcamsex.nl
@@ -130059,7 +130089,6 @@ zzzrtrcm2.com
 .whereascredentialsurmise.com
 .whereasplaid.com
 .wheredoyoucomefrom.ovh
-.whereismommy.gq
 .whereismybonus.com
 .wheretogo.bid
 .wheripsupi.com
@@ -134085,6 +134114,7 @@ zzzrtrcm2.com
 .yourkadspunew.com
 .yourlegacy.club
 .yourlocalguardian-gb.yourlocalguardian.co.uk
+.yourloganalytics.com
 .yourlustmedia.com
 .youronestopshop.themagnetgroup.com
 .yourquickads.com
