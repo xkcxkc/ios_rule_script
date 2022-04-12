@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-11 02:12:26
-# DOMAIN-SUFFIX: 67788
-# DOMAIN: 87
+# UPDATED: 2022-04-12 23:10:24
+# DOMAIN-SUFFIX: 67789
+# DOMAIN: 79
 # IP-CIDR: 7
 # DOMAIN-KEYWORD: 10
 # USER-AGENT: 31
 # IP-CIDR6: 4
-# TOTAL: 67927
+# TOTAL: 67920
 265.com
 2mdn.net
 adservice.google.com
@@ -24,15 +24,12 @@ c.android.clients.google.com
 cache.pack.google.com
 cdn.ampproject.org
 cdn.jsdelivr.net
-checkin.gstatic.com
 clickserve.dartsearch.net
 client.amplifi.com
 clientservices.googleapis.com
-connectivitycheck.gstatic.com
 corp.google.com
 crl.pki.goog
 csi-china.l.google.com
-csi.gstatic.com
 dl.google.com
 dl.l.google.com
 doubleclick.net
@@ -40,9 +37,6 @@ download.jetbrains.com
 emoi-cncdn.bing.com
 file-igamecj.akamaized.net
 fonts.googleapis.com
-fonts.gstatic.com
-g1.gstatic.com
-g2.gstatic.com
 geetest.datasink.sensorsdata.cn
 gogalaxy.gog-statics.com
 google-analytics.com
@@ -79,7 +73,6 @@ safebrowsing.googleapis.com
 sms.imagetasks.com
 ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
-ssl.gstatic.com
 static-login.gog-statics.com
 steamcommunity-a.akamaihd.net
 tesla-cdn.thron.cn
@@ -93,7 +86,6 @@ uplaypc-s-ubisoft.cdn.ubi.com
 upos-hz-mirrorakam.akamaized.net
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
-www.gstatic.com
 www.recaptcha.net
 www4-static.gog-statics.com
 .0-100.com
@@ -10808,7 +10800,6 @@ www4-static.gog-statics.com
 .bbercn.com
 .bbfstore.com
 .bbgsite.com
-.bbgstatic.com
 .bbicn.com
 .bbioo.com
 .bbiquge.com
@@ -21639,7 +21630,6 @@ www4-static.gog-statics.com
 .elong.com
 .elong.net
 .elongshine.com
-.elongstatic.com
 .elpcon.com
 .elpwc.com
 .els001.com
@@ -37175,7 +37165,6 @@ www4-static.gog-statics.com
 .lgo100.com
 .lgole.com
 .lgpic.com
-.lgstatic.com
 .lguohe.com
 .lh-lx.com
 .lh168.net
@@ -40307,6 +40296,9 @@ www4-static.gog-statics.com
 .mihayo.com
 .mihayou.com
 .mihoyo.com
+.mihoyocg.com
+.mihoyogift.com
+.mihoyomall.com
 .mihtool.com
 .mihua.net
 .mihuashi.com
@@ -40565,6 +40557,7 @@ www4-static.gog-statics.com
 .miyaboke.com
 .miyanlife.com
 .miyapay.com
+.miyoushe.com
 .miyouu.com
 .miyuangz.com
 .miyupu.com

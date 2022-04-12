@@ -15,20 +15,20 @@
 
 引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
 
-实验性规则，效果待观察，请谨慎评估后使用。
+实验性规则，效果待观察，不建议使用，不建议使用，不建议使用，已考虑进行删除。
 
 ## 规则统计
 
-总计规则：77706 条。
+总计规则：76885 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| DOMAIN-SUFFIX | 71405 |
-| DOMAIN | 84 |
-| IP-CIDR | 6140 |
+| DOMAIN-SUFFIX | 70500 |
+| DOMAIN | 76 |
+| IP-CIDR | 6232 |
 | DOMAIN-KEYWORD | 15 |
 ## 配置说明
 
@@ -98,8 +98,6 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 - Agora
 
 - AliPay
-
-- Alibaba
 
 - AnTianKeJi
 
@@ -487,6 +485,8 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 
 - AdvertisingTest
 
+- Proxy
+
 - Steam
 
 - SteamCN
@@ -501,7 +501,6 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/4399.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Baidu.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/CCTV.list
@@ -549,7 +548,6 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AcFun.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Agora.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AliPay.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AnTianKeJi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Anjuke.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BOC.list

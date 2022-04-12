@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-11 02:12:25
-# HOST-SUFFIX: 67788
-# HOST: 87
+# UPDATED: 2022-04-12 23:10:23
+# HOST-SUFFIX: 67789
+# HOST: 79
 # IP-CIDR: 7
 # HOST-KEYWORD: 10
 # USER-AGENT: 31
 # IP6-CIDR: 4
-# TOTAL: 67927
+# TOTAL: 67920
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -24,15 +24,12 @@ HOST,c.android.clients.google.com,ChinaTest
 HOST,cache.pack.google.com,ChinaTest
 HOST,cdn.ampproject.org,ChinaTest
 HOST,cdn.jsdelivr.net,ChinaTest
-HOST,checkin.gstatic.com,ChinaTest
 HOST,clickserve.dartsearch.net,ChinaTest
 HOST,client.amplifi.com,ChinaTest
 HOST,clientservices.googleapis.com,ChinaTest
-HOST,connectivitycheck.gstatic.com,ChinaTest
 HOST,corp.google.com,ChinaTest
 HOST,crl.pki.goog,ChinaTest
 HOST,csi-china.l.google.com,ChinaTest
-HOST,csi.gstatic.com,ChinaTest
 HOST,dl.google.com,ChinaTest
 HOST,dl.l.google.com,ChinaTest
 HOST,doubleclick.net,ChinaTest
@@ -40,9 +37,6 @@ HOST,download.jetbrains.com,ChinaTest
 HOST,emoi-cncdn.bing.com,ChinaTest
 HOST,file-igamecj.akamaized.net,ChinaTest
 HOST,fonts.googleapis.com,ChinaTest
-HOST,fonts.gstatic.com,ChinaTest
-HOST,g1.gstatic.com,ChinaTest
-HOST,g2.gstatic.com,ChinaTest
 HOST,geetest.datasink.sensorsdata.cn,ChinaTest
 HOST,gogalaxy.gog-statics.com,ChinaTest
 HOST,google-analytics.com,ChinaTest
@@ -79,7 +73,6 @@ HOST,safebrowsing.googleapis.com,ChinaTest
 HOST,sms.imagetasks.com,ChinaTest
 HOST,ss.bjmu.edu.cn,ChinaTest
 HOST,ssl-google-analytics.l.google.com,ChinaTest
-HOST,ssl.gstatic.com,ChinaTest
 HOST,static-login.gog-statics.com,ChinaTest
 HOST,steamcommunity-a.akamaihd.net,ChinaTest
 HOST,tesla-cdn.thron.cn,ChinaTest
@@ -93,7 +86,6 @@ HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaTest
 HOST,upos-hz-mirrorakam.akamaized.net,ChinaTest
 HOST,www-google-analytics.l.google.com,ChinaTest
 HOST,www-googletagmanager.l.google.com,ChinaTest
-HOST,www.gstatic.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest
 HOST,www4-static.gog-statics.com,ChinaTest
 HOST-SUFFIX,0-100.com,ChinaTest
@@ -10808,7 +10800,6 @@ HOST-SUFFIX,bbdzj.com,ChinaTest
 HOST-SUFFIX,bbercn.com,ChinaTest
 HOST-SUFFIX,bbfstore.com,ChinaTest
 HOST-SUFFIX,bbgsite.com,ChinaTest
-HOST-SUFFIX,bbgstatic.com,ChinaTest
 HOST-SUFFIX,bbicn.com,ChinaTest
 HOST-SUFFIX,bbioo.com,ChinaTest
 HOST-SUFFIX,bbiquge.com,ChinaTest
@@ -21639,7 +21630,6 @@ HOST-SUFFIX,elong-edm.com,ChinaTest
 HOST-SUFFIX,elong.com,ChinaTest
 HOST-SUFFIX,elong.net,ChinaTest
 HOST-SUFFIX,elongshine.com,ChinaTest
-HOST-SUFFIX,elongstatic.com,ChinaTest
 HOST-SUFFIX,elpcon.com,ChinaTest
 HOST-SUFFIX,elpwc.com,ChinaTest
 HOST-SUFFIX,els001.com,ChinaTest
@@ -37175,7 +37165,6 @@ HOST-SUFFIX,lgmjg.com,ChinaTest
 HOST-SUFFIX,lgo100.com,ChinaTest
 HOST-SUFFIX,lgole.com,ChinaTest
 HOST-SUFFIX,lgpic.com,ChinaTest
-HOST-SUFFIX,lgstatic.com,ChinaTest
 HOST-SUFFIX,lguohe.com,ChinaTest
 HOST-SUFFIX,lh-lx.com,ChinaTest
 HOST-SUFFIX,lh168.net,ChinaTest
@@ -40307,6 +40296,9 @@ HOST-SUFFIX,mihan.cc,ChinaTest
 HOST-SUFFIX,mihayo.com,ChinaTest
 HOST-SUFFIX,mihayou.com,ChinaTest
 HOST-SUFFIX,mihoyo.com,ChinaTest
+HOST-SUFFIX,mihoyocg.com,ChinaTest
+HOST-SUFFIX,mihoyogift.com,ChinaTest
+HOST-SUFFIX,mihoyomall.com,ChinaTest
 HOST-SUFFIX,mihtool.com,ChinaTest
 HOST-SUFFIX,mihua.net,ChinaTest
 HOST-SUFFIX,mihuashi.com,ChinaTest
@@ -40565,6 +40557,7 @@ HOST-SUFFIX,miyabaobei.hk,ChinaTest
 HOST-SUFFIX,miyaboke.com,ChinaTest
 HOST-SUFFIX,miyanlife.com,ChinaTest
 HOST-SUFFIX,miyapay.com,ChinaTest
+HOST-SUFFIX,miyoushe.com,ChinaTest
 HOST-SUFFIX,miyouu.com,ChinaTest
 HOST-SUFFIX,miyuangz.com,ChinaTest
 HOST-SUFFIX,miyupu.com,ChinaTest

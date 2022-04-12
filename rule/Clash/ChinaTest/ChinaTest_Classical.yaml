@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-11 02:12:28
-# DOMAIN-SUFFIX: 67788
-# DOMAIN: 87
+# UPDATED: 2022-04-12 23:10:26
+# DOMAIN-SUFFIX: 67789
+# DOMAIN: 79
 # IP-CIDR: 7
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 67896
+# TOTAL: 67889
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -24,15 +24,12 @@ payload:
   - DOMAIN,cache.pack.google.com
   - DOMAIN,cdn.ampproject.org
   - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN,checkin.gstatic.com
   - DOMAIN,clickserve.dartsearch.net
   - DOMAIN,client.amplifi.com
   - DOMAIN,clientservices.googleapis.com
-  - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,corp.google.com
   - DOMAIN,crl.pki.goog
   - DOMAIN,csi-china.l.google.com
-  - DOMAIN,csi.gstatic.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   - DOMAIN,doubleclick.net
@@ -40,9 +37,6 @@ payload:
   - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,file-igamecj.akamaized.net
   - DOMAIN,fonts.googleapis.com
-  - DOMAIN,fonts.gstatic.com
-  - DOMAIN,g1.gstatic.com
-  - DOMAIN,g2.gstatic.com
   - DOMAIN,geetest.datasink.sensorsdata.cn
   - DOMAIN,gogalaxy.gog-statics.com
   - DOMAIN,google-analytics.com
@@ -79,7 +73,6 @@ payload:
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,ss.bjmu.edu.cn
   - DOMAIN,ssl-google-analytics.l.google.com
-  - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,tesla-cdn.thron.cn
@@ -93,7 +86,6 @@ payload:
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,www-google-analytics.l.google.com
   - DOMAIN,www-googletagmanager.l.google.com
-  - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN-SUFFIX,0-100.com
@@ -10808,7 +10800,6 @@ payload:
   - DOMAIN-SUFFIX,bbercn.com
   - DOMAIN-SUFFIX,bbfstore.com
   - DOMAIN-SUFFIX,bbgsite.com
-  - DOMAIN-SUFFIX,bbgstatic.com
   - DOMAIN-SUFFIX,bbicn.com
   - DOMAIN-SUFFIX,bbioo.com
   - DOMAIN-SUFFIX,bbiquge.com
@@ -21639,7 +21630,6 @@ payload:
   - DOMAIN-SUFFIX,elong.com
   - DOMAIN-SUFFIX,elong.net
   - DOMAIN-SUFFIX,elongshine.com
-  - DOMAIN-SUFFIX,elongstatic.com
   - DOMAIN-SUFFIX,elpcon.com
   - DOMAIN-SUFFIX,elpwc.com
   - DOMAIN-SUFFIX,els001.com
@@ -37175,7 +37165,6 @@ payload:
   - DOMAIN-SUFFIX,lgo100.com
   - DOMAIN-SUFFIX,lgole.com
   - DOMAIN-SUFFIX,lgpic.com
-  - DOMAIN-SUFFIX,lgstatic.com
   - DOMAIN-SUFFIX,lguohe.com
   - DOMAIN-SUFFIX,lh-lx.com
   - DOMAIN-SUFFIX,lh168.net
@@ -40307,6 +40296,9 @@ payload:
   - DOMAIN-SUFFIX,mihayo.com
   - DOMAIN-SUFFIX,mihayou.com
   - DOMAIN-SUFFIX,mihoyo.com
+  - DOMAIN-SUFFIX,mihoyocg.com
+  - DOMAIN-SUFFIX,mihoyogift.com
+  - DOMAIN-SUFFIX,mihoyomall.com
   - DOMAIN-SUFFIX,mihtool.com
   - DOMAIN-SUFFIX,mihua.net
   - DOMAIN-SUFFIX,mihuashi.com
@@ -40565,6 +40557,7 @@ payload:
   - DOMAIN-SUFFIX,miyaboke.com
   - DOMAIN-SUFFIX,miyanlife.com
   - DOMAIN-SUFFIX,miyapay.com
+  - DOMAIN-SUFFIX,miyoushe.com
   - DOMAIN-SUFFIX,miyouu.com
   - DOMAIN-SUFFIX,miyuangz.com
   - DOMAIN-SUFFIX,miyupu.com

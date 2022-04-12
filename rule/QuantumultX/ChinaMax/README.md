@@ -15,22 +15,22 @@
 
 引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
 
-实验性规则，效果待观察，请谨慎评估后使用。
+实验性规则，效果待观察，不建议使用，不建议使用，不建议使用，已考虑进行删除。
 
 ## 规则统计
 
-总计规则：81857 条。
+总计规则：81047 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| HOST-SUFFIX | 71405 |
-| HOST | 84 |
-| IP-CIDR | 6140 |
+| HOST-SUFFIX | 70500 |
+| HOST | 76 |
+| IP-CIDR | 6232 |
 | HOST-KEYWORD | 15 |
-| IP6-CIDR | 4151 |
+| IP6-CIDR | 4162 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -87,8 +87,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - Agora
 
 - AliPay
-
-- Alibaba
 
 - AnTianKeJi
 
@@ -476,6 +474,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 - AdvertisingTest
 
+- Proxy
+
 - Steam
 
 - SteamCN
@@ -490,7 +490,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/4399.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Baidu.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/CCTV.list
@@ -538,7 +537,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AcFun.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Agora.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AliPay.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AnTianKeJi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Anjuke.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BOC.list
