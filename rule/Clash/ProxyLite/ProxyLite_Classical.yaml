@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-12 23:10:27
-# DOMAIN-SUFFIX: 32005
+# UPDATED: 2022-04-14 02:12:57
+# DOMAIN-SUFFIX: 32007
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32160
+# TOTAL: 32162
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -15723,6 +15723,7 @@ payload:
   - DOMAIN-SUFFIX,librox.co.za
   - DOMAIN-SUFFIX,libsyn.com
   - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,licensebuttons.net
   - DOMAIN-SUFFIX,liceosantaclara.cl
   - DOMAIN-SUFFIX,lidecheng.com
   - DOMAIN-SUFFIX,liecut.net
@@ -26239,6 +26240,7 @@ payload:
   - DOMAIN-SUFFIX,wmbeco.com
   - DOMAIN-SUFFIX,wmcloud.org
   - DOMAIN-SUFFIX,wmfield.idv.tw
+  - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmfusercontent.org
   - DOMAIN-SUFFIX,wmiii.com
   - DOMAIN-SUFFIX,wmkredit.ru

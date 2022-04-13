@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-12 23:10:28
-# DOMAIN-SUFFIX: 32005
+# UPDATED: 2022-04-14 02:12:58
+# DOMAIN-SUFFIX: 32007
 # USER-AGENT: 5
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
-# TOTAL: 32162
+# TOTAL: 32164
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -15722,6 +15722,7 @@ www-cdn.icloud.com.akadns.net
 .librox.co.za
 .libsyn.com
 .licdn.com
+.licensebuttons.net
 .liceosantaclara.cl
 .lidecheng.com
 .liecut.net
@@ -26238,6 +26239,7 @@ www-cdn.icloud.com.akadns.net
 .wmbeco.com
 .wmcloud.org
 .wmfield.idv.tw
+.wmflabs.org
 .wmfusercontent.org
 .wmiii.com
 .wmkredit.ru

@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-12 23:10:24
-# HOST-SUFFIX: 32005
+# UPDATED: 2022-04-14 02:12:53
+# HOST-SUFFIX: 32007
 # USER-AGENT: 5
 # HOST: 36
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 32165
+# TOTAL: 32167
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -15723,6 +15723,7 @@ HOST-SUFFIX,libreswan.org,ProxyLite
 HOST-SUFFIX,librox.co.za,ProxyLite
 HOST-SUFFIX,libsyn.com,ProxyLite
 HOST-SUFFIX,licdn.com,ProxyLite
+HOST-SUFFIX,licensebuttons.net,ProxyLite
 HOST-SUFFIX,liceosantaclara.cl,ProxyLite
 HOST-SUFFIX,lidecheng.com,ProxyLite
 HOST-SUFFIX,liecut.net,ProxyLite
@@ -26239,6 +26240,7 @@ HOST-SUFFIX,wm9991.com,ProxyLite
 HOST-SUFFIX,wmbeco.com,ProxyLite
 HOST-SUFFIX,wmcloud.org,ProxyLite
 HOST-SUFFIX,wmfield.idv.tw,ProxyLite
+HOST-SUFFIX,wmflabs.org,ProxyLite
 HOST-SUFFIX,wmfusercontent.org,ProxyLite
 HOST-SUFFIX,wmiii.com,ProxyLite
 HOST-SUFFIX,wmkredit.ru,ProxyLite
