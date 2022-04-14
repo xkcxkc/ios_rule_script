@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-14 02:12:57
-# DOMAIN-SUFFIX: 32007
-# DOMAIN: 36
+# UPDATED: 2022-04-15 02:12:39
+# DOMAIN-SUFFIX: 32011
+# DOMAIN: 38
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32162
+# TOTAL: 32168
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -25,6 +25,7 @@ payload:
   - DOMAIN,databank.worldbank.org
   - DOMAIN,deutschewelle.h-cdn.com
   - DOMAIN,dl.begellhouse.com
+  - DOMAIN,e122475.dscg.akamaiedge.net
   - DOMAIN,elib.maruzen.co.jp
   - DOMAIN,faronics.kayako.com
   - DOMAIN,firstsearch.oclc.org
@@ -32,6 +33,7 @@ payload:
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,i.jeded.com
   - DOMAIN,imperial.insendi.com
+  - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,mdn.mozillademos.org
   - DOMAIN,media.prod.mdn.mozit.cloud
@@ -12135,6 +12137,7 @@ payload:
   - DOMAIN-SUFFIX,gputechconf.com
   - DOMAIN-SUFFIX,gqfx.com
   - DOMAIN-SUFFIX,gqueues.com
+  - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN-SUFFIX,gr8domain.biz
   - DOMAIN-SUFFIX,gr8name.biz
   - DOMAIN-SUFFIX,grababrand.com
@@ -15354,6 +15357,8 @@ payload:
   - DOMAIN-SUFFIX,kzeng.info
   - DOMAIN-SUFFIX,kznbadminton.co.za
   - DOMAIN-SUFFIX,kzqzb.com
+  - DOMAIN-SUFFIX,l-0005.dc-msedge.net
+  - DOMAIN-SUFFIX,l-0005.l-msedge.net
   - DOMAIN-SUFFIX,la-conjugaison.fr
   - DOMAIN-SUFFIX,la-forum.org
   - DOMAIN-SUFFIX,la4065.com
@@ -21456,6 +21461,7 @@ payload:
   - DOMAIN-SUFFIX,scasino.com
   - DOMAIN-SUFFIX,sccycles.cl
   - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,scenesource.me
   - DOMAIN-SUFFIX,sceper.ws
   - DOMAIN-SUFFIX,schalk.com.br

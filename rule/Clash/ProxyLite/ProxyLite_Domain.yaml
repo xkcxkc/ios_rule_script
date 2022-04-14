@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-14 02:12:57
-# DOMAIN-SUFFIX: 32007
-# DOMAIN: 36
+# UPDATED: 2022-04-15 02:12:39
+# DOMAIN-SUFFIX: 32011
+# DOMAIN: 38
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32162
+# TOTAL: 32168
 payload:
   - 'angle.com.tw'
   - 'api-p.videomarket.jp'
@@ -25,6 +25,7 @@ payload:
   - 'databank.worldbank.org'
   - 'deutschewelle.h-cdn.com'
   - 'dl.begellhouse.com'
+  - 'e122475.dscg.akamaiedge.net'
   - 'elib.maruzen.co.jp'
   - 'faronics.kayako.com'
   - 'firstsearch.oclc.org'
@@ -32,6 +33,7 @@ payload:
   - 'hpstore.corpmerchandise.com'
   - 'i.jeded.com'
   - 'imperial.insendi.com'
+  - 'licdn.cn.cdn20.com'
   - 'link.theplatform.com'
   - 'mdn.mozillademos.org'
   - 'media.prod.mdn.mozit.cloud'
@@ -12135,6 +12137,7 @@ payload:
   - '+.gputechconf.com'
   - '+.gqfx.com'
   - '+.gqueues.com'
+  - '+.gr-assets.com'
   - '+.gr8domain.biz'
   - '+.gr8name.biz'
   - '+.grababrand.com'
@@ -15354,6 +15357,8 @@ payload:
   - '+.kzeng.info'
   - '+.kznbadminton.co.za'
   - '+.kzqzb.com'
+  - '+.l-0005.dc-msedge.net'
+  - '+.l-0005.l-msedge.net'
   - '+.la-conjugaison.fr'
   - '+.la-forum.org'
   - '+.la4065.com'
@@ -21456,6 +21461,7 @@ payload:
   - '+.scasino.com'
   - '+.sccycles.cl'
   - '+.scdn.co'
+  - '+.scene7.com'
   - '+.scenesource.me'
   - '+.sceper.ws'
   - '+.schalk.com.br'

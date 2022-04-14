@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-14 02:12:53
-# HOST-SUFFIX: 32007
+# UPDATED: 2022-04-15 02:12:36
+# HOST-SUFFIX: 32011
 # USER-AGENT: 5
-# HOST: 36
+# HOST: 38
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 32167
+# TOTAL: 32173
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -25,6 +25,7 @@ HOST,courier-push-apple.com.akadns.net,ProxyLite
 HOST,databank.worldbank.org,ProxyLite
 HOST,deutschewelle.h-cdn.com,ProxyLite
 HOST,dl.begellhouse.com,ProxyLite
+HOST,e122475.dscg.akamaiedge.net,ProxyLite
 HOST,elib.maruzen.co.jp,ProxyLite
 HOST,faronics.kayako.com,ProxyLite
 HOST,firstsearch.oclc.org,ProxyLite
@@ -32,6 +33,7 @@ HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,ProxyLite
 HOST,hpstore.corpmerchandise.com,ProxyLite
 HOST,i.jeded.com,ProxyLite
 HOST,imperial.insendi.com,ProxyLite
+HOST,licdn.cn.cdn20.com,ProxyLite
 HOST,link.theplatform.com,ProxyLite
 HOST,mdn.mozillademos.org,ProxyLite
 HOST,media.prod.mdn.mozit.cloud,ProxyLite
@@ -12135,6 +12137,7 @@ HOST-SUFFIX,gpstheseries.com,ProxyLite
 HOST-SUFFIX,gputechconf.com,ProxyLite
 HOST-SUFFIX,gqfx.com,ProxyLite
 HOST-SUFFIX,gqueues.com,ProxyLite
+HOST-SUFFIX,gr-assets.com,ProxyLite
 HOST-SUFFIX,gr8domain.biz,ProxyLite
 HOST-SUFFIX,gr8name.biz,ProxyLite
 HOST-SUFFIX,grababrand.com,ProxyLite
@@ -15354,6 +15357,8 @@ HOST-SUFFIX,kyzyhello.com,ProxyLite
 HOST-SUFFIX,kzeng.info,ProxyLite
 HOST-SUFFIX,kznbadminton.co.za,ProxyLite
 HOST-SUFFIX,kzqzb.com,ProxyLite
+HOST-SUFFIX,l-0005.dc-msedge.net,ProxyLite
+HOST-SUFFIX,l-0005.l-msedge.net,ProxyLite
 HOST-SUFFIX,la-conjugaison.fr,ProxyLite
 HOST-SUFFIX,la-forum.org,ProxyLite
 HOST-SUFFIX,la4065.com,ProxyLite
@@ -21456,6 +21461,7 @@ HOST-SUFFIX,scamadviser.com,ProxyLite
 HOST-SUFFIX,scasino.com,ProxyLite
 HOST-SUFFIX,sccycles.cl,ProxyLite
 HOST-SUFFIX,scdn.co,ProxyLite
+HOST-SUFFIX,scene7.com,ProxyLite
 HOST-SUFFIX,scenesource.me,ProxyLite
 HOST-SUFFIX,sceper.ws,ProxyLite
 HOST-SUFFIX,schalk.com.br,ProxyLite
