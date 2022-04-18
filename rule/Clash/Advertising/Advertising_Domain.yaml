@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-18 02:11:58
+# UPDATED: 2022-04-19 02:12:27
 # DOMAIN: 45952
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77658
+# DOMAIN-SUFFIX: 77676
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 123951
+# TOTAL: 123969
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -49744,6 +49744,7 @@ payload:
   - '+.ac.express.de'
   - '+.ac.miovp.com'
   - '+.ac.mz-web.de'
+  - '+.ac.prism-world.jp.net'
   - '+.ac.rnm.ca'
   - '+.ac0c95f18a59.com'
   - '+.ac1.786ip.com'
@@ -57143,6 +57144,7 @@ payload:
   - '+.avalhukof.com'
   - '+.avantlink.com'
   - '+.avapartner.com'
+  - '+.avased6.com'
   - '+.avastats.com'
   - '+.avatroom.com'
   - '+.avault.net'
@@ -57254,6 +57256,7 @@ payload:
   - '+.awnxcexsy.xyz'
   - '+.awogtl.1stopbedrooms.com'
   - '+.awokedoubtless.com'
+  - '+.awpcrpu.com'
   - '+.awprt.com'
   - '+.awptjmp.com'
   - '+.awptlpu.com'
@@ -62034,6 +62037,7 @@ payload:
   - '+.celebwelove.com'
   - '+.celerantatters.com'
   - '+.celeritascdn.com'
+  - '+.celestebeverly.com'
   - '+.celestia.es'
   - '+.celestia.fr'
   - '+.celexa.1.p2l.info'
@@ -62771,6 +62775,7 @@ payload:
   - '+.cjv2gt.cn'
   - '+.cjvdfw.com'
   - '+.cjwyvwbxpbo.com'
+  - '+.cjy200107152004.ltd'
   - '+.cjyjqw.cn'
   - '+.ck-cdn.com'
   - '+.ck.ncclick.co.kr'
@@ -68828,6 +68833,7 @@ payload:
   - '+.dreampartners.ru'
   - '+.dreamrecord.cn'
   - '+.dreamsaukn.co'
+  - '+.dreamsky.xin'
   - '+.dreamteaser.ru'
   - '+.dreamware.com.cn'
   - '+.drecentreshu.info'
@@ -69051,6 +69057,7 @@ payload:
   - '+.dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com'
   - '+.duamilsyr.com'
   - '+.duanat.com'
+  - '+.duansiwei.top'
   - '+.duanyu1106.cn'
   - '+.duapp.com'
   - '+.duapps.com'
@@ -85689,6 +85696,7 @@ payload:
   - '+.location.bloomberg.com'
   - '+.location.ximalaya.com'
   - '+.locationsreverenceaid.com'
+  - '+.lockdowncautionmentally.com'
   - '+.locked4.com'
   - '+.lockerdome.com'
   - '+.lockerdomecdn.com'
@@ -92972,6 +92980,7 @@ payload:
   - '+.nrnma.com'
   - '+.nrnwubdanwl.com'
   - '+.nrqqjb.com'
+  - '+.nrxduw5.com'
   - '+.nryceuula.com'
   - '+.nryiou.cn'
   - '+.nrzcj.top'
@@ -102778,6 +102787,7 @@ payload:
   - '+.sayyac.net'
   - '+.sb-money.ru'
   - '+.sb4you1.com'
+  - '+.sb6688.xyz'
   - '+.sb88b.com'
   - '+.sba.about.co.kr'
   - '+.sbaffiliates.com'
@@ -103071,6 +103081,7 @@ payload:
   - '+.scw0.com'
   - '+.scws.120ask.com'
   - '+.sczhilong.cn'
+  - '+.sd-tagging.azurefd.net'
   - '+.sd.0.0.0.0.cn'
   - '+.sd.5.p2l.info'
   - '+.sd.int.jumei.com'
@@ -103168,6 +103179,7 @@ payload:
   - '+.sdskj.club'
   - '+.sdsqyyc.com'
   - '+.sdsttt.com'
+  - '+.sdtagging.azureedge.net'
   - '+.sdtbhbyb.com'
   - '+.sdtieta.com'
   - '+.sduptpppm.com'
@@ -104590,6 +104602,7 @@ payload:
   - '+.site24x7rum.com'
   - '+.site24x7rum.eu'
   - '+.siteadvisor.com-br.site'
+  - '+.sitealyse.de'
   - '+.siteanaliz.org'
   - '+.siteapps.com'
   - '+.sitebakup.com'
@@ -107973,6 +107986,7 @@ payload:
   - '+.stats.absol.co.za'
   - '+.stats.acadevor.com'
   - '+.stats.adlice.com'
+  - '+.stats.administrarweb.es'
   - '+.stats.adultswim.com'
   - '+.stats.airfarewatchdog.co.uk'
   - '+.stats.airfarewatchdog.com'
@@ -113911,6 +113925,7 @@ payload:
   - '+.triggertag.gorillanation.com'
   - '+.triggit.com'
   - '+.trigr.co'
+  - '+.trigs-sockets.com'
   - '+.trigub.ru'
   - '+.trikersuccessar.site'
   - '+.trikroacha.com'
@@ -114356,6 +114371,7 @@ payload:
   - '+.tukeai.com'
   - '+.tukexiu.com'
   - '+.tukj.net'
+  - '+.tukkpixabay.com'
   - '+.tuknelym.com'
   - '+.tukuru.cotta.jp'
   - '+.tula9mari.com'
@@ -114639,6 +114655,7 @@ payload:
   - '+.tzlit.cn'
   - '+.tzuyruz.cn'
   - '+.tzwaw.pw'
+  - '+.tzxmhi.com'
   - '+.u-ad.info'
   - '+.u-mob.cn'
   - '+.u-on.eu'
@@ -122228,6 +122245,7 @@ payload:
   - '+.ytbctyy.com'
   - '+.ytbnm.cn'
   - '+.ytcard.cn'
+  - '+.ytcsugxsud.com'
   - '+.ytdksb.com'
   - '+.ytelc.com'
   - '+.ytgfsvcwtradg.xyz'

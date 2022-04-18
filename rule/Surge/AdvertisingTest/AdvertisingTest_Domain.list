@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-18 02:11:55
+# UPDATED: 2022-04-19 02:12:24
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45210
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90592
+# DOMAIN-SUFFIX: 90607
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 136445
+# TOTAL: 136460
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -49612,6 +49612,7 @@ zzzrtrcm2.com
 .ac.express.de
 .ac.miovp.com
 .ac.mz-web.de
+.ac.prism-world.jp.net
 .ac.rnm.ca
 .ac0c95f18a59.com
 .ac1.786ip.com
@@ -55186,7 +55187,6 @@ zzzrtrcm2.com
 .alterupholdcinema.com
 .althoutafrick.info
 .altitude-arena.com
-.altmetric.com
 .altogethergreedy.com
 .altopd.com
 .altowriestwispy.com
@@ -58040,6 +58040,7 @@ zzzrtrcm2.com
 .avalhukof.com
 .avantlink.com
 .avapartner.com
+.avased6.com
 .avastats.com
 .avatroom.com
 .avault.net
@@ -58170,6 +58171,7 @@ zzzrtrcm2.com
 .awogtl.1stopbedrooms.com
 .awokedoubtless.com
 .awowwo.forever21.com
+.awpcrpu.com
 .awprt.com
 .awptjmp.com
 .awptlpu.com
@@ -63607,6 +63609,7 @@ zzzrtrcm2.com
 .celebwelove.com
 .celerantatters.com
 .celeritascdn.com
+.celestebeverly.com
 .celesterium.com
 .celestia.es
 .celestia.fr
@@ -70417,7 +70420,6 @@ zzzrtrcm2.com
 .dilvehoammp.com
 .dimedontisar.cam
 .dimensionhatefulstricken.com
-.dimensions.ai
 .dimensions.mappy.com
 .dimeprice.com
 .dimeromaean.com
@@ -71569,6 +71571,7 @@ zzzrtrcm2.com
 .dreampartners.ru
 .dreamrecord.cn
 .dreamsaukn.co
+.dreamsky.xin
 .dreamteaser.ru
 .dreamware.com.cn
 .drecentreshu.info
@@ -71815,6 +71818,7 @@ zzzrtrcm2.com
 .dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 .duamilsyr.com
 .duanat.com
+.duansiwei.top
 .duanyu1106.cn
 .duapp.com
 .duapps.com
@@ -90820,6 +90824,7 @@ zzzrtrcm2.com
 .locationsreverenceaid.com
 .locator1.corevm.com
 .locatorpp.corevm.com
+.lockdowncautionmentally.com
 .locked4.com
 .lockerdome.com
 .lockerdomecdn.com
@@ -99904,6 +99909,7 @@ zzzrtrcm2.com
 .nrnwubdanwl.com
 .nrqqjb.com
 .nrrxxpvgtf.com
+.nrxduw5.com
 .nryceuula.com
 .nryiou.cn
 .nrzcj.top
@@ -111433,6 +111439,7 @@ zzzrtrcm2.com
 .sayyac.net
 .sb-money.ru
 .sb4you1.com
+.sb6688.xyz
 .sb88b.com
 .sba.about.co.kr
 .sbaffiliates.com
@@ -111819,6 +111826,7 @@ zzzrtrcm2.com
 .scw0.com
 .scws.120ask.com
 .sczhilong.cn
+.sd-tagging.azurefd.net
 .sd.0.0.0.0.cn
 .sd.5.p2l.info
 .sd.int.jumei.com
@@ -111967,6 +111975,7 @@ zzzrtrcm2.com
 .sdskj.club
 .sdsqyyc.com
 .sdsttt.com
+.sdtagging.azureedge.net
 .sdtbhbyb.com
 .sdtieta.com
 .sduptpppm.com
@@ -113650,6 +113659,7 @@ zzzrtrcm2.com
 .site24x7rum.com
 .site24x7rum.eu
 .siteadvisor.com-br.site
+.sitealyse.de
 .siteanaliz.org
 .siteapps.com
 .sitebakup.com
@@ -118040,6 +118050,7 @@ zzzrtrcm2.com
 .stats.absol.co.za
 .stats.acadevor.com
 .stats.adlice.com
+.stats.administrarweb.es
 .stats.adobe.com
 .stats.adultswim.com
 .stats.agl.com.au
@@ -124973,6 +124984,7 @@ zzzrtrcm2.com
 .triggertag.gorillanation.com
 .triggit.com
 .trigr.co
+.trigs-sockets.com
 .trigub.ru
 .trikersuccessar.site
 .trikroacha.com
@@ -125482,6 +125494,7 @@ zzzrtrcm2.com
 .tukeai.com
 .tukexiu.com
 .tukj.net
+.tukkpixabay.com
 .tuknelym.com
 .tukuru.cotta.jp
 .tula9mari.com
@@ -125805,6 +125818,7 @@ zzzrtrcm2.com
 .tzovkp.aboutyou.at
 .tzuyruz.cn
 .tzwaw.pw
+.tzxmhi.com
 .u-ad.info
 .u-mob.cn
 .u-on.eu
@@ -134300,6 +134314,7 @@ zzzrtrcm2.com
 .ytbnfd.fandeco.ru
 .ytbnm.cn
 .ytcard.cn
+.ytcsugxsud.com
 .ytdksb.com
 .ytelc.com
 .ytgfsvcwtradg.xyz

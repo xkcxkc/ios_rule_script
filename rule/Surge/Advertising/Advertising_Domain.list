@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-18 02:11:55
+# UPDATED: 2022-04-19 02:12:24
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45952
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77658
+# DOMAIN-SUFFIX: 77676
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 124253
+# TOTAL: 124271
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -49745,6 +49745,7 @@ zzzrtrcm2.com
 .ac.express.de
 .ac.miovp.com
 .ac.mz-web.de
+.ac.prism-world.jp.net
 .ac.rnm.ca
 .ac0c95f18a59.com
 .ac1.786ip.com
@@ -57144,6 +57145,7 @@ zzzrtrcm2.com
 .avalhukof.com
 .avantlink.com
 .avapartner.com
+.avased6.com
 .avastats.com
 .avatroom.com
 .avault.net
@@ -57255,6 +57257,7 @@ zzzrtrcm2.com
 .awnxcexsy.xyz
 .awogtl.1stopbedrooms.com
 .awokedoubtless.com
+.awpcrpu.com
 .awprt.com
 .awptjmp.com
 .awptlpu.com
@@ -62035,6 +62038,7 @@ zzzrtrcm2.com
 .celebwelove.com
 .celerantatters.com
 .celeritascdn.com
+.celestebeverly.com
 .celestia.es
 .celestia.fr
 .celexa.1.p2l.info
@@ -62772,6 +62776,7 @@ zzzrtrcm2.com
 .cjv2gt.cn
 .cjvdfw.com
 .cjwyvwbxpbo.com
+.cjy200107152004.ltd
 .cjyjqw.cn
 .ck-cdn.com
 .ck.ncclick.co.kr
@@ -68829,6 +68834,7 @@ zzzrtrcm2.com
 .dreampartners.ru
 .dreamrecord.cn
 .dreamsaukn.co
+.dreamsky.xin
 .dreamteaser.ru
 .dreamware.com.cn
 .drecentreshu.info
@@ -69052,6 +69058,7 @@ zzzrtrcm2.com
 .dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 .duamilsyr.com
 .duanat.com
+.duansiwei.top
 .duanyu1106.cn
 .duapp.com
 .duapps.com
@@ -85690,6 +85697,7 @@ zzzrtrcm2.com
 .location.bloomberg.com
 .location.ximalaya.com
 .locationsreverenceaid.com
+.lockdowncautionmentally.com
 .locked4.com
 .lockerdome.com
 .lockerdomecdn.com
@@ -92973,6 +92981,7 @@ zzzrtrcm2.com
 .nrnma.com
 .nrnwubdanwl.com
 .nrqqjb.com
+.nrxduw5.com
 .nryceuula.com
 .nryiou.cn
 .nrzcj.top
@@ -102779,6 +102788,7 @@ zzzrtrcm2.com
 .sayyac.net
 .sb-money.ru
 .sb4you1.com
+.sb6688.xyz
 .sb88b.com
 .sba.about.co.kr
 .sbaffiliates.com
@@ -103072,6 +103082,7 @@ zzzrtrcm2.com
 .scw0.com
 .scws.120ask.com
 .sczhilong.cn
+.sd-tagging.azurefd.net
 .sd.0.0.0.0.cn
 .sd.5.p2l.info
 .sd.int.jumei.com
@@ -103169,6 +103180,7 @@ zzzrtrcm2.com
 .sdskj.club
 .sdsqyyc.com
 .sdsttt.com
+.sdtagging.azureedge.net
 .sdtbhbyb.com
 .sdtieta.com
 .sduptpppm.com
@@ -104591,6 +104603,7 @@ zzzrtrcm2.com
 .site24x7rum.com
 .site24x7rum.eu
 .siteadvisor.com-br.site
+.sitealyse.de
 .siteanaliz.org
 .siteapps.com
 .sitebakup.com
@@ -107974,6 +107987,7 @@ zzzrtrcm2.com
 .stats.absol.co.za
 .stats.acadevor.com
 .stats.adlice.com
+.stats.administrarweb.es
 .stats.adultswim.com
 .stats.airfarewatchdog.co.uk
 .stats.airfarewatchdog.com
@@ -113912,6 +113926,7 @@ zzzrtrcm2.com
 .triggertag.gorillanation.com
 .triggit.com
 .trigr.co
+.trigs-sockets.com
 .trigub.ru
 .trikersuccessar.site
 .trikroacha.com
@@ -114357,6 +114372,7 @@ zzzrtrcm2.com
 .tukeai.com
 .tukexiu.com
 .tukj.net
+.tukkpixabay.com
 .tuknelym.com
 .tukuru.cotta.jp
 .tula9mari.com
@@ -114640,6 +114656,7 @@ zzzrtrcm2.com
 .tzlit.cn
 .tzuyruz.cn
 .tzwaw.pw
+.tzxmhi.com
 .u-ad.info
 .u-mob.cn
 .u-on.eu
@@ -122229,6 +122246,7 @@ zzzrtrcm2.com
 .ytbctyy.com
 .ytbnm.cn
 .ytcard.cn
+.ytcsugxsud.com
 .ytdksb.com
 .ytelc.com
 .ytgfsvcwtradg.xyz

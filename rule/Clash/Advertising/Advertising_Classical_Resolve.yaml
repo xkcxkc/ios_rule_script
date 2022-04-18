@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-18 02:11:58
+# UPDATED: 2022-04-19 02:12:27
 # DOMAIN: 45952
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77658
+# DOMAIN-SUFFIX: 77676
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 123951
+# TOTAL: 123969
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -49744,6 +49744,7 @@ payload:
   - DOMAIN-SUFFIX,ac.express.de
   - DOMAIN-SUFFIX,ac.miovp.com
   - DOMAIN-SUFFIX,ac.mz-web.de
+  - DOMAIN-SUFFIX,ac.prism-world.jp.net
   - DOMAIN-SUFFIX,ac.rnm.ca
   - DOMAIN-SUFFIX,ac0c95f18a59.com
   - DOMAIN-SUFFIX,ac1.786ip.com
@@ -57143,6 +57144,7 @@ payload:
   - DOMAIN-SUFFIX,avalhukof.com
   - DOMAIN-SUFFIX,avantlink.com
   - DOMAIN-SUFFIX,avapartner.com
+  - DOMAIN-SUFFIX,avased6.com
   - DOMAIN-SUFFIX,avastats.com
   - DOMAIN-SUFFIX,avatroom.com
   - DOMAIN-SUFFIX,avault.net
@@ -57254,6 +57256,7 @@ payload:
   - DOMAIN-SUFFIX,awnxcexsy.xyz
   - DOMAIN-SUFFIX,awogtl.1stopbedrooms.com
   - DOMAIN-SUFFIX,awokedoubtless.com
+  - DOMAIN-SUFFIX,awpcrpu.com
   - DOMAIN-SUFFIX,awprt.com
   - DOMAIN-SUFFIX,awptjmp.com
   - DOMAIN-SUFFIX,awptlpu.com
@@ -62034,6 +62037,7 @@ payload:
   - DOMAIN-SUFFIX,celebwelove.com
   - DOMAIN-SUFFIX,celerantatters.com
   - DOMAIN-SUFFIX,celeritascdn.com
+  - DOMAIN-SUFFIX,celestebeverly.com
   - DOMAIN-SUFFIX,celestia.es
   - DOMAIN-SUFFIX,celestia.fr
   - DOMAIN-SUFFIX,celexa.1.p2l.info
@@ -62771,6 +62775,7 @@ payload:
   - DOMAIN-SUFFIX,cjv2gt.cn
   - DOMAIN-SUFFIX,cjvdfw.com
   - DOMAIN-SUFFIX,cjwyvwbxpbo.com
+  - DOMAIN-SUFFIX,cjy200107152004.ltd
   - DOMAIN-SUFFIX,cjyjqw.cn
   - DOMAIN-SUFFIX,ck-cdn.com
   - DOMAIN-SUFFIX,ck.ncclick.co.kr
@@ -68828,6 +68833,7 @@ payload:
   - DOMAIN-SUFFIX,dreampartners.ru
   - DOMAIN-SUFFIX,dreamrecord.cn
   - DOMAIN-SUFFIX,dreamsaukn.co
+  - DOMAIN-SUFFIX,dreamsky.xin
   - DOMAIN-SUFFIX,dreamteaser.ru
   - DOMAIN-SUFFIX,dreamware.com.cn
   - DOMAIN-SUFFIX,drecentreshu.info
@@ -69051,6 +69057,7 @@ payload:
   - DOMAIN-SUFFIX,dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
   - DOMAIN-SUFFIX,duamilsyr.com
   - DOMAIN-SUFFIX,duanat.com
+  - DOMAIN-SUFFIX,duansiwei.top
   - DOMAIN-SUFFIX,duanyu1106.cn
   - DOMAIN-SUFFIX,duapp.com
   - DOMAIN-SUFFIX,duapps.com
@@ -85689,6 +85696,7 @@ payload:
   - DOMAIN-SUFFIX,location.bloomberg.com
   - DOMAIN-SUFFIX,location.ximalaya.com
   - DOMAIN-SUFFIX,locationsreverenceaid.com
+  - DOMAIN-SUFFIX,lockdowncautionmentally.com
   - DOMAIN-SUFFIX,locked4.com
   - DOMAIN-SUFFIX,lockerdome.com
   - DOMAIN-SUFFIX,lockerdomecdn.com
@@ -92972,6 +92980,7 @@ payload:
   - DOMAIN-SUFFIX,nrnma.com
   - DOMAIN-SUFFIX,nrnwubdanwl.com
   - DOMAIN-SUFFIX,nrqqjb.com
+  - DOMAIN-SUFFIX,nrxduw5.com
   - DOMAIN-SUFFIX,nryceuula.com
   - DOMAIN-SUFFIX,nryiou.cn
   - DOMAIN-SUFFIX,nrzcj.top
@@ -102778,6 +102787,7 @@ payload:
   - DOMAIN-SUFFIX,sayyac.net
   - DOMAIN-SUFFIX,sb-money.ru
   - DOMAIN-SUFFIX,sb4you1.com
+  - DOMAIN-SUFFIX,sb6688.xyz
   - DOMAIN-SUFFIX,sb88b.com
   - DOMAIN-SUFFIX,sba.about.co.kr
   - DOMAIN-SUFFIX,sbaffiliates.com
@@ -103071,6 +103081,7 @@ payload:
   - DOMAIN-SUFFIX,scw0.com
   - DOMAIN-SUFFIX,scws.120ask.com
   - DOMAIN-SUFFIX,sczhilong.cn
+  - DOMAIN-SUFFIX,sd-tagging.azurefd.net
   - DOMAIN-SUFFIX,sd.0.0.0.0.cn
   - DOMAIN-SUFFIX,sd.5.p2l.info
   - DOMAIN-SUFFIX,sd.int.jumei.com
@@ -103168,6 +103179,7 @@ payload:
   - DOMAIN-SUFFIX,sdskj.club
   - DOMAIN-SUFFIX,sdsqyyc.com
   - DOMAIN-SUFFIX,sdsttt.com
+  - DOMAIN-SUFFIX,sdtagging.azureedge.net
   - DOMAIN-SUFFIX,sdtbhbyb.com
   - DOMAIN-SUFFIX,sdtieta.com
   - DOMAIN-SUFFIX,sduptpppm.com
@@ -104590,6 +104602,7 @@ payload:
   - DOMAIN-SUFFIX,site24x7rum.com
   - DOMAIN-SUFFIX,site24x7rum.eu
   - DOMAIN-SUFFIX,siteadvisor.com-br.site
+  - DOMAIN-SUFFIX,sitealyse.de
   - DOMAIN-SUFFIX,siteanaliz.org
   - DOMAIN-SUFFIX,siteapps.com
   - DOMAIN-SUFFIX,sitebakup.com
@@ -107973,6 +107986,7 @@ payload:
   - DOMAIN-SUFFIX,stats.absol.co.za
   - DOMAIN-SUFFIX,stats.acadevor.com
   - DOMAIN-SUFFIX,stats.adlice.com
+  - DOMAIN-SUFFIX,stats.administrarweb.es
   - DOMAIN-SUFFIX,stats.adultswim.com
   - DOMAIN-SUFFIX,stats.airfarewatchdog.co.uk
   - DOMAIN-SUFFIX,stats.airfarewatchdog.com
@@ -113911,6 +113925,7 @@ payload:
   - DOMAIN-SUFFIX,triggertag.gorillanation.com
   - DOMAIN-SUFFIX,triggit.com
   - DOMAIN-SUFFIX,trigr.co
+  - DOMAIN-SUFFIX,trigs-sockets.com
   - DOMAIN-SUFFIX,trigub.ru
   - DOMAIN-SUFFIX,trikersuccessar.site
   - DOMAIN-SUFFIX,trikroacha.com
@@ -114356,6 +114371,7 @@ payload:
   - DOMAIN-SUFFIX,tukeai.com
   - DOMAIN-SUFFIX,tukexiu.com
   - DOMAIN-SUFFIX,tukj.net
+  - DOMAIN-SUFFIX,tukkpixabay.com
   - DOMAIN-SUFFIX,tuknelym.com
   - DOMAIN-SUFFIX,tukuru.cotta.jp
   - DOMAIN-SUFFIX,tula9mari.com
@@ -114639,6 +114655,7 @@ payload:
   - DOMAIN-SUFFIX,tzlit.cn
   - DOMAIN-SUFFIX,tzuyruz.cn
   - DOMAIN-SUFFIX,tzwaw.pw
+  - DOMAIN-SUFFIX,tzxmhi.com
   - DOMAIN-SUFFIX,u-ad.info
   - DOMAIN-SUFFIX,u-mob.cn
   - DOMAIN-SUFFIX,u-on.eu
@@ -122228,6 +122245,7 @@ payload:
   - DOMAIN-SUFFIX,ytbctyy.com
   - DOMAIN-SUFFIX,ytbnm.cn
   - DOMAIN-SUFFIX,ytcard.cn
+  - DOMAIN-SUFFIX,ytcsugxsud.com
   - DOMAIN-SUFFIX,ytdksb.com
   - DOMAIN-SUFFIX,ytelc.com
   - DOMAIN-SUFFIX,ytgfsvcwtradg.xyz
