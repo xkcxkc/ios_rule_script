@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-18 02:12:01
+# UPDATED: 2022-04-21 02:11:43
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70351
+# DOMAIN-SUFFIX: 70350
 # DOMAIN: 76
 # IP-CIDR: 6229
 # DOMAIN-KEYWORD: 15
-# TOTAL: 76733
+# TOTAL: 76732
 265.com
 adservice.google.com
 analytics.strava.com
@@ -567,7 +567,6 @@ www4-static.gog-statics.com
 .05sun.com
 .05vm.com
 .05wan.com
-.062616.com
 .063108.com
 .0632idc.com
 .0634.com
@@ -3711,6 +3710,7 @@ www4-static.gog-statics.com
 .3wcoffee.com
 .3wfocus.com
 .3wht.com
+.3wka.com
 .3wmm.com
 .3wnb.com
 .3wnet.cn
@@ -7690,7 +7690,6 @@ www4-static.gog-statics.com
 .99meiju.org
 .99meiju.tv
 .99meili.com
-.99mingxing.com
 .99mst.com
 .99music.net
 .99niu.com
@@ -12268,7 +12267,6 @@ www4-static.gog-statics.com
 .bjsryc.com
 .bjssedu.com
 .bjsspm.com
-.bjssqt.com
 .bjsubway.cc
 .bjsubway.com
 .bjsuewin.com
@@ -12546,6 +12544,7 @@ www4-static.gog-statics.com
 .bnhgsb.com
 .bnhshiguan.com
 .bnjyks.com
+.bnman.net
 .bnncn.com
 .bnnd.net
 .bnqgsl.com
@@ -16072,6 +16071,7 @@ www4-static.gog-statics.com
 .chuguo78.com
 .chuguofeng.com
 .chuguohao.com
+.chuhaibiz.com
 .chuhoi.com
 .chuimg.com
 .chuinet.com
@@ -18226,6 +18226,7 @@ www4-static.gog-statics.com
 .csjplatform.com
 .csjwang.com
 .csjyzq.com
+.cskefu.com
 .cskule.com
 .cskxjk.com
 .cslfans.com
@@ -20687,6 +20688,7 @@ www4-static.gog-statics.com
 .dogecloud.com
 .dogedoge.com
 .dogfight360.com
+.dogimg.com
 .dogmr.com
 .dogwhere.com
 .dogyun.com
@@ -25053,6 +25055,7 @@ www4-static.gog-statics.com
 .gameabc.com
 .gameabc2.com
 .gameabc2.net
+.gamebaike.com
 .gamebar.com
 .gamebbm.com
 .gamebean.com
@@ -26672,7 +26675,6 @@ www4-static.gog-statics.com
 .guangzhou.gd.cn
 .guanhaobio.com
 .guanhuaju.com
-.guanjia2.com
 .guanjiajf.com
 .guanjianfeng.com
 .guankou.net
@@ -32438,7 +32440,6 @@ www4-static.gog-statics.com
 .inmuu.com
 .inneed.club
 .innjia.com
-.innlym.me
 .innocomn.com
 .innodealing.com
 .innojoy.com
@@ -32916,7 +32917,6 @@ www4-static.gog-statics.com
 .itakutf.com
 .italentclc.com
 .italyclassico.com
-.italycn.com
 .itamt.com
 .itangbole.com
 .itangyuan.com
@@ -36745,6 +36745,7 @@ www4-static.gog-statics.com
 .kkcoo.com
 .kkdict.com
 .kkdownload.com
+.kkeji.com
 .kkeye.com
 .kkfor.com
 .kkguan.com
@@ -43195,7 +43196,6 @@ www4-static.gog-statics.com
 .myzebravip.com
 .myzhiniu.com
 .myzhongjin.com
-.myznh.com
 .myzte.com
 .mz-oneacg.com
 .mz-sys.com
@@ -50740,7 +50740,6 @@ www4-static.gog-statics.com
 .shachong8.com
 .shacumox.com
 .shaddockfishing.com
-.shadow-forum.com
 .shadowedu.net
 .shadowq.com
 .shaduizi.com
@@ -51220,7 +51219,6 @@ www4-static.gog-statics.com
 .shichuedu.com
 .shici.store
 .shicishe.com
-.shiciting.com
 .shiciyun.com
 .shida66.com
 .shidaedu.vip
@@ -51645,7 +51643,6 @@ www4-static.gog-statics.com
 .shufa.com
 .shufaai.com
 .shufabao.net
-.shufadashi.com
 .shufafin.com
 .shufaji.com
 .shufami.com
@@ -53143,6 +53140,7 @@ www4-static.gog-statics.com
 .springtour.com
 .sprzny.com
 .spswc.com
+.spsy.org
 .sptcc.com
 .sptccn.com
 .spthome.com
@@ -53397,6 +53395,7 @@ www4-static.gog-statics.com
 .stjunshi.com
 .stjy.net
 .stkey.win
+.stklt.com
 .stlswm.com
 .stmaoyi.com
 .stmbuy.com
@@ -54326,7 +54325,6 @@ www4-static.gog-statics.com
 .szqcz.com
 .szqf.org
 .szqgzx.com
-.szqinxindz.com
 .szqsq.com
 .szqt.net
 .szquanli.com
@@ -61657,7 +61655,6 @@ www4-static.gog-statics.com
 .x-medex.com
 .x-mol.com
 .x-plans.com
-.x0750.com
 .x0769.com
 .x1047xv8b4.com
 .x118.net
@@ -61815,6 +61812,7 @@ www4-static.gog-statics.com
 .xbniao.com
 .xbongbong.com
 .xbooklist.com
+.xboot.org
 .xbox.com
 .xboxlive.com
 .xbptc.com
@@ -63823,7 +63821,6 @@ www4-static.gog-statics.com
 .xstxt.com
 .xsvps.com
 .xswdcasting.com
-.xsxkzz.com
 .xsycps.com
 .xsyk021.com
 .xsyqmztg.com
@@ -64738,6 +64735,7 @@ www4-static.gog-statics.com
 .ybm100.com
 .ybren.com
 .ybs120.com
+.ybscjp.com
 .ybtong.com
 .ybtvyun.com
 .ybtzjt.com
@@ -67280,6 +67278,7 @@ www4-static.gog-statics.com
 .ywxzz.com
 .ywy7.com
 .ywyanxing.com
+.ywzqzx.com
 .yx-g.com
 .yx-life.com
 .yx-s.com
