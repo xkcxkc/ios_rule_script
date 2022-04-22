@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-22 02:13:10
+# UPDATED: 2022-04-23 02:12:52
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70276
+# DOMAIN-SUFFIX: 70264
 # PROCESS-NAME: 4
 # DOMAIN: 76
 # IP-CIDR: 6229
 # DOMAIN-KEYWORD: 15
-# IP-CIDR6: 4171
-# TOTAL: 80833
+# IP-CIDR6: 4172
+# TOTAL: 80822
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -6284,7 +6284,6 @@ IP-CIDR6,2001:df0:2d80::/48,no-resolve
 IP-CIDR6,2001:df0:2e00::/48,no-resolve
 IP-CIDR6,2001:df0:2e80::/48,no-resolve
 IP-CIDR6,2001:df0:423::/48,no-resolve
-IP-CIDR6,2001:df0:4500::/48,no-resolve
 IP-CIDR6,2001:df0:85c0::/48,no-resolve
 IP-CIDR6,2001:df0:8d40::/48,no-resolve
 IP-CIDR6,2001:df0:9c0::/48,no-resolve
@@ -6483,9 +6482,11 @@ IP-CIDR6,2400:6bc0::/32,no-resolve
 IP-CIDR6,2400:6c40::/32,no-resolve
 IP-CIDR6,2400:6cc0::/32,no-resolve
 IP-CIDR6,2400:6d40::/32,no-resolve
+IP-CIDR6,2400:6da0::/32,no-resolve
 IP-CIDR6,2400:6dc0::/32,no-resolve
 IP-CIDR6,2400:6e00::/32,no-resolve
 IP-CIDR6,2400:6e40::/32,no-resolve
+IP-CIDR6,2400:6e60::/32,no-resolve
 IP-CIDR6,2400:6ec0::/32,no-resolve
 IP-CIDR6,2400:6f40::/32,no-resolve
 IP-CIDR6,2400:6f80::/32,no-resolve
@@ -7136,7 +7137,7 @@ IP-CIDR6,2403:2bc0::/32,no-resolve
 IP-CIDR6,2403:2cc0::/32,no-resolve
 IP-CIDR6,2403:2f40::/32,no-resolve
 IP-CIDR6,2403:2fc0::/32,no-resolve
-IP-CIDR6,2403:300:13c0::/47,no-resolve
+IP-CIDR6,2403:300:13c1::/48,no-resolve
 IP-CIDR6,2403:3040::/32,no-resolve
 IP-CIDR6,2403:30c0::/32,no-resolve
 IP-CIDR6,2403:3140::/32,no-resolve
@@ -8979,7 +8980,7 @@ IP-CIDR6,2406:8280::/32,no-resolve
 IP-CIDR6,2406:8380::/32,no-resolve
 IP-CIDR6,2406:840:8000::/34,no-resolve
 IP-CIDR6,2406:840::/33,no-resolve
-IP-CIDR6,2406:840:c000::/35,no-resolve
+IP-CIDR6,2406:840:c000::/36,no-resolve
 IP-CIDR6,2406:840:e000::/38,no-resolve
 IP-CIDR6,2406:840:e400::/39,no-resolve
 IP-CIDR6,2406:840:e600::/42,no-resolve

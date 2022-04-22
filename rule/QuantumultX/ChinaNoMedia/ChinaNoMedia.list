@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-17 02:12:31
+# UPDATED: 2022-04-23 02:12:53
 # USER-AGENT: 32
 # HOST-SUFFIX: 7089
 # HOST: 17
 # IP-CIDR: 6134
 # HOST-KEYWORD: 13
-# IP6-CIDR: 4171
-# TOTAL: 17456
+# IP6-CIDR: 4172
+# TOTAL: 17457
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -13324,7 +13324,6 @@ IP6-CIDR,2001:df0:2d80::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:2e00::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:2e80::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:423::/48,ChinaNoMedia
-IP6-CIDR,2001:df0:4500::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:85c0::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:8d40::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:9c0::/48,ChinaNoMedia
@@ -13523,9 +13522,11 @@ IP6-CIDR,2400:6bc0::/32,ChinaNoMedia
 IP6-CIDR,2400:6c40::/32,ChinaNoMedia
 IP6-CIDR,2400:6cc0::/32,ChinaNoMedia
 IP6-CIDR,2400:6d40::/32,ChinaNoMedia
+IP6-CIDR,2400:6da0::/32,ChinaNoMedia
 IP6-CIDR,2400:6dc0::/32,ChinaNoMedia
 IP6-CIDR,2400:6e00::/32,ChinaNoMedia
 IP6-CIDR,2400:6e40::/32,ChinaNoMedia
+IP6-CIDR,2400:6e60::/32,ChinaNoMedia
 IP6-CIDR,2400:6ec0::/32,ChinaNoMedia
 IP6-CIDR,2400:6f40::/32,ChinaNoMedia
 IP6-CIDR,2400:6f80::/32,ChinaNoMedia
@@ -14176,7 +14177,7 @@ IP6-CIDR,2403:2bc0::/32,ChinaNoMedia
 IP6-CIDR,2403:2cc0::/32,ChinaNoMedia
 IP6-CIDR,2403:2f40::/32,ChinaNoMedia
 IP6-CIDR,2403:2fc0::/32,ChinaNoMedia
-IP6-CIDR,2403:300:13c0::/47,ChinaNoMedia
+IP6-CIDR,2403:300:13c1::/48,ChinaNoMedia
 IP6-CIDR,2403:3040::/32,ChinaNoMedia
 IP6-CIDR,2403:30c0::/32,ChinaNoMedia
 IP6-CIDR,2403:3140::/32,ChinaNoMedia
@@ -16019,7 +16020,7 @@ IP6-CIDR,2406:8280::/32,ChinaNoMedia
 IP6-CIDR,2406:8380::/32,ChinaNoMedia
 IP6-CIDR,2406:840:8000::/34,ChinaNoMedia
 IP6-CIDR,2406:840::/33,ChinaNoMedia
-IP6-CIDR,2406:840:c000::/35,ChinaNoMedia
+IP6-CIDR,2406:840:c000::/36,ChinaNoMedia
 IP6-CIDR,2406:840:e000::/38,ChinaNoMedia
 IP6-CIDR,2406:840:e400::/39,ChinaNoMedia
 IP6-CIDR,2406:840:e600::/42,ChinaNoMedia

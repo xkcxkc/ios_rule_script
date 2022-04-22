@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-17 02:12:35
+# UPDATED: 2022-04-23 02:12:57
 # DOMAIN-SUFFIX: 7089
 # PROCESS-NAME: 3
 # DOMAIN: 17
 # IP-CIDR: 6134
 # DOMAIN-KEYWORD: 13
-# IP-CIDR6: 4171
-# TOTAL: 17427
+# IP-CIDR6: 4172
+# TOTAL: 17428
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -13293,7 +13293,6 @@ payload:
   - IP-CIDR6,2001:df0:2e00::/48,no-resolve
   - IP-CIDR6,2001:df0:2e80::/48,no-resolve
   - IP-CIDR6,2001:df0:423::/48,no-resolve
-  - IP-CIDR6,2001:df0:4500::/48,no-resolve
   - IP-CIDR6,2001:df0:85c0::/48,no-resolve
   - IP-CIDR6,2001:df0:8d40::/48,no-resolve
   - IP-CIDR6,2001:df0:9c0::/48,no-resolve
@@ -13492,9 +13491,11 @@ payload:
   - IP-CIDR6,2400:6c40::/32,no-resolve
   - IP-CIDR6,2400:6cc0::/32,no-resolve
   - IP-CIDR6,2400:6d40::/32,no-resolve
+  - IP-CIDR6,2400:6da0::/32,no-resolve
   - IP-CIDR6,2400:6dc0::/32,no-resolve
   - IP-CIDR6,2400:6e00::/32,no-resolve
   - IP-CIDR6,2400:6e40::/32,no-resolve
+  - IP-CIDR6,2400:6e60::/32,no-resolve
   - IP-CIDR6,2400:6ec0::/32,no-resolve
   - IP-CIDR6,2400:6f40::/32,no-resolve
   - IP-CIDR6,2400:6f80::/32,no-resolve
@@ -14145,7 +14146,7 @@ payload:
   - IP-CIDR6,2403:2cc0::/32,no-resolve
   - IP-CIDR6,2403:2f40::/32,no-resolve
   - IP-CIDR6,2403:2fc0::/32,no-resolve
-  - IP-CIDR6,2403:300:13c0::/47,no-resolve
+  - IP-CIDR6,2403:300:13c1::/48,no-resolve
   - IP-CIDR6,2403:3040::/32,no-resolve
   - IP-CIDR6,2403:30c0::/32,no-resolve
   - IP-CIDR6,2403:3140::/32,no-resolve
@@ -15988,7 +15989,7 @@ payload:
   - IP-CIDR6,2406:8380::/32,no-resolve
   - IP-CIDR6,2406:840:8000::/34,no-resolve
   - IP-CIDR6,2406:840::/33,no-resolve
-  - IP-CIDR6,2406:840:c000::/35,no-resolve
+  - IP-CIDR6,2406:840:c000::/36,no-resolve
   - IP-CIDR6,2406:840:e000::/38,no-resolve
   - IP-CIDR6,2406:840:e400::/39,no-resolve
   - IP-CIDR6,2406:840:e600::/42,no-resolve

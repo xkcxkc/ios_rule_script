@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-03-28 02:11:52
-# DOMAIN-SUFFIX: 25417
+# UPDATED: 2022-04-23 02:12:58
+# DOMAIN-SUFFIX: 25418
 # USER-AGENT: 7
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
-# TOTAL: 25556
+# TOTAL: 25557
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -14183,6 +14183,7 @@ voice.telephony.goog
 .openloadfreetv.me
 .openmine.cl
 .openproxy.co.uk
+.opensea.io
 .opensource.google
 .opensur.cl
 .opentable.com
