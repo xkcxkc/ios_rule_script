@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-24 00:37:06
+# UPDATED: 2022-04-24 00:52:23
 # DOMAIN: 45969
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77949
+# DOMAIN-SUFFIX: 77947
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 124259
+# TOTAL: 124257
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -99599,7 +99599,6 @@ payload:
   - DOMAIN-SUFFIX,qingyiso.cn
   - DOMAIN-SUFFIX,qingyulin.top
   - DOMAIN-SUFFIX,qingzhencai.net
-  - DOMAIN-SUFFIX,qinhemuye.com:443
   - DOMAIN-SUFFIX,qinlinquan.cn
   - DOMAIN-SUFFIX,qinmon.xyz
   - DOMAIN-SUFFIX,qinongyouxuan.cn
@@ -121339,7 +121338,6 @@ payload:
   - DOMAIN-SUFFIX,xue.zbyw.cn
   - DOMAIN-SUFFIX,xuefenxi.com
   - DOMAIN-SUFFIX,xuehelei.com
-  - DOMAIN-SUFFIX,xuehongxs.com:8862
   - DOMAIN-SUFFIX,xuenengyoujiaoyu.com
   - DOMAIN-SUFFIX,xuexi.hydcd.com
   - DOMAIN-SUFFIX,xuexingkeji.cn

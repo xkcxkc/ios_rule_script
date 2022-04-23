@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-24 00:37:08
+# UPDATED: 2022-04-24 00:52:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45969
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77949
+# DOMAIN-SUFFIX: 77947
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 124560
+# TOTAL: 124558
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -99599,7 +99599,6 @@ zzzrtrcm2.com
 .qingyiso.cn
 .qingyulin.top
 .qingzhencai.net
-.qinhemuye.com:443
 .qinlinquan.cn
 .qinmon.xyz
 .qinongyouxuan.cn
@@ -121339,7 +121338,6 @@ zzzrtrcm2.com
 .xue.zbyw.cn
 .xuefenxi.com
 .xuehelei.com
-.xuehongxs.com:8862
 .xuenengyoujiaoyu.com
 .xuexi.hydcd.com
 .xuexingkeji.cn
