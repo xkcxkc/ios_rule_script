@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-23 19:01:48
+# UPDATED: 2022-04-24 00:37:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45222
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90999
+# DOMAIN-SUFFIX: 90998
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 136863
+# TOTAL: 136862
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -47328,7 +47328,6 @@ zzzrtrcm2.com
 .63kc.com
 .63r2vxacp0pr.com
 .63voy9ciyi14.com
-.63xs.com:8016
 .641198810fae7.com
 .643226.com
 .6438905.com
