@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-24 00:52:22
+# UPDATED: 2022-04-25 02:12:58
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45969
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 77947
+# DOMAIN-SUFFIX: 77959
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 124559
+# TOTAL: 124571
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -48716,7 +48716,6 @@ zzzrtrcm2.com
 .988878.com
 .9898c.com
 .98bf9h8jbg.com
-.98e22a373e.com
 .98hx.cn
 .991019.top
 .991pao.com
@@ -54731,6 +54730,7 @@ zzzrtrcm2.com
 .alibdm.xyz
 .alibdn.xyz
 .alibestru.ru
+.alibistated.com
 .alicmayuns.com
 .alicpd.top
 .alidongxi.com
@@ -55936,6 +55936,7 @@ zzzrtrcm2.com
 .apearmark.online
 .apeartalb.site
 .apedah.com
+.apeng.club
 .apenterprise.io
 .aperio.leicabiosystems.com
 .apester.com
@@ -62580,6 +62581,7 @@ zzzrtrcm2.com
 .chiptionics.co
 .chirkacylal.com
 .chirui.net
+.chishenmeyanjiuyuan.top
 .chistochisto.com
 .chitaglipti.pro
 .chitika.com
@@ -62936,6 +62938,7 @@ zzzrtrcm2.com
 .cldlr.com
 .cldom.com
 .cldrck.com
+.cldup.com
 .cleafs.com
 .clean-mobilephone.com
 .clean.gg
@@ -76363,6 +76366,7 @@ zzzrtrcm2.com
 .grecmaru.com
 .gredinatib.org
 .grednomex.pro
+.gredraus.net
 .greeandjo.online
 .greeandjou.biz
 .greece-search.com
@@ -85066,6 +85070,7 @@ zzzrtrcm2.com
 .licensing.tableausoftware.com
 .licensinginsights.ascap.com
 .lichaoliang.com
+.lichee.fun
 .lichenqx.com
 .lichtpass.com
 .lichyela.ru
@@ -86681,6 +86686,7 @@ zzzrtrcm2.com
 .lustre.ai
 .lutachechu.pro
 .lutsoops.net
+.lutvcmuisohfyq.com
 .luublimaluulo.com
 .luulibaluli.com
 .luumhi.whatonearthcatalog.com
@@ -102043,7 +102049,6 @@ zzzrtrcm2.com
 .rscxwmj.cn
 .rseyebrown.fun
 .rsftjj.cn
-.rsfudjsnroc.com
 .rshi.club
 .rskillsplu.club
 .rsl2dd0twlym.com
@@ -103230,6 +103235,7 @@ zzzrtrcm2.com
 .scowlsteering.com
 .scowpoppanasals.com
 .scqajt.cn
+.scqiuchang.com
 .scr-tz.com
 .scr.flashcast.org.uk
 .scramsaaron.com
@@ -107390,6 +107396,7 @@ zzzrtrcm2.com
 .sqwed.371dk.com
 .sqwscy.com
 .sqyueda.com
+.sqyx.top
 .sr-dynamic-content.ext.api.leclerc
 .sr.studiostack.com
 .sra.moresophy.net
@@ -111941,6 +111948,7 @@ zzzrtrcm2.com
 .tmmjgcp.cn
 .tmmp.io
 .tmnlsmvgrkoj.com
+.tmnz.top
 .tmov.asia
 .tmozs.com
 .tmqhw.us
@@ -117846,6 +117854,7 @@ zzzrtrcm2.com
 .wangjulm.com
 .wangkeduo.cn
 .wangketuan.com
+.wangkuang.net.cn
 .wangl903.com
 .wanglc.vip
 .wangliqin.top
@@ -119447,6 +119456,7 @@ zzzrtrcm2.com
 .wqqsa.puzihua.com
 .wqsph.net
 .wqssibpfobsi.xyz
+.wqyipmakwh.com
 .wqzyt.net
 .wr.yiyouliao.com
 .wrapper.lemde.fr
@@ -121880,6 +121890,7 @@ zzzrtrcm2.com
 .yggkzs.cn
 .yggzrdiq.com
 .yghua.com
+.ygiugqyccp.com
 .yglhcn.cn
 .ygmpia.worten.pt
 .ygnbukywx.com
@@ -122366,6 +122377,7 @@ zzzrtrcm2.com
 .yourdailytrailer.yournewtab.com
 .yourdatelink.com
 .yourdestinationlink.com
+.youre123.com
 .yourfoxes.ru
 .yourfoxes1.ru
 .yourfoxes2.ru

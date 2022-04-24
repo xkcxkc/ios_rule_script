@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-24 00:52:26
+# UPDATED: 2022-04-25 02:13:03
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45222
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90996
+# DOMAIN-SUFFIX: 91010
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 136860
+# TOTAL: 136874
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -46175,6 +46175,7 @@ zzzrtrcm2.com
 .23taoke.xyz
 .23txt.com
 .23uuw3.com
+.23wm.cc
 .24-7clinic.com
 .24-sportnews.com
 .24200.h5ixp.com
@@ -47348,6 +47349,7 @@ zzzrtrcm2.com
 .651b4ee436b8cdae.com
 .652696.com
 .652748.com
+.65432.shop
 .6548579f50dc08be9.com
 .654fd964d63c0.com
 .654mmm.com
@@ -48226,7 +48228,6 @@ zzzrtrcm2.com
 .988878.com
 .9898c.com
 .98bf9h8jbg.com
-.98e22a373e.com
 .98hx.cn
 .991019.top
 .991pao.com
@@ -54995,6 +54996,7 @@ zzzrtrcm2.com
 .alibdm.xyz
 .alibdn.xyz
 .alibestru.ru
+.alibistated.com
 .alicmayuns.com
 .alicpd.top
 .alidongxi.com
@@ -56477,6 +56479,7 @@ zzzrtrcm2.com
 .apearmark.online
 .apeartalb.site
 .apedah.com
+.apeng.club
 .apenterprise.io
 .aperio.leicabiosystems.com
 .apersonagri.club
@@ -64241,6 +64244,7 @@ zzzrtrcm2.com
 .chiptionics.co
 .chirkacylal.com
 .chirui.net
+.chishenmeyanjiuyuan.top
 .chistochisto.com
 .chitaglipti.pro
 .chitereach.club
@@ -64656,6 +64660,7 @@ zzzrtrcm2.com
 .cldlr.com
 .cldom.com
 .cldrck.com
+.cldup.com
 .cleafs.com
 .clean-mobilephone.com
 .clean.gg
@@ -87515,6 +87520,7 @@ zzzrtrcm2.com
 .junioneruytew.info
 .junipe3rus4virginiana.com
 .juniper.starleaf.com
+.junk-cleaner.org
 .junkucm.com
 .junmediadirect.com
 .junnew.com
@@ -90164,6 +90170,7 @@ zzzrtrcm2.com
 .licensinginsights.ascap.com
 .licentchamom.club
 .lichaoliang.com
+.lichee.fun
 .lichenqx.com
 .lichtpass.com
 .lichyela.ru
@@ -91934,6 +91941,7 @@ zzzrtrcm2.com
 .lutachechu.pro
 .lutcdiimmeze.com
 .lutsoops.net
+.lutvcmuisohfyq.com
 .luublimaluulo.com
 .luulibaluli.com
 .luumhi.whatonearthcatalog.com
@@ -110377,7 +110385,6 @@ zzzrtrcm2.com
 .rsesmalikes.top
 .rseyebrown.fun
 .rsftjj.cn
-.rsfudjsnroc.com
 .rshi.club
 .rsjehandse.club
 .rskillsplu.club
@@ -112044,6 +112051,7 @@ zzzrtrcm2.com
 .scowlsteering.com
 .scowpoppanasals.com
 .scqajt.cn
+.scqiuchang.com
 .scr-tz.com
 .scr.flashcast.org.uk
 .scramsaaron.com
@@ -117315,6 +117323,7 @@ zzzrtrcm2.com
 .sqwed.371dk.com
 .sqwscy.com
 .sqyueda.com
+.sqyx.top
 .sr-dynamic-content.ext.api.leclerc
 .sr.studiostack.com
 .sra.moresophy.net
@@ -122807,6 +122816,7 @@ zzzrtrcm2.com
 .tmmjgcp.cn
 .tmmp.io
 .tmnlsmvgrkoj.com
+.tmnz.top
 .tmov.asia
 .tmozs.com
 .tmpclk.com
@@ -129483,6 +129493,7 @@ zzzrtrcm2.com
 .wangjulm.com
 .wangkeduo.cn
 .wangketuan.com
+.wangkuang.net.cn
 .wangl903.com
 .wanglc.vip
 .wangliqin.top
@@ -132738,6 +132749,7 @@ zzzrtrcm2.com
 .xiandafood.cn
 .xiang7.vip
 .xiangchim0.com
+.xianggou.club
 .xianggouwu.vip
 .xiangkantv.cn
 .xianglong360.cn
@@ -133993,6 +134005,7 @@ zzzrtrcm2.com
 .yggkzs.cn
 .yggzrdiq.com
 .yghua.com
+.ygiugqyccp.com
 .yglhcn.cn
 .ygmpia.worten.pt
 .ygnbukywx.com
@@ -134509,6 +134522,7 @@ zzzrtrcm2.com
 .yourdailytrailer.yournewtab.com
 .yourdatelink.com
 .yourdestinationlink.com
+.youre123.com
 .yourfoxes.ru
 .yourfoxes1.ru
 .yourfoxes2.ru
