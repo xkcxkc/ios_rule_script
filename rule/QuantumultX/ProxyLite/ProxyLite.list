@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-27 02:14:03
-# HOST-SUFFIX: 32704
+# UPDATED: 2022-04-28 02:13:47
+# HOST-SUFFIX: 32705
 # USER-AGENT: 5
 # HOST: 38
 # HOST-KEYWORD: 29
 # IP-CIDR: 92
 # IP6-CIDR: 3
-# TOTAL: 32871
+# TOTAL: 32872
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -4489,6 +4489,7 @@ HOST-SUFFIX,bankiowa.com,ProxyLite
 HOST-SUFFIX,bankmandiri.co.id,ProxyLite
 HOST-SUFFIX,bankmobilevibe.com,ProxyLite
 HOST-SUFFIX,banned.video,ProxyLite
+HOST-SUFFIX,bannedbook.net,ProxyLite
 HOST-SUFFIX,bannednews.org,ProxyLite
 HOST-SUFFIX,banorte.com,ProxyLite
 HOST-SUFFIX,bansheerocks.com,ProxyLite
@@ -19097,6 +19098,7 @@ HOST-SUFFIX,ntd.tv,ProxyLite
 HOST-SUFFIX,ntdca.com,ProxyLite
 HOST-SUFFIX,ntdcantonese.com,ProxyLite
 HOST-SUFFIX,ntdimg.com,ProxyLite
+HOST-SUFFIX,ntdtv-dc.com,ProxyLite
 HOST-SUFFIX,ntdtv.ca,ProxyLite
 HOST-SUFFIX,ntdtv.co.kr,ProxyLite
 HOST-SUFFIX,ntdtv.com.tw,ProxyLite
@@ -27912,7 +27914,6 @@ HOST-SUFFIX,www.ballbustingtube.com,ProxyLite
 HOST-SUFFIX,www.bamboome.sk,ProxyLite
 HOST-SUFFIX,www.bamsoftware.com,ProxyLite
 HOST-SUFFIX,www.banjuan.net,ProxyLite
-HOST-SUFFIX,www.bannedbook.net,ProxyLite
 HOST-SUFFIX,www.bannersbroker.com,ProxyLite
 HOST-SUFFIX,www.bao1616.com,ProxyLite
 HOST-SUFFIX,www.baoyang98.com,ProxyLite

@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-27 02:14:04
-# DOMAIN-SUFFIX: 32704
+# UPDATED: 2022-04-28 02:13:48
+# DOMAIN-SUFFIX: 32705
 # USER-AGENT: 5
 # DOMAIN: 38
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 32871
+# TOTAL: 32872
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -4489,6 +4489,7 @@ www-cdn.icloud.com.akadns.net
 .bankmandiri.co.id
 .bankmobilevibe.com
 .banned.video
+.bannedbook.net
 .bannednews.org
 .banorte.com
 .bansheerocks.com
@@ -19097,6 +19098,7 @@ www-cdn.icloud.com.akadns.net
 .ntdca.com
 .ntdcantonese.com
 .ntdimg.com
+.ntdtv-dc.com
 .ntdtv.ca
 .ntdtv.co.kr
 .ntdtv.com.tw
@@ -27912,7 +27914,6 @@ www-cdn.icloud.com.akadns.net
 .www.bamboome.sk
 .www.bamsoftware.com
 .www.banjuan.net
-.www.bannedbook.net
 .www.bannersbroker.com
 .www.bao1616.com
 .www.baoyang98.com

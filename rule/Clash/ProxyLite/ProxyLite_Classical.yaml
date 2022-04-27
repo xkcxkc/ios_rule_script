@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-27 02:14:07
-# DOMAIN-SUFFIX: 32704
+# UPDATED: 2022-04-28 02:13:50
+# DOMAIN-SUFFIX: 32705
 # DOMAIN: 38
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 32866
+# TOTAL: 32867
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -4489,6 +4489,7 @@ payload:
   - DOMAIN-SUFFIX,bankmandiri.co.id
   - DOMAIN-SUFFIX,bankmobilevibe.com
   - DOMAIN-SUFFIX,banned.video
+  - DOMAIN-SUFFIX,bannedbook.net
   - DOMAIN-SUFFIX,bannednews.org
   - DOMAIN-SUFFIX,banorte.com
   - DOMAIN-SUFFIX,bansheerocks.com
@@ -19097,6 +19098,7 @@ payload:
   - DOMAIN-SUFFIX,ntdca.com
   - DOMAIN-SUFFIX,ntdcantonese.com
   - DOMAIN-SUFFIX,ntdimg.com
+  - DOMAIN-SUFFIX,ntdtv-dc.com
   - DOMAIN-SUFFIX,ntdtv.ca
   - DOMAIN-SUFFIX,ntdtv.co.kr
   - DOMAIN-SUFFIX,ntdtv.com.tw
@@ -27912,7 +27914,6 @@ payload:
   - DOMAIN-SUFFIX,www.bamboome.sk
   - DOMAIN-SUFFIX,www.bamsoftware.com
   - DOMAIN-SUFFIX,www.banjuan.net
-  - DOMAIN-SUFFIX,www.bannedbook.net
   - DOMAIN-SUFFIX,www.bannersbroker.com
   - DOMAIN-SUFFIX,www.bao1616.com
   - DOMAIN-SUFFIX,www.baoyang98.com
