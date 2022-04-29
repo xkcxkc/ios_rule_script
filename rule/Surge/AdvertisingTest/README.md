@@ -18,15 +18,15 @@
 
 ## 规则统计
 
-总计规则：137149 条。
+总计规则：136787 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 45310 |
+| DOMAIN | 46033 |
 | DOMAIN-KEYWORD | 85 |
-| DOMAIN-SUFFIX | 91196 |
+| DOMAIN-SUFFIX | 90111 |
 | IP-CIDR | 255 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 302 |
@@ -129,9 +129,6 @@ AdvertisingTest_Domain.list 请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.list
 - https://raw.githubusercontent.com/mieqq/mieqq/master/In-AppTracker.txt
 - https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/Tide.list
-- https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
-- https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt
-- https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
 - https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list

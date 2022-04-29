@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-29 02:14:20
+# UPDATED: 2022-04-30 02:15:41
 # USER-AGENT: 32
-# HOST-SUFFIX: 7089
+# HOST-SUFFIX: 7090
 # HOST: 17
 # IP-CIDR: 6135
 # HOST-KEYWORD: 13
-# IP6-CIDR: 4172
-# TOTAL: 17458
+# IP6-CIDR: 4179
+# TOTAL: 17466
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -3976,6 +3976,7 @@ HOST-SUFFIX,langkoo.com,ChinaNoMedia
 HOST-SUFFIX,lanzou.com,ChinaNoMedia
 HOST-SUFFIX,lanzoug.com,ChinaNoMedia
 HOST-SUFFIX,lanzoui.com,ChinaNoMedia
+HOST-SUFFIX,lanzouo.com,ChinaNoMedia
 HOST-SUFFIX,lanzous.com,ChinaNoMedia
 HOST-SUFFIX,lanzoux.com,ChinaNoMedia
 HOST-SUFFIX,laohu.com,ChinaNoMedia
@@ -13533,6 +13534,7 @@ IP6-CIDR,2400:6f40::/32,ChinaNoMedia
 IP6-CIDR,2400:6f80::/32,ChinaNoMedia
 IP6-CIDR,2400:6fc0::/32,ChinaNoMedia
 IP6-CIDR,2400:7040::/32,ChinaNoMedia
+IP6-CIDR,2400:70a0::/32,ChinaNoMedia
 IP6-CIDR,2400:7100::/32,ChinaNoMedia
 IP6-CIDR,2400:7140::/32,ChinaNoMedia
 IP6-CIDR,2400:71c0::/32,ChinaNoMedia
@@ -14178,7 +14180,7 @@ IP6-CIDR,2403:2bc0::/32,ChinaNoMedia
 IP6-CIDR,2403:2cc0::/32,ChinaNoMedia
 IP6-CIDR,2403:2f40::/32,ChinaNoMedia
 IP6-CIDR,2403:2fc0::/32,ChinaNoMedia
-IP6-CIDR,2403:300:13c1::/48,ChinaNoMedia
+IP6-CIDR,2403:300:13c0::/47,ChinaNoMedia
 IP6-CIDR,2403:3040::/32,ChinaNoMedia
 IP6-CIDR,2403:30c0::/32,ChinaNoMedia
 IP6-CIDR,2403:3140::/32,ChinaNoMedia
@@ -14520,7 +14522,6 @@ IP6-CIDR,2404:5640::/32,ChinaNoMedia
 IP6-CIDR,2404:5a80::/32,ChinaNoMedia
 IP6-CIDR,2404:5b00::/32,ChinaNoMedia
 IP6-CIDR,2404:5d00::/32,ChinaNoMedia
-IP6-CIDR,2404:5e80::/32,ChinaNoMedia
 IP6-CIDR,2404:6000::/32,ChinaNoMedia
 IP6-CIDR,2404:6100::/32,ChinaNoMedia
 IP6-CIDR,2404:6380::/32,ChinaNoMedia
@@ -16049,7 +16050,16 @@ IP6-CIDR,2406:840:f220::/43,ChinaNoMedia
 IP6-CIDR,2406:840:f240::/42,ChinaNoMedia
 IP6-CIDR,2406:840:f280::/41,ChinaNoMedia
 IP6-CIDR,2406:840:f300::/40,ChinaNoMedia
-IP6-CIDR,2406:840:f400::/38,ChinaNoMedia
+IP6-CIDR,2406:840:f400::/48,ChinaNoMedia
+IP6-CIDR,2406:840:f402::/47,ChinaNoMedia
+IP6-CIDR,2406:840:f404::/46,ChinaNoMedia
+IP6-CIDR,2406:840:f408::/45,ChinaNoMedia
+IP6-CIDR,2406:840:f410::/44,ChinaNoMedia
+IP6-CIDR,2406:840:f420::/43,ChinaNoMedia
+IP6-CIDR,2406:840:f440::/42,ChinaNoMedia
+IP6-CIDR,2406:840:f480::/41,ChinaNoMedia
+IP6-CIDR,2406:840:f500::/40,ChinaNoMedia
+IP6-CIDR,2406:840:f600::/39,ChinaNoMedia
 IP6-CIDR,2406:840:f800::/37,ChinaNoMedia
 IP6-CIDR,2406:8480::/32,ChinaNoMedia
 IP6-CIDR,2406:8500::/32,ChinaNoMedia
@@ -16073,7 +16083,6 @@ IP6-CIDR,2406:9380::/32,ChinaNoMedia
 IP6-CIDR,2406:9480::/32,ChinaNoMedia
 IP6-CIDR,2406:94c0::/32,ChinaNoMedia
 IP6-CIDR,2406:9780::/32,ChinaNoMedia
-IP6-CIDR,2406:9c0::/32,ChinaNoMedia
 IP6-CIDR,2406:9d80::/32,ChinaNoMedia
 IP6-CIDR,2406:9e40::/32,ChinaNoMedia
 IP6-CIDR,2406:9e80::/32,ChinaNoMedia
@@ -17452,7 +17461,6 @@ IP6-CIDR,2a0e:7580::/34,ChinaNoMedia
 IP6-CIDR,2a0e:7581::/32,ChinaNoMedia
 IP6-CIDR,2a0e:7582::/31,ChinaNoMedia
 IP6-CIDR,2a0e:7584::/30,ChinaNoMedia
-IP6-CIDR,2a0e:a0c0::/29,ChinaNoMedia
 IP6-CIDR,2a0e:aa06:10::/48,ChinaNoMedia
 IP6-CIDR,2a0e:aa06:300::/40,ChinaNoMedia
 IP6-CIDR,2a0e:aa06:406::/48,ChinaNoMedia
