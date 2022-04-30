@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-30 02:15:46
-# DOMAIN-SUFFIX: 32131
+# UPDATED: 2022-05-01 02:12:45
+# DOMAIN-SUFFIX: 32155
 # DOMAIN: 38
-# DOMAIN-KEYWORD: 25
+# DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32287
+# TOTAL: 32312
 payload:
   - 'angle.com.tw'
   - 'api-p.videomarket.jp'
@@ -4050,6 +4050,7 @@ payload:
   - '+.atlaspost.com'
   - '+.atlassian.com'
   - '+.atlasvpn.com'
+  - '+.atom.io'
   - '+.atomyteam.com'
   - '+.atozproxy.com'
   - '+.atriumesoteric.org'
@@ -8340,6 +8341,7 @@ payload:
   - '+.deno.land'
   - '+.dentalhypotheses.com'
   - '+.denverpost.com'
+  - '+.dependabot.com'
   - '+.depositphotos.com'
   - '+.deptofhealth.xyz'
   - '+.derementeria.cl'
@@ -11854,6 +11856,7 @@ payload:
   - '+.gh0029.com'
   - '+.gh0091.com'
   - '+.gh0092.com'
+  - '+.ghcr.io'
   - '+.ghettotube.com'
   - '+.ghidra-sre.org'
   - '+.ghostery.com'
@@ -11895,6 +11898,7 @@ payload:
   - '+.girlspoopingtube.com'
   - '+.gisplanning.com'
   - '+.git-scm.com'
+  - '+.git.io'
   - '+.git.wft44maqbweb.xyz'
   - '+.git2.wft44maqbweb.xyz'
   - '+.git3.wft44maqbweb.xyz'
@@ -11902,6 +11906,18 @@ payload:
   - '+.gitbook.io'
   - '+.gitbooks.io'
   - '+.githack.com'
+  - '+.github.blog'
+  - '+.github.com'
+  - '+.github.community'
+  - '+.github.dev'
+  - '+.github.io'
+  - '+.githubapp.com'
+  - '+.githubassets.com'
+  - '+.githubhackathon.com'
+  - '+.githubpreview.dev'
+  - '+.githubstatus.com'
+  - '+.githubuniverse.com'
+  - '+.githubusercontent.com'
   - '+.gitlab-static.net'
   - '+.gitlab.com'
   - '+.gitlab.io'
@@ -17767,6 +17783,7 @@ payload:
   - '+.mynike.com'
   - '+.myntuemba.com'
   - '+.mynumber.org'
+  - '+.myoctocat.com'
   - '+.myothantsinaung.weebly.com'
   - '+.mypaper.sg'
   - '+.myparagliding.com'
@@ -18569,6 +18586,9 @@ payload:
   - '+.npa.gov.tw'
   - '+.npackd.org'
   - '+.npf.org.tw'
+  - '+.npm.community'
+  - '+.npmjs.com'
+  - '+.npmjs.org'
   - '+.npnt.me'
   - '+.npr.org'
   - '+.nps.gov'
@@ -19000,6 +19020,7 @@ payload:
   - '+.openresty.org'
   - '+.opensea.io'
   - '+.opensource.google'
+  - '+.opensource.guide'
   - '+.openssl.org'
   - '+.openstreetmap.com'
   - '+.openstreetmap.net'
@@ -20801,6 +20822,8 @@ payload:
   - '+.rauchmeldershop.ch'
   - '+.ravm.tv'
   - '+.rawdirect.com'
+  - '+.rawgit.com'
+  - '+.rawgithub.com'
   - '+.rawstory.com'
   - '+.rawtube.com'
   - '+.raxcdn.com'
@@ -23530,6 +23553,7 @@ payload:
   - '+.thegay.porn'
   - '+.thegeorgiascene.com'
   - '+.thegioitinhoc.vn'
+  - '+.thegithubshop.com'
   - '+.theglobalmarketeer.com'
   - '+.theglobeandmail.com'
   - '+.theglue.si'

@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-30 02:15:47
-# DOMAIN-SUFFIX: 32131
+# UPDATED: 2022-05-01 02:12:46
+# DOMAIN-SUFFIX: 32155
 # USER-AGENT: 5
 # DOMAIN: 38
-# DOMAIN-KEYWORD: 25
+# DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
-# TOTAL: 32289
+# TOTAL: 32314
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -4049,6 +4049,7 @@ www-cdn.icloud.com.akadns.net
 .atlaspost.com
 .atlassian.com
 .atlasvpn.com
+.atom.io
 .atomyteam.com
 .atozproxy.com
 .atriumesoteric.org
@@ -8339,6 +8340,7 @@ www-cdn.icloud.com.akadns.net
 .deno.land
 .dentalhypotheses.com
 .denverpost.com
+.dependabot.com
 .depositphotos.com
 .deptofhealth.xyz
 .derementeria.cl
@@ -11853,6 +11855,7 @@ www-cdn.icloud.com.akadns.net
 .gh0029.com
 .gh0091.com
 .gh0092.com
+.ghcr.io
 .ghettotube.com
 .ghidra-sre.org
 .ghostery.com
@@ -11894,6 +11897,7 @@ www-cdn.icloud.com.akadns.net
 .girlspoopingtube.com
 .gisplanning.com
 .git-scm.com
+.git.io
 .git.wft44maqbweb.xyz
 .git2.wft44maqbweb.xyz
 .git3.wft44maqbweb.xyz
@@ -11901,6 +11905,18 @@ www-cdn.icloud.com.akadns.net
 .gitbook.io
 .gitbooks.io
 .githack.com
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.githubassets.com
+.githubhackathon.com
+.githubpreview.dev
+.githubstatus.com
+.githubuniverse.com
+.githubusercontent.com
 .gitlab-static.net
 .gitlab.com
 .gitlab.io
@@ -17766,6 +17782,7 @@ www-cdn.icloud.com.akadns.net
 .mynike.com
 .myntuemba.com
 .mynumber.org
+.myoctocat.com
 .myothantsinaung.weebly.com
 .mypaper.sg
 .myparagliding.com
@@ -18568,6 +18585,9 @@ www-cdn.icloud.com.akadns.net
 .npa.gov.tw
 .npackd.org
 .npf.org.tw
+.npm.community
+.npmjs.com
+.npmjs.org
 .npnt.me
 .npr.org
 .nps.gov
@@ -18999,6 +19019,7 @@ www-cdn.icloud.com.akadns.net
 .openresty.org
 .opensea.io
 .opensource.google
+.opensource.guide
 .openssl.org
 .openstreetmap.com
 .openstreetmap.net
@@ -20800,6 +20821,8 @@ www-cdn.icloud.com.akadns.net
 .rauchmeldershop.ch
 .ravm.tv
 .rawdirect.com
+.rawgit.com
+.rawgithub.com
 .rawstory.com
 .rawtube.com
 .raxcdn.com
@@ -23529,6 +23552,7 @@ www-cdn.icloud.com.akadns.net
 .thegay.porn
 .thegeorgiascene.com
 .thegioitinhoc.vn
+.thegithubshop.com
 .theglobalmarketeer.com
 .theglobeandmail.com
 .theglue.si
