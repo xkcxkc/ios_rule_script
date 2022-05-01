@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-01 02:12:46
+# UPDATED: 2022-05-02 02:12:07
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51340
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 73091
+# DOMAIN-SUFFIX: 73100
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 125073
+# TOTAL: 125082
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -60219,6 +60219,7 @@ zzzrtrcm2.com
 .amplify.strategic-i.com
 .amplitude.com
 .amplitudewassnap.com
+.ampltd.top.gg
 .amptrack-dailymail-co-uk.cdn.ampproject.org
 .ampugi334f.com
 .ampush.io
@@ -67659,7 +67660,6 @@ zzzrtrcm2.com
 .cldlr.com
 .cldom.com
 .cldrck.com
-.cldup.com
 .cleafs.com
 .clean-mobilephone.com
 .clean.gg
@@ -75852,6 +75852,7 @@ zzzrtrcm2.com
 .events.avantisvideo.com
 .events.avaya.com
 .events.brightline.tv
+.events.btw.so
 .events.busuu.com
 .events.cardsmobile.ru
 .events.chaordicsystems.com
@@ -80522,6 +80523,7 @@ zzzrtrcm2.com
 .gxgzyny.com
 .gxhc.ink
 .gxhxmy88.com
+.gxhzv.cn
 .gxjajt.com
 .gxjohibbp.com
 .gxjohibbp.top
@@ -81742,6 +81744,7 @@ zzzrtrcm2.com
 .hlwlizloq.com
 .hlyixinwujin.com
 .hlzxgcw.com
+.hlzyb.cn
 .hm.baidu.cn
 .hm.baidu.com
 .hmakpa.saksoff5th.com
@@ -84746,6 +84749,7 @@ zzzrtrcm2.com
 .iwxmchcatfb.com
 .iwxzizcw.com
 .iwyphlxfuufeos.com
+.ixcbqp.com
 .ixcris.com
 .ixeq490u20.com
 .ixiaa.com
@@ -88211,6 +88215,7 @@ zzzrtrcm2.com
 .linicom.co.il
 .linicom.co.uk
 .linjiajia.cn
+.linjuyihao.com
 .link-booster.de
 .link-crawler.com
 .link-empfehlen24.de
@@ -108251,6 +108256,7 @@ zzzrtrcm2.com
 .soysapslad.com
 .soza6rsz3ezi.com
 .sp-mms.weather.com
+.sp-wukong-tracker.b-cdn.net
 .sp.app.com
 .sp.argusleader.com
 .sp.aviasales.com
@@ -121949,6 +121955,7 @@ zzzrtrcm2.com
 .xpjis.com
 .xpjkf888.com
 .xpjylc9977.com
+.xplnnxx.top
 .xplosion.de
 .xplusone.com
 .xpollo.com
@@ -123376,6 +123383,7 @@ zzzrtrcm2.com
 .yyjxgm.net
 .yyklg.xyz
 .yylady.cn
+.yylgt.com
 .yyltlwtic.com
 .yymmsd.cn
 .yynkhgfromul.xyz
@@ -123750,6 +123758,7 @@ zzzrtrcm2.com
 .zhangjuan.love
 .zhangjunying.top
 .zhangkc.com
+.zhangmingqin.tech
 .zhangshen.club
 .zhangshiyuan.com
 .zhangtiantian.cc

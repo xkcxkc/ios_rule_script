@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-01 02:12:44
+# UPDATED: 2022-05-02 02:12:04
 # DOMAIN: 51340
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 73091
+# DOMAIN-SUFFIX: 73100
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 124772
+# TOTAL: 124781
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -60219,6 +60219,7 @@ payload:
   - DOMAIN-SUFFIX,amplify.strategic-i.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,amplitudewassnap.com
+  - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,amptrack-dailymail-co-uk.cdn.ampproject.org
   - DOMAIN-SUFFIX,ampugi334f.com
   - DOMAIN-SUFFIX,ampush.io
@@ -67659,7 +67660,6 @@ payload:
   - DOMAIN-SUFFIX,cldlr.com
   - DOMAIN-SUFFIX,cldom.com
   - DOMAIN-SUFFIX,cldrck.com
-  - DOMAIN-SUFFIX,cldup.com
   - DOMAIN-SUFFIX,cleafs.com
   - DOMAIN-SUFFIX,clean-mobilephone.com
   - DOMAIN-SUFFIX,clean.gg
@@ -75852,6 +75852,7 @@ payload:
   - DOMAIN-SUFFIX,events.avantisvideo.com
   - DOMAIN-SUFFIX,events.avaya.com
   - DOMAIN-SUFFIX,events.brightline.tv
+  - DOMAIN-SUFFIX,events.btw.so
   - DOMAIN-SUFFIX,events.busuu.com
   - DOMAIN-SUFFIX,events.cardsmobile.ru
   - DOMAIN-SUFFIX,events.chaordicsystems.com
@@ -80522,6 +80523,7 @@ payload:
   - DOMAIN-SUFFIX,gxgzyny.com
   - DOMAIN-SUFFIX,gxhc.ink
   - DOMAIN-SUFFIX,gxhxmy88.com
+  - DOMAIN-SUFFIX,gxhzv.cn
   - DOMAIN-SUFFIX,gxjajt.com
   - DOMAIN-SUFFIX,gxjohibbp.com
   - DOMAIN-SUFFIX,gxjohibbp.top
@@ -81742,6 +81744,7 @@ payload:
   - DOMAIN-SUFFIX,hlwlizloq.com
   - DOMAIN-SUFFIX,hlyixinwujin.com
   - DOMAIN-SUFFIX,hlzxgcw.com
+  - DOMAIN-SUFFIX,hlzyb.cn
   - DOMAIN-SUFFIX,hm.baidu.cn
   - DOMAIN-SUFFIX,hm.baidu.com
   - DOMAIN-SUFFIX,hmakpa.saksoff5th.com
@@ -84746,6 +84749,7 @@ payload:
   - DOMAIN-SUFFIX,iwxmchcatfb.com
   - DOMAIN-SUFFIX,iwxzizcw.com
   - DOMAIN-SUFFIX,iwyphlxfuufeos.com
+  - DOMAIN-SUFFIX,ixcbqp.com
   - DOMAIN-SUFFIX,ixcris.com
   - DOMAIN-SUFFIX,ixeq490u20.com
   - DOMAIN-SUFFIX,ixiaa.com
@@ -88211,6 +88215,7 @@ payload:
   - DOMAIN-SUFFIX,linicom.co.il
   - DOMAIN-SUFFIX,linicom.co.uk
   - DOMAIN-SUFFIX,linjiajia.cn
+  - DOMAIN-SUFFIX,linjuyihao.com
   - DOMAIN-SUFFIX,link-booster.de
   - DOMAIN-SUFFIX,link-crawler.com
   - DOMAIN-SUFFIX,link-empfehlen24.de
@@ -108251,6 +108256,7 @@ payload:
   - DOMAIN-SUFFIX,soysapslad.com
   - DOMAIN-SUFFIX,soza6rsz3ezi.com
   - DOMAIN-SUFFIX,sp-mms.weather.com
+  - DOMAIN-SUFFIX,sp-wukong-tracker.b-cdn.net
   - DOMAIN-SUFFIX,sp.app.com
   - DOMAIN-SUFFIX,sp.argusleader.com
   - DOMAIN-SUFFIX,sp.aviasales.com
@@ -121949,6 +121955,7 @@ payload:
   - DOMAIN-SUFFIX,xpjis.com
   - DOMAIN-SUFFIX,xpjkf888.com
   - DOMAIN-SUFFIX,xpjylc9977.com
+  - DOMAIN-SUFFIX,xplnnxx.top
   - DOMAIN-SUFFIX,xplosion.de
   - DOMAIN-SUFFIX,xplusone.com
   - DOMAIN-SUFFIX,xpollo.com
@@ -123376,6 +123383,7 @@ payload:
   - DOMAIN-SUFFIX,yyjxgm.net
   - DOMAIN-SUFFIX,yyklg.xyz
   - DOMAIN-SUFFIX,yylady.cn
+  - DOMAIN-SUFFIX,yylgt.com
   - DOMAIN-SUFFIX,yyltlwtic.com
   - DOMAIN-SUFFIX,yymmsd.cn
   - DOMAIN-SUFFIX,yynkhgfromul.xyz
@@ -123750,6 +123758,7 @@ payload:
   - DOMAIN-SUFFIX,zhangjuan.love
   - DOMAIN-SUFFIX,zhangjunying.top
   - DOMAIN-SUFFIX,zhangkc.com
+  - DOMAIN-SUFFIX,zhangmingqin.tech
   - DOMAIN-SUFFIX,zhangshen.club
   - DOMAIN-SUFFIX,zhangshiyuan.com
   - DOMAIN-SUFFIX,zhangtiantian.cc
