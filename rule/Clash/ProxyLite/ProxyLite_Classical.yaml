@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-01 02:12:45
-# DOMAIN-SUFFIX: 32155
+# UPDATED: 2022-05-02 16:07:39
+# DOMAIN-SUFFIX: 32167
 # DOMAIN: 38
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32312
+# TOTAL: 32324
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -11130,6 +11130,7 @@ payload:
   - DOMAIN-SUFFIX,freeideas.ca
   - DOMAIN-SUFFIX,freeilhamtohti.org
   - DOMAIN-SUFFIX,freejav.org
+  - DOMAIN-SUFFIX,freejavbt.com
   - DOMAIN-SUFFIX,freekazakhs.org
   - DOMAIN-SUFFIX,freekwonpyong.org
   - DOMAIN-SUFFIX,freelan.org
@@ -14564,6 +14565,7 @@ payload:
   - DOMAIN-SUFFIX,jav-onlines.com
   - DOMAIN-SUFFIX,jav.com
   - DOMAIN-SUFFIX,jav.guru
+  - DOMAIN-SUFFIX,jav.land
   - DOMAIN-SUFFIX,jav.place
   - DOMAIN-SUFFIX,jav01.cc
   - DOMAIN-SUFFIX,jav101.com
@@ -14893,6 +14895,10 @@ payload:
   - DOMAIN-SUFFIX,jp.moc.gov.tw
   - DOMAIN-SUFFIX,jp.net
   - DOMAIN-SUFFIX,jp01-28.ssv4.net
+  - DOMAIN-SUFFIX,jpg4.biz
+  - DOMAIN-SUFFIX,jpg4.info
+  - DOMAIN-SUFFIX,jpg4.pw
+  - DOMAIN-SUFFIX,jpg4us.net
   - DOMAIN-SUFFIX,jpiq.com
   - DOMAIN-SUFFIX,jpopforum.net
   - DOMAIN-SUFFIX,jpyule.com
@@ -14928,6 +14934,7 @@ payload:
   - DOMAIN-SUFFIX,jsok369.com
   - DOMAIN-SUFFIX,jsproxy.tk
   - DOMAIN-SUFFIX,jtfx.mobi
+  - DOMAIN-SUFFIX,jtube.space
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,jtzgcd.neocities.org
   - DOMAIN-SUFFIX,ju11.net
@@ -14964,6 +14971,7 @@ payload:
   - DOMAIN-SUFFIX,justforex.com
   - DOMAIN-SUFFIX,justfreevpn.com
   - DOMAIN-SUFFIX,justgetflux.com
+  - DOMAIN-SUFFIX,justhd.xyz
   - DOMAIN-SUFFIX,justhideme.com
   - DOMAIN-SUFFIX,justicefortenzin.org
   - DOMAIN-SUFFIX,justicewillprevail.com
@@ -18422,6 +18430,7 @@ payload:
   - DOMAIN-SUFFIX,ninjacloak.com
   - DOMAIN-SUFFIX,ninjaproxy.ninja
   - DOMAIN-SUFFIX,ninjaweb.xyz
+  - DOMAIN-SUFFIX,ninpu.cyou
   - DOMAIN-SUFFIX,nintendium.com
   - DOMAIN-SUFFIX,nintendo-europe-sales.com
   - DOMAIN-SUFFIX,nintendo-europe.com
@@ -20070,6 +20079,7 @@ payload:
   - DOMAIN-SUFFIX,pornhublive.com
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,pornkai.com
+  - DOMAIN-SUFFIX,pornlulu.com
   - DOMAIN-SUFFIX,pornmaki.com
   - DOMAIN-SUFFIX,pornmd.com
   - DOMAIN-SUFFIX,pornmm.net
@@ -24623,6 +24633,7 @@ payload:
   - DOMAIN-SUFFIX,u2bet.net
   - DOMAIN-SUFFIX,u666999.com
   - DOMAIN-SUFFIX,u78929.com
+  - DOMAIN-SUFFIX,u9a9.com
   - DOMAIN-SUFFIX,u9un.com
   - DOMAIN-SUFFIX,ub0.cc
   - DOMAIN-SUFFIX,ub66.com
@@ -31308,6 +31319,7 @@ payload:
   - DOMAIN-SUFFIX,xvideo-jp.com
   - DOMAIN-SUFFIX,xvideo.cc
   - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,xvideos-dl.top
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,xvideos.com.br
   - DOMAIN-SUFFIX,xvideos.es

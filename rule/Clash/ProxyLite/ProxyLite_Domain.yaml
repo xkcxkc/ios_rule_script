@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-01 02:12:45
-# DOMAIN-SUFFIX: 32155
+# UPDATED: 2022-05-02 16:07:39
+# DOMAIN-SUFFIX: 32167
 # DOMAIN: 38
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 32312
+# TOTAL: 32324
 payload:
   - 'angle.com.tw'
   - 'api-p.videomarket.jp'
@@ -11130,6 +11130,7 @@ payload:
   - '+.freeideas.ca'
   - '+.freeilhamtohti.org'
   - '+.freejav.org'
+  - '+.freejavbt.com'
   - '+.freekazakhs.org'
   - '+.freekwonpyong.org'
   - '+.freelan.org'
@@ -14564,6 +14565,7 @@ payload:
   - '+.jav-onlines.com'
   - '+.jav.com'
   - '+.jav.guru'
+  - '+.jav.land'
   - '+.jav.place'
   - '+.jav01.cc'
   - '+.jav101.com'
@@ -14893,6 +14895,10 @@ payload:
   - '+.jp.moc.gov.tw'
   - '+.jp.net'
   - '+.jp01-28.ssv4.net'
+  - '+.jpg4.biz'
+  - '+.jpg4.info'
+  - '+.jpg4.pw'
+  - '+.jpg4us.net'
   - '+.jpiq.com'
   - '+.jpopforum.net'
   - '+.jpyule.com'
@@ -14928,6 +14934,7 @@ payload:
   - '+.jsok369.com'
   - '+.jsproxy.tk'
   - '+.jtfx.mobi'
+  - '+.jtube.space'
   - '+.jtvnw.net'
   - '+.jtzgcd.neocities.org'
   - '+.ju11.net'
@@ -14964,6 +14971,7 @@ payload:
   - '+.justforex.com'
   - '+.justfreevpn.com'
   - '+.justgetflux.com'
+  - '+.justhd.xyz'
   - '+.justhideme.com'
   - '+.justicefortenzin.org'
   - '+.justicewillprevail.com'
@@ -18422,6 +18430,7 @@ payload:
   - '+.ninjacloak.com'
   - '+.ninjaproxy.ninja'
   - '+.ninjaweb.xyz'
+  - '+.ninpu.cyou'
   - '+.nintendium.com'
   - '+.nintendo-europe-sales.com'
   - '+.nintendo-europe.com'
@@ -20070,6 +20079,7 @@ payload:
   - '+.pornhublive.com'
   - '+.pornhubpremium.com'
   - '+.pornkai.com'
+  - '+.pornlulu.com'
   - '+.pornmaki.com'
   - '+.pornmd.com'
   - '+.pornmm.net'
@@ -24623,6 +24633,7 @@ payload:
   - '+.u2bet.net'
   - '+.u666999.com'
   - '+.u78929.com'
+  - '+.u9a9.com'
   - '+.u9un.com'
   - '+.ub0.cc'
   - '+.ub66.com'
@@ -31308,6 +31319,7 @@ payload:
   - '+.xvideo-jp.com'
   - '+.xvideo.cc'
   - '+.xvideos-cdn.com'
+  - '+.xvideos-dl.top'
   - '+.xvideos.com'
   - '+.xvideos.com.br'
   - '+.xvideos.es'

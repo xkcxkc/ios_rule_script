@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-01 02:12:42
-# HOST-SUFFIX: 32155
+# UPDATED: 2022-05-02 16:07:35
+# HOST-SUFFIX: 32167
 # USER-AGENT: 5
 # HOST: 38
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 32317
+# TOTAL: 32329
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -11130,6 +11130,7 @@ HOST-SUFFIX,freehulu.com,ProxyLite
 HOST-SUFFIX,freeideas.ca,ProxyLite
 HOST-SUFFIX,freeilhamtohti.org,ProxyLite
 HOST-SUFFIX,freejav.org,ProxyLite
+HOST-SUFFIX,freejavbt.com,ProxyLite
 HOST-SUFFIX,freekazakhs.org,ProxyLite
 HOST-SUFFIX,freekwonpyong.org,ProxyLite
 HOST-SUFFIX,freelan.org,ProxyLite
@@ -14564,6 +14565,7 @@ HOST-SUFFIX,jav-720p.com,ProxyLite
 HOST-SUFFIX,jav-onlines.com,ProxyLite
 HOST-SUFFIX,jav.com,ProxyLite
 HOST-SUFFIX,jav.guru,ProxyLite
+HOST-SUFFIX,jav.land,ProxyLite
 HOST-SUFFIX,jav.place,ProxyLite
 HOST-SUFFIX,jav01.cc,ProxyLite
 HOST-SUFFIX,jav101.com,ProxyLite
@@ -14893,6 +14895,10 @@ HOST-SUFFIX,jp.hao123.com,ProxyLite
 HOST-SUFFIX,jp.moc.gov.tw,ProxyLite
 HOST-SUFFIX,jp.net,ProxyLite
 HOST-SUFFIX,jp01-28.ssv4.net,ProxyLite
+HOST-SUFFIX,jpg4.biz,ProxyLite
+HOST-SUFFIX,jpg4.info,ProxyLite
+HOST-SUFFIX,jpg4.pw,ProxyLite
+HOST-SUFFIX,jpg4us.net,ProxyLite
 HOST-SUFFIX,jpiq.com,ProxyLite
 HOST-SUFFIX,jpopforum.net,ProxyLite
 HOST-SUFFIX,jpyule.com,ProxyLite
@@ -14928,6 +14934,7 @@ HOST-SUFFIX,jshint.com,ProxyLite
 HOST-SUFFIX,jsok369.com,ProxyLite
 HOST-SUFFIX,jsproxy.tk,ProxyLite
 HOST-SUFFIX,jtfx.mobi,ProxyLite
+HOST-SUFFIX,jtube.space,ProxyLite
 HOST-SUFFIX,jtvnw.net,ProxyLite
 HOST-SUFFIX,jtzgcd.neocities.org,ProxyLite
 HOST-SUFFIX,ju11.net,ProxyLite
@@ -14964,6 +14971,7 @@ HOST-SUFFIX,justduckit.com,ProxyLite
 HOST-SUFFIX,justforex.com,ProxyLite
 HOST-SUFFIX,justfreevpn.com,ProxyLite
 HOST-SUFFIX,justgetflux.com,ProxyLite
+HOST-SUFFIX,justhd.xyz,ProxyLite
 HOST-SUFFIX,justhideme.com,ProxyLite
 HOST-SUFFIX,justicefortenzin.org,ProxyLite
 HOST-SUFFIX,justicewillprevail.com,ProxyLite
@@ -18422,6 +18430,7 @@ HOST-SUFFIX,ningbt.xyz,ProxyLite
 HOST-SUFFIX,ninjacloak.com,ProxyLite
 HOST-SUFFIX,ninjaproxy.ninja,ProxyLite
 HOST-SUFFIX,ninjaweb.xyz,ProxyLite
+HOST-SUFFIX,ninpu.cyou,ProxyLite
 HOST-SUFFIX,nintendium.com,ProxyLite
 HOST-SUFFIX,nintendo-europe-sales.com,ProxyLite
 HOST-SUFFIX,nintendo-europe.com,ProxyLite
@@ -20070,6 +20079,7 @@ HOST-SUFFIX,pornhubdeutsch.net,ProxyLite
 HOST-SUFFIX,pornhublive.com,ProxyLite
 HOST-SUFFIX,pornhubpremium.com,ProxyLite
 HOST-SUFFIX,pornkai.com,ProxyLite
+HOST-SUFFIX,pornlulu.com,ProxyLite
 HOST-SUFFIX,pornmaki.com,ProxyLite
 HOST-SUFFIX,pornmd.com,ProxyLite
 HOST-SUFFIX,pornmm.net,ProxyLite
@@ -24623,6 +24633,7 @@ HOST-SUFFIX,u2646.com,ProxyLite
 HOST-SUFFIX,u2bet.net,ProxyLite
 HOST-SUFFIX,u666999.com,ProxyLite
 HOST-SUFFIX,u78929.com,ProxyLite
+HOST-SUFFIX,u9a9.com,ProxyLite
 HOST-SUFFIX,u9un.com,ProxyLite
 HOST-SUFFIX,ub0.cc,ProxyLite
 HOST-SUFFIX,ub66.com,ProxyLite
@@ -31308,6 +31319,7 @@ HOST-SUFFIX,xvdada.com,ProxyLite
 HOST-SUFFIX,xvideo-jp.com,ProxyLite
 HOST-SUFFIX,xvideo.cc,ProxyLite
 HOST-SUFFIX,xvideos-cdn.com,ProxyLite
+HOST-SUFFIX,xvideos-dl.top,ProxyLite
 HOST-SUFFIX,xvideos.com,ProxyLite
 HOST-SUFFIX,xvideos.com.br,ProxyLite
 HOST-SUFFIX,xvideos.es,ProxyLite

@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-02 02:12:03
+# UPDATED: 2022-05-02 16:07:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 46034
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90279
+# DOMAIN-SUFFIX: 90284
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 136956
+# TOTAL: 136961
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -48355,7 +48355,6 @@ zzzrtrcm2.com
 .71zrh.cn
 .720-trail.co.uk
 .720fly.club
-.725119419f.com
 .72880178a6767.com
 .729dcbaa57e80c1e.com
 .72b8869dfc34690.com
@@ -72299,7 +72298,6 @@ zzzrtrcm2.com
 .draco-artgallery.wz.cz
 .draconiancurve.com
 .dradvice.in
-.dragbarstints.com
 .draggedindicationconsiderable.com
 .dragolosa.com
 .dragon.codemakes.art
@@ -73090,6 +73088,7 @@ zzzrtrcm2.com
 .e2wysbacctt1.com
 .e331ff4e674c083.com
 .e335udnv6drg78b7.com
+.e34.xyz
 .e347bb14dc71778.com
 .e350570881272e.com
 .e37364.dscd.akamaiedge.net
@@ -73098,6 +73097,7 @@ zzzrtrcm2.com
 .e39.xyz
 .e399.com
 .e40.xyz
+.e47.xyz
 .e4b65f2ef47fb0.com
 .e4nglis56hcoo5nhou6nd.com
 .e521d17fa185a2.com
@@ -75677,6 +75677,7 @@ zzzrtrcm2.com
 .ex.mobmore.com
 .ex.newsland.com
 .ex.puata.info
+.ex0jcjx.cn
 .ex6.ru
 .exaccess.ru
 .exactag.com
@@ -79736,7 +79737,6 @@ zzzrtrcm2.com
 .gkijlmbgf.xyz
 .gkirfipavwra.com
 .gkksi.com
-.gkkwksjsfolihxf.top
 .gknurz.rvonthego.com
 .gkpohvff.com
 .gkrsdn.cuoieriashop.com
@@ -80014,6 +80014,7 @@ zzzrtrcm2.com
 .go-rank.de
 .go-rillatrack.com
 .go-route.com
+.go-top.xyz
 .go.10086.cn
 .go.acclaro.com
 .go.acelisconnectedhealth.com
@@ -80501,6 +80502,7 @@ zzzrtrcm2.com
 .gouweida.cn
 .gouwubang.com
 .gouwupianyi.cn
+.gouyb.mobi
 .gouzhibao.cn
 .govbeijing.cn
 .govbusi.info
@@ -82859,6 +82861,7 @@ zzzrtrcm2.com
 .homfen.me
 .homicidearousedhand.com
 .homify.com.mx
+.homomqmfbomoy.com
 .homrus.net
 .homuradu.com
 .honcode.ch
@@ -83417,6 +83420,7 @@ zzzrtrcm2.com
 .huilian.info
 .huimee.com
 .huimee.net
+.huipulianfood.com
 .huiqingvip.cn
 .huisatu.xyz
 .huishangjituan.cn
@@ -87159,6 +87163,7 @@ zzzrtrcm2.com
 .jinshui2018.chalook.net
 .jinshzx.com
 .jinsoopt.net
+.jintengli.mobi
 .jintonghua.com
 .jinxexaminesketch.com
 .jinxiangyu.ltd
@@ -89053,6 +89058,7 @@ zzzrtrcm2.com
 .koltruah.com
 .koltypoolty.com
 .kolur.top
+.komatech.net
 .komi168.com
 .komloromnikopicko.com
 .kommunicate.io
@@ -89394,6 +89400,7 @@ zzzrtrcm2.com
 .kv-analytics.kiotviet.vn
 .kv.stat.nearme.com.cn
 .kvcd7w375h.ru
+.kvcvonlakaigxwq.com
 .kvidcq.com
 .kvilhypwtelaos.xyz
 .kvinoo.com
@@ -99825,7 +99832,6 @@ zzzrtrcm2.com
 .nogerefron.info
 .noglolra.com
 .nogvlkk.cn
-.nohilmly.top
 .noibu.com
 .noiselesscatching.com
 .noiselessplough.com
@@ -120007,7 +120013,6 @@ zzzrtrcm2.com
 .svm6ryo.cn
 .svmarketing.destinationtoronto.com
 .svmarketing.torcvb.com
-.svmptniwwxk.xyz
 .svolution.top
 .svotu.top
 .svoywu.autoscout24.de
@@ -126672,7 +126677,6 @@ zzzrtrcm2.com
 .umjsik.com
 .umm6.cn
 .ummerciseha.info
-.umpweefuyfgxlei.top
 .umqdof.primrose-garten.de
 .umrefebaot.biz
 .umrrcta.cn
@@ -126924,6 +126928,7 @@ zzzrtrcm2.com
 .unscrewing.ru
 .unseamlocrian.com
 .unseen2020.com
+.unseenreport.com
 .unser-en.de
 .unshiftryr.com
 .unskilledanna.com
@@ -131512,7 +131517,6 @@ zzzrtrcm2.com
 .ww9.kohls.com
 .wwads.cn
 .wwbsll.nissen.co.jp
-.wwbxmitroo.xyz
 .wwclickgo.com
 .wwclicknews.club
 .wwclickserv.club
@@ -133784,6 +133788,7 @@ zzzrtrcm2.com
 .ya.vteplom.ru
 .ya1vg3w.cn
 .yaaci.cn
+.yaaqtujobgllwd.com
 .yab-adimages.s3.amazonaws.com
 .yaba.org.cn
 .yabloomambloo.com
