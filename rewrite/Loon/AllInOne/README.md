@@ -16,11 +16,11 @@
 | ---- | ---- |
 | mitm | 547 |
 | DOMAIN | 6 |
-| IP-CIDR | 1 |
-| URL-REGEX | 4 |
 | DOMAIN-SUFFIX | 1 |
-| IP-CIDR6 | 1 |
+| URL-REGEX | 4 |
 | USER-AGENT | 1 |
+| IP-CIDR6 | 1 |
+| IP-CIDR | 1 |
 | reject | 729 |
 | http-response | 27 |
 | http-request | 3 |

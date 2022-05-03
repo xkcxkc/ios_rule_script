@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-02 16:07:36
+# UPDATED: 2022-05-04 02:13:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51341
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 73147
+# DOMAIN-SUFFIX: 73187
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125131
+# TOTAL: 125171
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -51699,6 +51699,7 @@ zzzrtrcm2.com
 .1178.shucong.com
 .118bfe5b01.com
 .118ex.cn
+.118kbet.com
 .119cgpt.com
 .11a581bbb5038e.com
 .11bet.club
@@ -51737,6 +51738,7 @@ zzzrtrcm2.com
 .123b.com
 .123b.org
 .123b333.com
+.123b88.com
 .123compteur.com
 .123count.com
 .123counter.mycomputer.com
@@ -52948,6 +52950,7 @@ zzzrtrcm2.com
 .5qoh.cn
 .5rocks.io
 .5rxk.cn
+.5shbet.com
 .5socks.cn
 .5t4o.cn
 .5t59uw2iuh.com
@@ -53562,6 +53565,7 @@ zzzrtrcm2.com
 .8wey4x0c.com
 .8wtkfxiss1o2.com
 .8xbet.com
+.8xbet.fun
 .8xbet.games
 .8xbet.win
 .8xbet05.com
@@ -53664,6 +53668,7 @@ zzzrtrcm2.com
 .9735476.test.skyscanner.net
 .976b97b6da.com
 .978655.online
+.978bet34.com
 .978ea72276.com
 .979067.com
 .97d73lsi.com
@@ -56814,6 +56819,7 @@ zzzrtrcm2.com
 .admoxi.com
 .admozartxml.com
 .admp.io
+.adms.phunusuckhoe.vn
 .adms.physorg.com
 .admsapi.businessweekly.com.tw
 .admtpmp124.com
@@ -59328,6 +59334,7 @@ zzzrtrcm2.com
 .afflat3a1.com
 .afflow.18-plus.net
 .affluencepaymentlandscape.com
+.affluentshinymulticultural.com
 .afform.co.uk
 .affpartners.com
 .affplanet.com
@@ -66794,6 +66801,7 @@ zzzrtrcm2.com
 .cdnaz.win
 .cdnbigdata.azureedge.net
 .cdnbit.com
+.cdnbmb.com
 .cdnbqw.com
 .cdncont.com
 .cdncontentdelivery.com
@@ -67029,6 +67037,7 @@ zzzrtrcm2.com
 .cfsdtzggpcmr.com
 .cftrack.com
 .cfts1tifqr.com
+.cfun68.biz
 .cfvapda.cn
 .cfwchydynfc.com
 .cfwchydynfc.top
@@ -69431,6 +69440,7 @@ zzzrtrcm2.com
 .counter.nope.dk
 .counter.nowlinux.com
 .counter.ntdvn.com
+.counter.ntdvn.net
 .counter.nv.ua
 .counter.ok.ee
 .counter.opinion.com.ua
@@ -70600,6 +70610,7 @@ zzzrtrcm2.com
 .d1l6p2sc9645hc.cloudfront.net
 .d1lm7kd3bd3yo9.cloudfront.net
 .d1lxhc4jvstzrp.cloudfront.net
+.d1lzoljld5a2bc.cloudfront.net
 .d1m6l9dfulcyw7.cloudfront.net
 .d1mbgf0ge24riu.cloudfront.net
 .d1mbihpm2gncx7.cloudfront.net
@@ -71565,6 +71576,7 @@ zzzrtrcm2.com
 .dcads.sina.com.cn
 .dcaij.com
 .dcapps.disney.go.com
+.dcbnameapneas.com
 .dccfog.petco.com
 .dcclaa.bunte.de
 .dcclaa.daskochrezept.de
@@ -73959,6 +73971,7 @@ zzzrtrcm2.com
 .e7ymqu6.cn
 .e85440ec98f04725.com
 .e860045edaecd.com
+.e8a0cb51c6.com
 .e92k49.com
 .e9377f.com
 .e94a941778d.com
@@ -74455,6 +74468,8 @@ zzzrtrcm2.com
 .ee66.com
 .ee6611.com
 .ee6a35c1eeee.com
+.ee88.club
+.ee88.com
 .ee8a4dd81b.com
 .eebcbdca7331314.com
 .eebfffjegjajjiacaci.ru
@@ -82676,6 +82691,7 @@ zzzrtrcm2.com
 .i8023.icu
 .i864ekhq.com
 .i87b3.cn
+.i8bet.org
 .i92xue.com
 .i99906.com
 .i99i.org
@@ -86584,6 +86600,7 @@ zzzrtrcm2.com
 .kilopog.com
 .kilorama.com
 .kiltyyoginis.com
+.kimsa338.com
 .kimus.ru
 .kinak.top
 .kindads.com
@@ -87125,6 +87142,7 @@ zzzrtrcm2.com
 .kuhnisister.ru
 .kuhou.com
 .kujrsivgg.com
+.kukanlm-lubu1.com
 .kukanlm-youeryuan.com
 .kukulm.com
 .kukury2hf8nd09.com
@@ -87314,7 +87332,10 @@ zzzrtrcm2.com
 .la-la-sf.com
 .la.5.p2l.info
 .la.vietid.net
+.la.vnecdn.net
 .la1dwne9cn5c.com
+.la2.vnecdn.net
+.la3.vnecdn.net
 .la61d.cn
 .la71f.cn
 .laas.americanexpress.com
@@ -88886,6 +88907,7 @@ zzzrtrcm2.com
 .log.beecost.com
 .log.beecost.vn
 .log.bitauto.com
+.log.bizlive.vn
 .log.btopenworld.com
 .log.byteoversea.com
 .log.ca.gov.vn
@@ -89018,6 +89040,7 @@ zzzrtrcm2.com
 .log.vietnamplus.vn
 .log.viettimes.vn
 .log.vnay.vn
+.log.vneconomy.vn
 .log.vnfinance.vn
 .log.voicecloud.cn
 .log.vov.vn
@@ -89123,6 +89146,7 @@ zzzrtrcm2.com
 .lognormal.net
 .logo-net.co.uk
 .logoduoduo.com
+.logoestulles.com
 .logonext.tv.kuyun.com
 .logoshejishi.com
 .logperf.vnexpress.net
@@ -89137,6 +89161,7 @@ zzzrtrcm2.com
 .logs.chelaile.net.cn
 .logs.dashlane.com
 .logs.datadoghq.eu
+.logs.docnhanh.com.vn
 .logs.eresmas.com
 .logs.gaaana.com
 .logs.gaana.com
@@ -90374,6 +90399,7 @@ zzzrtrcm2.com
 .marinsm.com
 .maritalglancing.com
 .maritaltrousersidle.com
+.maritanewark.com
 .mark.isbank.com.tr
 .markbookto.com
 .markedcrayon.com
@@ -101360,6 +101386,7 @@ zzzrtrcm2.com
 .qloistjaveujfe.top
 .qlonglong.com
 .qloved.cn
+.qlowivucwh.com
 .qlpwqpvuw.com
 .qlqtnqlruou.com
 .qlssbq.cn
@@ -101407,6 +101434,7 @@ zzzrtrcm2.com
 .qoijertneio.com
 .qoisocrldvnesni.ru
 .qoiusky.com
+.qontent.pomvideo.cc
 .qontent.pouvideo.cc
 .qooic.com
 .qoopler.ru
@@ -102843,6 +102871,7 @@ zzzrtrcm2.com
 .responserver.com
 .responsetap.com
 .responsibilitymoleculebailey.com
+.responsibleassociation.com
 .responsidejo.club
 .responsiveads.com
 .responsys.net
@@ -108026,14 +108055,17 @@ zzzrtrcm2.com
 .sokrati.com
 .sokugifi.com
 .sol-data.com
+.sol86.com
 .solads.media
 .solamor.com
 .solanog.com
 .solanoswajang.com
 .solapoka.com
 .solar.sharpmarketing.eu
+.solarbet.com
 .solarmosa.com
 .solartia.com
+.solbet88.com
 .solderforgetlove.com
 .solderplumboverreact.com
 .soleaparra.com
@@ -110230,6 +110262,7 @@ zzzrtrcm2.com
 .sterilecute.com
 .sterlingwoods.com
 .steroidparentconstruct.com
+.stertorblaver.com
 .stervapoimenialena.info
 .stetic.com
 .stevenblue.cn
@@ -110738,6 +110771,7 @@ zzzrtrcm2.com
 .support.flex.com
 .support.labapi.net.zooplus.de
 .support.nginxapi.net.zooplus.de
+.support.streamjav.top
 .support.sweepstakes.com
 .support2.flex.com
 .supportiveimpassableevasion.com
@@ -112685,6 +112719,7 @@ zzzrtrcm2.com
 .tielengthenelaborate.com
 .tienu.tech
 .tieqifeng.com
+.tierbignews.com
 .tiercelkeyseat.com
 .tiesmises.fun
 .tifybecausingp.info
@@ -114268,6 +114303,7 @@ zzzrtrcm2.com
 .tracker.digitalcamp.co.kr
 .tracker.downdetector.com
 .tracker.durasite.net
+.tracker.edupia.vn
 .tracker.esputnik.com
 .tracker.euroweb.net
 .tracker.fado.vn
@@ -114295,6 +114331,7 @@ zzzrtrcm2.com
 .tracker.netklix.com
 .tracker.nhandaovadoisong.vn
 .tracker.pandora.com
+.tracker.phunusuckhoe.vn
 .tracker.phunuvagiadinh.vn
 .tracker.pinnaclesports.com
 .tracker.prom.ua
@@ -114349,6 +114386,7 @@ zzzrtrcm2.com
 .tracking-receiver.prod-general.stocard-backend.com
 .tracking-server-prod-1.zenmxapps.com
 .tracking-service.glority.com
+.tracking-web.smobgame.com
 .tracking.1-a1502-bi.co.uk
 .tracking.1-kv015-ap.co.uk
 .tracking.10e20.com
@@ -118488,6 +118526,7 @@ zzzrtrcm2.com
 .wadiryphi.pro
 .wadsotch.com
 .waecobiyppbslb.com
+.wafflescrappyprosperous.com
 .wafflesgenuine.com
 .wafmedia3.com
 .wafmedia6.com
@@ -120246,6 +120285,7 @@ zzzrtrcm2.com
 .wuwuhh.top
 .wuxiann.top
 .wuxiap.xyz
+.wuxie419.xyz
 .wuxiqiangheng.com
 .wuyanauto.com
 .wuyekanba.com
