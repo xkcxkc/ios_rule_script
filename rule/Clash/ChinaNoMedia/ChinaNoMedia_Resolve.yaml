@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-04 02:13:15
+# UPDATED: 2022-05-05 02:12:48
 # DOMAIN-SUFFIX: 7090
 # PROCESS-NAME: 5
 # DOMAIN: 17
-# IP-CIDR: 6143
+# IP-CIDR: 6144
 # DOMAIN-KEYWORD: 13
 # IP-CIDR6: 4179
-# TOTAL: 17447
+# TOTAL: 17448
 payload:
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,.tmall.com

@@ -26,9 +26,9 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| HOST-SUFFIX | 70207 |
+| HOST-SUFFIX | 70206 |
 | HOST | 76 |
-| IP-CIDR | 6238 |
+| IP-CIDR | 6239 |
 | HOST-KEYWORD | 15 |
 | IP6-CIDR | 4179 |
 ## 配置说明

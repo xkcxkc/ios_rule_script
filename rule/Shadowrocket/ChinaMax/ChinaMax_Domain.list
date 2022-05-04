@@ -1,11 +1,11 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-04 02:13:16
+# UPDATED: 2022-05-05 02:12:49
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70207
+# DOMAIN-SUFFIX: 70206
 # DOMAIN: 76
-# IP-CIDR: 6238
+# IP-CIDR: 6239
 # DOMAIN-KEYWORD: 15
 # TOTAL: 76598
 265.com
@@ -4869,6 +4869,7 @@ www4-static.gog-statics.com
 .52hejia.com
 .52help.net
 .52hibuy.com
+.52homedecor.com
 .52hotel.net
 .52hrtt.com
 .52hrttpic.com
@@ -6653,7 +6654,6 @@ www4-static.gog-statics.com
 .84399.com
 .84460yhh7t.com
 .844a.com
-.844dns.net
 .844wan.com
 .84519.com
 .84684.net
@@ -6978,7 +6978,6 @@ www4-static.gog-statics.com
 .900ppt.com
 .900top.com
 .90123.com
-.903518.com
 .90432.net
 .90576.com
 .906you.com
@@ -7151,6 +7150,7 @@ www4-static.gog-statics.com
 .91muzhi.com
 .91nzh.com
 .91open.com
+.91pandian.com
 .91paobao.com
 .91pdf.com
 .91pet.net
@@ -7322,6 +7322,7 @@ www4-static.gog-statics.com
 .93trf.com
 .93tyy.com
 .93wgames.com
+.93x.net
 .93zp.com
 .93zw.com
 .941.so
@@ -7413,7 +7414,6 @@ www4-static.gog-statics.com
 .9565.com
 .9574528ue9.com
 .9588.com
-.958jbs.com
 .959249.com
 .95949c.com
 .9596956.com
@@ -10326,6 +10326,7 @@ www4-static.gog-statics.com
 .b5200.net
 .b55weik1d4.com
 .b5b6.com
+.b5csgo.plus
 .b5esports.me
 .b5m.com
 .b5nngc6zmt.com
@@ -13046,7 +13047,6 @@ www4-static.gog-statics.com
 .buylabel.com
 .buysun.net
 .buysweet.com
-.buyu46.com
 .buzhi5.com
 .buzhibushi.com
 .buzzinate.com
@@ -16042,7 +16042,6 @@ www4-static.gog-statics.com
 .chunboimg.com
 .chuncui.net
 .chuncuinet.com
-.chundakj99.com
 .chundi.com
 .chundi.org
 .chunengauto.com
@@ -20488,7 +20487,6 @@ www4-static.gog-statics.com
 .dns002.com
 .dns0755.net
 .dns100.net
-.dns102.com
 .dns110.com
 .dns123.net
 .dns12345.com
@@ -22861,6 +22859,7 @@ www4-static.gog-statics.com
 .everstray.com
 .everturst.com
 .evervc.com
+.everybodygame.com
 .everychina.com
 .everydo.com
 .everyinch.net
@@ -23553,7 +23552,6 @@ www4-static.gog-statics.com
 .fdevops.com
 .fdfgdf.cn
 .fdh6up750n.com
-.fdjyw.com
 .fdjzu.com
 .fdkjgz.com
 .fdkm88.com
@@ -28504,7 +28502,6 @@ www4-static.gog-statics.com
 .henangeli.com
 .henanjianling.com
 .henanjubao.com
-.henanpige.com
 .henansenli.com
 .henanyouth.com
 .henbt.com
@@ -37947,7 +37944,6 @@ www4-static.gog-statics.com
 .lbmobi.com
 .lboyue.com
 .lbwbw.com
-.lbx.cc
 .lbx777.com
 .lbxcn.com
 .lbxdrugs.com
@@ -49990,6 +49986,7 @@ www4-static.gog-statics.com
 .scimao.com
 .scinno-cn.com
 .scinormem.com
+.scio.icu
 .scipaper.net
 .sciping.com
 .sciscanpub.com
@@ -51646,6 +51643,7 @@ www4-static.gog-statics.com
 .shuobao.com
 .shuobofootball.xyz
 .shuoboku.com
+.shuocdn.com
 .shuodedui.com
 .shuomingshu.net
 .shuomingshuku.com
@@ -68864,6 +68862,7 @@ www4-static.gog-statics.com
 .zhujiwu.com
 .zhujiyou.com
 .zhuke.com
+.zhul.in
 .zhulang.com
 .zhulanli.com
 .zhuli.me

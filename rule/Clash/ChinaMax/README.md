@@ -25,10 +25,10 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 70207 |
+| DOMAIN-SUFFIX | 70206 |
 | PROCESS-NAME | 6 |
 | DOMAIN | 76 |
-| IP-CIDR | 6238 |
+| IP-CIDR | 6239 |
 | DOMAIN-KEYWORD | 15 |
 | IP-CIDR6 | 4179 |
 ## 配置说明
