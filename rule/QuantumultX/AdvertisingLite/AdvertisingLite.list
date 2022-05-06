@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-24 00:52:21
+# UPDATED: 2022-05-06 23:56:59
 # HOST: 23557
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 13281
+# HOST-SUFFIX: 13280
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 37024
+# TOTAL: 37023
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -26938,7 +26938,6 @@ HOST-SUFFIX,clcknpop.com,AdvertisingLite
 HOST-SUFFIX,cleaner.baidu.com,AdvertisingLite
 HOST-SUFFIX,clearadnetwork.com,AdvertisingLite
 HOST-SUFFIX,click.ali213.net,AdvertisingLite
-HOST-SUFFIX,click.aliyun.com,AdvertisingLite
 HOST-SUFFIX,click.bes.baidu.com,AdvertisingLite
 HOST-SUFFIX,click.cheshi-img.com,AdvertisingLite
 HOST-SUFFIX,click.cheshi.com,AdvertisingLite

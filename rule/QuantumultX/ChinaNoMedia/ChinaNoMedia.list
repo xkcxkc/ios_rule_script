@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-05 02:12:44
+# UPDATED: 2022-05-06 23:57:00
 # USER-AGENT: 32
 # HOST-SUFFIX: 7090
 # HOST: 17
 # IP-CIDR: 6144
 # HOST-KEYWORD: 13
-# IP6-CIDR: 4179
-# TOTAL: 17475
+# IP6-CIDR: 4183
+# TOTAL: 17479
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -13339,6 +13339,7 @@ IP6-CIDR,2001:df0:85c0::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:8d40::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:9c0::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:9d40::/48,ChinaNoMedia
+IP6-CIDR,2001:df0:ac40::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:b180::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:bf80::/48,ChinaNoMedia
 IP6-CIDR,2001:df0:d880::/48,ChinaNoMedia
@@ -13550,8 +13551,10 @@ IP6-CIDR,2400:71c0::/32,ChinaNoMedia
 IP6-CIDR,2400:7200::/32,ChinaNoMedia
 IP6-CIDR,2400:7240::/32,ChinaNoMedia
 IP6-CIDR,2400:72c0::/32,ChinaNoMedia
+IP6-CIDR,2400:72e0::/32,ChinaNoMedia
 IP6-CIDR,2400:7340::/32,ChinaNoMedia
 IP6-CIDR,2400:73c0::/32,ChinaNoMedia
+IP6-CIDR,2400:73e0::/32,ChinaNoMedia
 IP6-CIDR,2400:7440::/32,ChinaNoMedia
 IP6-CIDR,2400:74c0::/32,ChinaNoMedia
 IP6-CIDR,2400:7540::/32,ChinaNoMedia
@@ -17428,6 +17431,7 @@ IP6-CIDR,2a04:4e41:27:1::/64,ChinaNoMedia
 IP6-CIDR,2a04:4e41:29:1::/64,ChinaNoMedia
 IP6-CIDR,2a04:4e41:30::/64,ChinaNoMedia
 IP6-CIDR,2a05:e580:700::/40,ChinaNoMedia
+IP6-CIDR,2a06:1287:3910::/48,ChinaNoMedia
 IP6-CIDR,2a06:9f45:1111::/48,ChinaNoMedia
 IP6-CIDR,2a06:e881:3800::/44,ChinaNoMedia
 IP6-CIDR,2a07:f480::/29,ChinaNoMedia
