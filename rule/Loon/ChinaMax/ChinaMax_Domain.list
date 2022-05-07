@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-06 23:57:01
+# UPDATED: 2022-05-08 02:12:07
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70198
+# DOMAIN-SUFFIX: 70193
 # DOMAIN: 76
-# IP-CIDR: 6239
+# IP-CIDR: 6241
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4183
-# TOTAL: 80773
+# TOTAL: 80770
 265.com
 adservice.google.com
 analytics.strava.com
@@ -7022,7 +7022,6 @@ www4-static.gog-statics.com
 .912yx.com
 .913232.com
 .9133.com
-.9136.com
 .91378.com
 .913vr.com
 .913you.com
@@ -37379,12 +37378,8 @@ www4-static.gog-statics.com
 .kuzhengame.com
 .kv6om4zs5i47.com
 .kvamerfx.com
-.kveaa.com
 .kvecc.com
-.kveii.com
-.kvemm.com
 .kvenjoy.com
-.kvezz.com
 .kviso.com
 .kvkft.com
 .kvogues.com

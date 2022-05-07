@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-06 23:57:00
+# UPDATED: 2022-05-08 02:12:06
 # USER-AGENT: 62
-# HOST-SUFFIX: 70198
+# HOST-SUFFIX: 70193
 # HOST: 76
-# IP-CIDR: 6239
+# IP-CIDR: 6241
 # HOST-KEYWORD: 15
 # IP6-CIDR: 4183
-# TOTAL: 80773
+# TOTAL: 80770
 HOST,265.com,ChinaMax
 HOST,adservice.google.com,ChinaMax
 HOST,analytics.strava.com,ChinaMax
@@ -7022,7 +7022,6 @@ HOST-SUFFIX,912k.com,ChinaMax
 HOST-SUFFIX,912yx.com,ChinaMax
 HOST-SUFFIX,913232.com,ChinaMax
 HOST-SUFFIX,9133.com,ChinaMax
-HOST-SUFFIX,9136.com,ChinaMax
 HOST-SUFFIX,91378.com,ChinaMax
 HOST-SUFFIX,913vr.com,ChinaMax
 HOST-SUFFIX,913you.com,ChinaMax
@@ -37379,12 +37378,8 @@ HOST-SUFFIX,kuyunbo.club,ChinaMax
 HOST-SUFFIX,kuzhengame.com,ChinaMax
 HOST-SUFFIX,kv6om4zs5i47.com,ChinaMax
 HOST-SUFFIX,kvamerfx.com,ChinaMax
-HOST-SUFFIX,kveaa.com,ChinaMax
 HOST-SUFFIX,kvecc.com,ChinaMax
-HOST-SUFFIX,kveii.com,ChinaMax
-HOST-SUFFIX,kvemm.com,ChinaMax
 HOST-SUFFIX,kvenjoy.com,ChinaMax
-HOST-SUFFIX,kvezz.com,ChinaMax
 HOST-SUFFIX,kviso.com,ChinaMax
 HOST-SUFFIX,kvkft.com,ChinaMax
 HOST-SUFFIX,kvogues.com,ChinaMax
@@ -73502,6 +73497,7 @@ IP-CIDR,156.107.160.0/24,ChinaMax
 IP-CIDR,156.107.170.0/24,ChinaMax
 IP-CIDR,156.107.178.0/23,ChinaMax
 IP-CIDR,156.107.180.0/23,ChinaMax
+IP-CIDR,156.154.142.0/23,ChinaMax
 IP-CIDR,156.154.62.0/23,ChinaMax
 IP-CIDR,156.237.2.0/23,ChinaMax
 IP-CIDR,157.0.0.0/16,ChinaMax
@@ -76221,6 +76217,7 @@ IP-CIDR,45.119.232.0/22,ChinaMax
 IP-CIDR,45.119.60.0/22,ChinaMax
 IP-CIDR,45.119.64.0/21,ChinaMax
 IP-CIDR,45.119.72.0/22,ChinaMax
+IP-CIDR,45.12.234.0/23,ChinaMax
 IP-CIDR,45.120.100.0/22,ChinaMax
 IP-CIDR,45.120.140.0/22,ChinaMax
 IP-CIDR,45.120.164.0/22,ChinaMax

@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-06 23:57:03
-# DOMAIN-SUFFIX: 70198
+# UPDATED: 2022-05-08 02:12:10
+# DOMAIN-SUFFIX: 70193
 # PROCESS-NAME: 6
 # DOMAIN: 76
-# IP-CIDR: 6239
+# IP-CIDR: 6241
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4183
-# TOTAL: 80717
+# TOTAL: 80714
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -7023,7 +7023,6 @@ payload:
   - DOMAIN-SUFFIX,912yx.com
   - DOMAIN-SUFFIX,913232.com
   - DOMAIN-SUFFIX,9133.com
-  - DOMAIN-SUFFIX,9136.com
   - DOMAIN-SUFFIX,91378.com
   - DOMAIN-SUFFIX,913vr.com
   - DOMAIN-SUFFIX,913you.com
@@ -37380,12 +37379,8 @@ payload:
   - DOMAIN-SUFFIX,kuzhengame.com
   - DOMAIN-SUFFIX,kv6om4zs5i47.com
   - DOMAIN-SUFFIX,kvamerfx.com
-  - DOMAIN-SUFFIX,kveaa.com
   - DOMAIN-SUFFIX,kvecc.com
-  - DOMAIN-SUFFIX,kveii.com
-  - DOMAIN-SUFFIX,kvemm.com
   - DOMAIN-SUFFIX,kvenjoy.com
-  - DOMAIN-SUFFIX,kvezz.com
   - DOMAIN-SUFFIX,kviso.com
   - DOMAIN-SUFFIX,kvkft.com
   - DOMAIN-SUFFIX,kvogues.com
@@ -73441,6 +73436,7 @@ payload:
   - IP-CIDR,156.107.170.0/24,no-resolve
   - IP-CIDR,156.107.178.0/23,no-resolve
   - IP-CIDR,156.107.180.0/23,no-resolve
+  - IP-CIDR,156.154.142.0/23,no-resolve
   - IP-CIDR,156.154.62.0/23,no-resolve
   - IP-CIDR,156.237.2.0/23,no-resolve
   - IP-CIDR,157.0.0.0/16,no-resolve
@@ -76160,6 +76156,7 @@ payload:
   - IP-CIDR,45.119.60.0/22,no-resolve
   - IP-CIDR,45.119.64.0/21,no-resolve
   - IP-CIDR,45.119.72.0/22,no-resolve
+  - IP-CIDR,45.12.234.0/23,no-resolve
   - IP-CIDR,45.120.100.0/22,no-resolve
   - IP-CIDR,45.120.140.0/22,no-resolve
   - IP-CIDR,45.120.164.0/22,no-resolve
