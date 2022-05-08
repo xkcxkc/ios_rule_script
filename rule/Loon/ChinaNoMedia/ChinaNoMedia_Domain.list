@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 02:12:07
+# UPDATED: 2022-05-08 19:59:12
 # USER-AGENT: 32
 # DOMAIN-SUFFIX: 7090
 # DOMAIN: 17
-# IP-CIDR: 6146
+# IP-CIDR: 6144
 # DOMAIN-KEYWORD: 13
 # IP-CIDR6: 4183
-# TOTAL: 17481
+# TOTAL: 17479
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com

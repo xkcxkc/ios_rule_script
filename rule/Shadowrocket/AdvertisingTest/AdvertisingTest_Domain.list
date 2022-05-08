@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 02:12:11
+# UPDATED: 2022-05-08 19:59:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 46316
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 90044
+# DOMAIN-SUFFIX: 90072
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 137002
+# TOTAL: 137030
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -47843,6 +47843,7 @@ zzzrtrcm2.com
 .3y6c.cn
 .3yai2u.cn
 .3ygww.com
+.3z3sfuj.cn
 .4-counter.com
 .4006825178.com
 .4008813318.com.cn
@@ -55133,6 +55134,7 @@ zzzrtrcm2.com
 .aeesy.com
 .aegis.qq.com
 .aeheymuatansp.xyz
+.aehjtauekqjtvc.com
 .aelick.com
 .aellod.com
 .aelphotog.pro
@@ -61044,6 +61046,7 @@ zzzrtrcm2.com
 .beshtienhr2hd8j09.com
 .beshucklean.com
 .besiasmere.site
+.beside-u.xyz
 .besmeargleor.com
 .besocial.online
 .besoes.com
@@ -61956,6 +61959,7 @@ zzzrtrcm2.com
 .bluecore.com
 .bluecounter.de
 .bluedawning.com
+.bluedcrwth.com
 .bluediamondoffers.com
 .blueinfo.marugroup.net
 .bluejay.postmediagroup.com
@@ -69535,6 +69539,7 @@ zzzrtrcm2.com
 .d31nb97nd8ha11.cloudfront.net
 .d31qbv1cthcecs.cloudfront.net
 .d31vxm9ubutrmw.cloudfront.net
+.d31y97ze264gaa.cloudfront.net
 .d32bug9eb0g0bh.cloudfront.net
 .d32hwlnfiv2gyn.cloudfront.net
 .d32r49xyei4vz6.cloudfront.net
@@ -73291,6 +73296,7 @@ zzzrtrcm2.com
 .e.ysdangan.com
 .e.yycqc.com
 .e.zg-api.com
+.e05.xyz
 .e0663490cca0296f7.com
 .e07.xyz
 .e0a42e1a21669b.com
@@ -76137,6 +76143,7 @@ zzzrtrcm2.com
 .eyecurred.com
 .eyefuneve.com
 .eyein.com
+.eyelidfallage.com
 .eyenewton.ru
 .eyeota.net
 .eyere.com
@@ -83719,6 +83726,7 @@ zzzrtrcm2.com
 .hwyytk.verabradley.com
 .hwyyuy.ringcentral.com
 .hx623.cn
+.hx9.ink
 .hxadt.com
 .hxbt.alading123.com
 .hxbylm.vip
@@ -88201,6 +88209,7 @@ zzzrtrcm2.com
 .jyzcv.cn
 .jyzmsy.com.cn
 .jzbzvk10u32f.adria.gg
+.jzcan.xyz
 .jzclick.soso.com
 .jzcool.top
 .jzdgn.cn
@@ -88259,6 +88268,7 @@ zzzrtrcm2.com
 .k1.dancihu.com
 .k1.mobileadsserver.com
 .k1.wanwenwan.cn
+.k11designstore.club
 .k12shequ.com
 .k1815.com
 .k1rsdhu.xyz
@@ -88619,6 +88629,7 @@ zzzrtrcm2.com
 .kevypeta.com
 .kewhexethe.com
 .kewholypti.com
+.kewhulawi.com
 .kewithrittit.ru
 .kewuruve.xyz
 .kexigia.com
@@ -97606,6 +97617,7 @@ zzzrtrcm2.com
 .mouse3k.com
 .mousecatzilla.com
 .mouseflow.com
+.mouseryearlike.com
 .mousescrupulousrow.com
 .mousestats.com
 .mousetrace.com
@@ -100980,6 +100992,7 @@ zzzrtrcm2.com
 .oek7.april-moto.com
 .oelco.cn
 .oende.cn
+.oensil.com
 .oeocriaq.cn
 .oepihvxwaboed.com
 .oeqirr.com
@@ -104443,6 +104456,7 @@ zzzrtrcm2.com
 .pixel.ionos.fr
 .pixel.kknews.cc
 .pixel.klout.com
+.pixel.locker2.com
 .pixel.mintigo.com
 .pixel.naij.com
 .pixel.newscred.com
@@ -107408,6 +107422,7 @@ zzzrtrcm2.com
 .qhlmb.com
 .qhmrasvwzbwjpz.com
 .qhnwj.com
+.qhonzpl.cn
 .qhoxqx12wwme.www.earthclassmail.com
 .qhqofqeivtno.com
 .qhruisen.cn
@@ -112676,6 +112691,7 @@ zzzrtrcm2.com
 .select004.adtech.us
 .selectablemedia.com
 .selectad.com
+.selectinstall.cn
 .selectionship.com
 .selectivesummer.com
 .selectmedia.asia
@@ -116063,6 +116079,7 @@ zzzrtrcm2.com
 .smetrix.avon.uk.com
 .smetrix.youravon.com
 .smf82.cn
+.smfjfgie.xyz
 .smgjupy.cn
 .smgru.net
 .smh.ink
@@ -116310,6 +116327,7 @@ zzzrtrcm2.com
 .soawhoaw.com
 .soazooge.com
 .sobakapi2sa8la09.com
+.sobakenchmaphk.com
 .sobalf.com
 .sobar.baidu.com
 .sobartop.baidu.com
@@ -116532,6 +116550,7 @@ zzzrtrcm2.com
 .someperceptionparade.com
 .somethingglamourbeams.com
 .somethingprecursorfairfax.com
+.sometimesfaith.com
 .sometired.com
 .sometream.club
 .sometrics.com
@@ -117084,6 +117103,7 @@ zzzrtrcm2.com
 .spirebaboon.com
 .spiritedirreparablemiscarriage.com
 .spiritualbrakes.com
+.spirliesalse.com
 .spirub.com
 .spiteaside.com
 .spitter.pauk.ru
@@ -117362,6 +117382,7 @@ zzzrtrcm2.com
 .srepdata.whas11.com
 .sreport.mitsubishicars.com
 .sresumablye.club
+.srfhtrjzvf.com
 .srgev.com
 .srgwxvm.cn
 .srhfdx.amerii.com
@@ -130226,6 +130247,7 @@ zzzrtrcm2.com
 .weld.uunice.com
 .weld830.uunice.com
 .weldc1.021ye.com
+.weldsystem.online
 .weliketofuckstrangers.com
 .weline.info
 .well365.ru
@@ -130416,6 +130438,7 @@ zzzrtrcm2.com
 .wheelwheel.space
 .wheeptit.net
 .wheeshoo.net
+.wheeshtdooring.com
 .wheessoo.com
 .whefungu.com
 .whegadry.com
@@ -132546,6 +132569,7 @@ zzzrtrcm2.com
 .wzjs.me
 .wzjs2.cdn.bcebos.com
 .wzl02.xyz
+.wzl03.xyz
 .wzl05.xyz
 .wzn4.cn
 .wzor.web-serf.info
@@ -132954,6 +132978,7 @@ zzzrtrcm2.com
 .xiaobiaoucai.cn
 .xiaocai-rookie.info
 .xiaochengzhixue.com
+.xiaodian.name
 .xiaodongjun.com
 .xiaoertuina.top
 .xiaofashi.top
@@ -133493,6 +133518,7 @@ zzzrtrcm2.com
 .xstronger.com
 .xsu.cc
 .xsusmtvgvxp.xyz
+.xsvgpjl.cn
 .xsvvmrhjztro.com
 .xsweb.pxuns.com
 .xswvytnxkzkzq.com
@@ -133652,6 +133678,7 @@ zzzrtrcm2.com
 .xxeden.com
 .xxf65z4o6a.club
 .xxgiwqv.cn
+.xxgslt.com
 .xxguan.cn
 .xxhrd.com
 .xxia.xyz
@@ -134746,6 +134773,7 @@ zzzrtrcm2.com
 .yphmgzkojubwxn.com
 .ypiads.com
 .ypjiavvxy.top
+.ypjmvdfxqw.com
 .ypjmyskeii.com
 .yplan.ru
 .ypmadserver.com
