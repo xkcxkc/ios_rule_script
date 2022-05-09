@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 19:59:15
-# DOMAIN-SUFFIX: 33318
+# UPDATED: 2022-05-10 02:14:05
+# DOMAIN-SUFFIX: 33317
 # DOMAIN: 38
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 33475
+# TOTAL: 33474
 payload:
   - 'angle.com.tw'
   - 'api-p.videomarket.jp'
@@ -15310,7 +15310,6 @@ payload:
   - '+.jinbushe.org'
   - '+.jing1155.com'
   - '+.jing444444.com'
-  - '+.jingbets.com'
   - '+.jingking.net'
   - '+.jingling.me'
   - '+.jingpin.org'

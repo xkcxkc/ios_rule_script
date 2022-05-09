@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-30 02:15:46
-# DOMAIN-SUFFIX: 25574
+# UPDATED: 2022-05-10 02:14:05
+# DOMAIN-SUFFIX: 25573
 # DOMAIN: 33
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25767
+# TOTAL: 25766
 payload:
   - DOMAIN,addons.mozilla.org
   - DOMAIN,amp-api.podcasts.apple.com
@@ -11131,7 +11131,6 @@ payload:
   - DOMAIN-SUFFIX,jinbushe.org
   - DOMAIN-SUFFIX,jing1155.com
   - DOMAIN-SUFFIX,jing444444.com
-  - DOMAIN-SUFFIX,jingbets.com
   - DOMAIN-SUFFIX,jingking.net
   - DOMAIN-SUFFIX,jingling.me
   - DOMAIN-SUFFIX,jingpin.org

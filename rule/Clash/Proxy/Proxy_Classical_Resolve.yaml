@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-04-30 02:15:44
-# DOMAIN-SUFFIX: 25463
+# UPDATED: 2022-05-10 02:14:04
+# DOMAIN-SUFFIX: 25462
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 25598
+# TOTAL: 25597
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -11043,7 +11043,6 @@ payload:
   - DOMAIN-SUFFIX,jinbushe.org
   - DOMAIN-SUFFIX,jing1155.com
   - DOMAIN-SUFFIX,jing444444.com
-  - DOMAIN-SUFFIX,jingbets.com
   - DOMAIN-SUFFIX,jingking.net
   - DOMAIN-SUFFIX,jingling.me
   - DOMAIN-SUFFIX,jingpin.org

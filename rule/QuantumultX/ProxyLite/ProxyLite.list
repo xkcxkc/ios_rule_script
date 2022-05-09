@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 19:59:11
-# HOST-SUFFIX: 33318
+# UPDATED: 2022-05-10 02:14:01
+# HOST-SUFFIX: 33317
 # USER-AGENT: 5
 # HOST: 38
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 33480
+# TOTAL: 33479
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -15310,7 +15310,6 @@ HOST-SUFFIX,jin321.com,ProxyLite
 HOST-SUFFIX,jinbushe.org,ProxyLite
 HOST-SUFFIX,jing1155.com,ProxyLite
 HOST-SUFFIX,jing444444.com,ProxyLite
-HOST-SUFFIX,jingbets.com,ProxyLite
 HOST-SUFFIX,jingking.net,ProxyLite
 HOST-SUFFIX,jingling.me,ProxyLite
 HOST-SUFFIX,jingpin.org,ProxyLite
