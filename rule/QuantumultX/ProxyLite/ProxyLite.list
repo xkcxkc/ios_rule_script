@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 02:14:01
-# HOST-SUFFIX: 33317
+# UPDATED: 2022-05-10 23:11:09
+# HOST-SUFFIX: 33329
 # USER-AGENT: 5
-# HOST: 38
+# HOST: 37
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 33479
+# TOTAL: 33490
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -46,7 +46,6 @@ HOST,tesla-cdn.thron.com,ProxyLite
 HOST,voice.telephony.goog,ProxyLite
 HOST,widgets.stripst.com,ProxyLite
 HOST,wrds-www.wharton.upenn.edu,ProxyLite
-HOST,www-cdn.icloud.com.akadns.net,ProxyLite
 HOST-SUFFIX,00006801.com,ProxyLite
 HOST-SUFFIX,00006805.com,ProxyLite
 HOST-SUFFIX,00006807.com,ProxyLite
@@ -3231,7 +3230,6 @@ HOST-SUFFIX,ali3215.com,ProxyLite
 HOST-SUFFIX,alias.awsapps.com,ProxyLite
 HOST-SUFFIX,alice.xfu.jp,ProxyLite
 HOST-SUFFIX,alicejapan.co.jp,ProxyLite
-HOST-SUFFIX,alicloud.com,ProxyLite
 HOST-SUFFIX,aliengu.com,ProxyLite
 HOST-SUFFIX,alifaan.ovh,ProxyLite
 HOST-SUFFIX,alifta.com,ProxyLite
@@ -3272,6 +3270,7 @@ HOST-SUFFIX,allgirlsallowed.org,ProxyLite
 HOST-SUFFIX,allgravure.com,ProxyLite
 HOST-SUFFIX,allhorsesex.com,ProxyLite
 HOST-SUFFIX,alliance.org.hk,ProxyLite
+HOST-SUFFIX,alliancesages.com,ProxyLite
 HOST-SUFFIX,alliehaze.com,ProxyLite
 HOST-SUFFIX,allinfa.com,ProxyLite
 HOST-SUFFIX,allinternal.com,ProxyLite
@@ -8129,6 +8128,7 @@ HOST-SUFFIX,cumasianporn.com,ProxyLite
 HOST-SUFFIX,cumfox.com,ProxyLite
 HOST-SUFFIX,cumlouder.com,ProxyLite
 HOST-SUFFIX,cumteenporn.com,ProxyLite
+HOST-SUFFIX,cuntempire.com,ProxyLite
 HOST-SUFFIX,cuny.edu,ProxyLite
 HOST-SUFFIX,cup888.tv,ProxyLite
 HOST-SUFFIX,cups.org,ProxyLite
@@ -9713,6 +9713,7 @@ HOST-SUFFIX,ec.skokka.com,ProxyLite
 HOST-SUFFIX,ecademy.com,ProxyLite
 HOST-SUFFIX,ecaipe.com.ar,ProxyLite
 HOST-SUFFIX,ecar.jlr-apps.com,ProxyLite
+HOST-SUFFIX,ecchi.xxx,ProxyLite
 HOST-SUFFIX,ecfa.org.tw,ProxyLite
 HOST-SUFFIX,ecgapp.net,ProxyLite
 HOST-SUFFIX,echainhost.com,ProxyLite
@@ -10073,6 +10074,7 @@ HOST-SUFFIX,erlang.org,ProxyLite
 HOST-SUFFIX,ernestmandel.org,ProxyLite
 HOST-SUFFIX,ero-anime.net,ProxyLite
 HOST-SUFFIX,ero-kawa.com,ProxyLite
+HOST-SUFFIX,ero-labs.com,ProxyLite
 HOST-SUFFIX,ero-video.net,ProxyLite
 HOST-SUFFIX,erocool.net,ProxyLite
 HOST-SUFFIX,erocurves.com,ProxyLite
@@ -10087,6 +10089,10 @@ HOST-SUFFIX,erogazopple.com,ProxyLite
 HOST-SUFFIX,erogazou-pinkline.com,ProxyLite
 HOST-SUFFIX,erogazoufactory.com,ProxyLite
 HOST-SUFFIX,erohentai.net,ProxyLite
+HOST-SUFFIX,erolabs.cloud,ProxyLite
+HOST-SUFFIX,erolabs.com,ProxyLite
+HOST-SUFFIX,erolabs.games,ProxyLite
+HOST-SUFFIX,erolabs.net,ProxyLite
 HOST-SUFFIX,erolord.com,ProxyLite
 HOST-SUFFIX,eromanga-kingdom.com,ProxyLite
 HOST-SUFFIX,eromangadouzin.com,ProxyLite
@@ -12090,6 +12096,7 @@ HOST-SUFFIX,gdansk-amazon.com,ProxyLite
 HOST-SUFFIX,gdbt.net,ProxyLite
 HOST-SUFFIX,gdg.com.ar,ProxyLite
 HOST-SUFFIX,gdgdocs.org,ProxyLite
+HOST-SUFFIX,gdsrx888.com,ProxyLite
 HOST-SUFFIX,gdssecurity.com,ProxyLite
 HOST-SUFFIX,gdthing.com,ProxyLite
 HOST-SUFFIX,gdzf.org,ProxyLite
@@ -13174,7 +13181,6 @@ HOST-SUFFIX,hentai0.com,ProxyLite
 HOST-SUFFIX,hentai2012.com,ProxyLite
 HOST-SUFFIX,hentai4manga.com,ProxyLite
 HOST-SUFFIX,hentaiathome.net,ProxyLite
-HOST-SUFFIX,hentaicloud.com,ProxyLite
 HOST-SUFFIX,hentaicore.org,ProxyLite
 HOST-SUFFIX,hentaidude.com,ProxyLite
 HOST-SUFFIX,hentaifox.com,ProxyLite
@@ -13524,6 +13530,7 @@ HOST-SUFFIX,hkwesi666.xyz,ProxyLite
 HOST-SUFFIX,hkwesi7.xyz,ProxyLite
 HOST-SUFFIX,hkwesi77.xyz,ProxyLite
 HOST-SUFFIX,hkzone.org,ProxyLite
+HOST-SUFFIX,hlbelygl.com,ProxyLite
 HOST-SUFFIX,hllm.cc,ProxyLite
 HOST-SUFFIX,hllm.net,ProxyLite
 HOST-SUFFIX,hlw22.com,ProxyLite
@@ -14103,7 +14110,6 @@ HOST-SUFFIX,icij.org,ProxyLite
 HOST-SUFFIX,icili.net,ProxyLite
 HOST-SUFFIX,icisleri.gov.tr,ProxyLite
 HOST-SUFFIX,icl-fi.org,ProxyLite
-HOST-SUFFIX,icloud-cdn.icloud.com.akadns.net,ProxyLite
 HOST-SUFFIX,icntv.xyz,ProxyLite
 HOST-SUFFIX,icnyu.org,ProxyLite
 HOST-SUFFIX,icoco.com,ProxyLite
@@ -15352,6 +15358,7 @@ HOST-SUFFIX,jitsi.org,ProxyLite
 HOST-SUFFIX,jiuping.net,ProxyLite
 HOST-SUFFIX,jiuweike.com,ProxyLite
 HOST-SUFFIX,jiuyaoyouxi.com,ProxyLite
+HOST-SUFFIX,jiuzhouyihuo.com,ProxyLite
 HOST-SUFFIX,jize-macau.business.site,ProxyLite
 HOST-SUFFIX,jizzboom.com,ProxyLite
 HOST-SUFFIX,jizzbunker.com,ProxyLite
@@ -20553,6 +20560,8 @@ HOST-SUFFIX,pinip.net,ProxyLite
 HOST-SUFFIX,pink.komica.org,ProxyLite
 HOST-SUFFIX,pinkape.net,ProxyLite
 HOST-SUFFIX,pinkclips.mobi,ProxyLite
+HOST-SUFFIX,pinkcore.com,ProxyLite
+HOST-SUFFIX,pinkcore.net,ProxyLite
 HOST-SUFFIX,pinkpussy.tv,ProxyLite
 HOST-SUFFIX,pinkrod.com,ProxyLite
 HOST-SUFFIX,pinkteentube.net,ProxyLite
@@ -20797,6 +20806,7 @@ HOST-SUFFIX,porbhub.com,ProxyLite
 HOST-SUFFIX,pori.hk,ProxyLite
 HOST-SUFFIX,poringa.net,ProxyLite
 HOST-SUFFIX,pormhub.com,ProxyLite
+HOST-SUFFIX,porn-images-xxx.com,ProxyLite
 HOST-SUFFIX,porn-star.com,ProxyLite
 HOST-SUFFIX,porn-w.org,ProxyLite
 HOST-SUFFIX,porn-wanted.com,ProxyLite
@@ -32635,6 +32645,7 @@ HOST-SUFFIX,yangjianli.com,ProxyLite
 HOST-SUFFIX,yangyangyang.me,ProxyLite
 HOST-SUFFIX,yao.cl,ProxyLite
 HOST-SUFFIX,yaoluba.com,ProxyLite
+HOST-SUFFIX,yaoyaomumu.com,ProxyLite
 HOST-SUFFIX,yaptube.com,ProxyLite
 HOST-SUFFIX,yarininsuyu.com,ProxyLite
 HOST-SUFFIX,yarnpkg.com,ProxyLite

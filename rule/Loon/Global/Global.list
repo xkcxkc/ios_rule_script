@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 02:14:02
-# DOMAIN-SUFFIX: 25573
+# UPDATED: 2022-05-10 23:11:10
+# DOMAIN-SUFFIX: 25572
 # USER-AGENT: 44
-# DOMAIN: 33
+# DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
 # IP-CIDR6: 4
-# TOTAL: 25809
+# TOTAL: 25807
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.

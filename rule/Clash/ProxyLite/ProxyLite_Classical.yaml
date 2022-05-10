@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 02:14:05
-# DOMAIN-SUFFIX: 33317
-# DOMAIN: 38
+# UPDATED: 2022-05-10 23:11:14
+# DOMAIN-SUFFIX: 33329
+# DOMAIN: 37
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 33474
+# TOTAL: 33485
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -46,7 +46,6 @@ payload:
   - DOMAIN,voice.telephony.goog
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wrds-www.wharton.upenn.edu
-  - DOMAIN,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,00006801.com
   - DOMAIN-SUFFIX,00006805.com
   - DOMAIN-SUFFIX,00006807.com
@@ -3231,7 +3230,6 @@ payload:
   - DOMAIN-SUFFIX,alias.awsapps.com
   - DOMAIN-SUFFIX,alice.xfu.jp
   - DOMAIN-SUFFIX,alicejapan.co.jp
-  - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,aliengu.com
   - DOMAIN-SUFFIX,alifaan.ovh
   - DOMAIN-SUFFIX,alifta.com
@@ -3272,6 +3270,7 @@ payload:
   - DOMAIN-SUFFIX,allgravure.com
   - DOMAIN-SUFFIX,allhorsesex.com
   - DOMAIN-SUFFIX,alliance.org.hk
+  - DOMAIN-SUFFIX,alliancesages.com
   - DOMAIN-SUFFIX,alliehaze.com
   - DOMAIN-SUFFIX,allinfa.com
   - DOMAIN-SUFFIX,allinternal.com
@@ -8129,6 +8128,7 @@ payload:
   - DOMAIN-SUFFIX,cumfox.com
   - DOMAIN-SUFFIX,cumlouder.com
   - DOMAIN-SUFFIX,cumteenporn.com
+  - DOMAIN-SUFFIX,cuntempire.com
   - DOMAIN-SUFFIX,cuny.edu
   - DOMAIN-SUFFIX,cup888.tv
   - DOMAIN-SUFFIX,cups.org
@@ -9713,6 +9713,7 @@ payload:
   - DOMAIN-SUFFIX,ecademy.com
   - DOMAIN-SUFFIX,ecaipe.com.ar
   - DOMAIN-SUFFIX,ecar.jlr-apps.com
+  - DOMAIN-SUFFIX,ecchi.xxx
   - DOMAIN-SUFFIX,ecfa.org.tw
   - DOMAIN-SUFFIX,ecgapp.net
   - DOMAIN-SUFFIX,echainhost.com
@@ -10073,6 +10074,7 @@ payload:
   - DOMAIN-SUFFIX,ernestmandel.org
   - DOMAIN-SUFFIX,ero-anime.net
   - DOMAIN-SUFFIX,ero-kawa.com
+  - DOMAIN-SUFFIX,ero-labs.com
   - DOMAIN-SUFFIX,ero-video.net
   - DOMAIN-SUFFIX,erocool.net
   - DOMAIN-SUFFIX,erocurves.com
@@ -10087,6 +10089,10 @@ payload:
   - DOMAIN-SUFFIX,erogazou-pinkline.com
   - DOMAIN-SUFFIX,erogazoufactory.com
   - DOMAIN-SUFFIX,erohentai.net
+  - DOMAIN-SUFFIX,erolabs.cloud
+  - DOMAIN-SUFFIX,erolabs.com
+  - DOMAIN-SUFFIX,erolabs.games
+  - DOMAIN-SUFFIX,erolabs.net
   - DOMAIN-SUFFIX,erolord.com
   - DOMAIN-SUFFIX,eromanga-kingdom.com
   - DOMAIN-SUFFIX,eromangadouzin.com
@@ -12090,6 +12096,7 @@ payload:
   - DOMAIN-SUFFIX,gdbt.net
   - DOMAIN-SUFFIX,gdg.com.ar
   - DOMAIN-SUFFIX,gdgdocs.org
+  - DOMAIN-SUFFIX,gdsrx888.com
   - DOMAIN-SUFFIX,gdssecurity.com
   - DOMAIN-SUFFIX,gdthing.com
   - DOMAIN-SUFFIX,gdzf.org
@@ -13174,7 +13181,6 @@ payload:
   - DOMAIN-SUFFIX,hentai2012.com
   - DOMAIN-SUFFIX,hentai4manga.com
   - DOMAIN-SUFFIX,hentaiathome.net
-  - DOMAIN-SUFFIX,hentaicloud.com
   - DOMAIN-SUFFIX,hentaicore.org
   - DOMAIN-SUFFIX,hentaidude.com
   - DOMAIN-SUFFIX,hentaifox.com
@@ -13524,6 +13530,7 @@ payload:
   - DOMAIN-SUFFIX,hkwesi7.xyz
   - DOMAIN-SUFFIX,hkwesi77.xyz
   - DOMAIN-SUFFIX,hkzone.org
+  - DOMAIN-SUFFIX,hlbelygl.com
   - DOMAIN-SUFFIX,hllm.cc
   - DOMAIN-SUFFIX,hllm.net
   - DOMAIN-SUFFIX,hlw22.com
@@ -14103,7 +14110,6 @@ payload:
   - DOMAIN-SUFFIX,icili.net
   - DOMAIN-SUFFIX,icisleri.gov.tr
   - DOMAIN-SUFFIX,icl-fi.org
-  - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,icnyu.org
   - DOMAIN-SUFFIX,icoco.com
@@ -15352,6 +15358,7 @@ payload:
   - DOMAIN-SUFFIX,jiuping.net
   - DOMAIN-SUFFIX,jiuweike.com
   - DOMAIN-SUFFIX,jiuyaoyouxi.com
+  - DOMAIN-SUFFIX,jiuzhouyihuo.com
   - DOMAIN-SUFFIX,jize-macau.business.site
   - DOMAIN-SUFFIX,jizzboom.com
   - DOMAIN-SUFFIX,jizzbunker.com
@@ -20553,6 +20560,8 @@ payload:
   - DOMAIN-SUFFIX,pink.komica.org
   - DOMAIN-SUFFIX,pinkape.net
   - DOMAIN-SUFFIX,pinkclips.mobi
+  - DOMAIN-SUFFIX,pinkcore.com
+  - DOMAIN-SUFFIX,pinkcore.net
   - DOMAIN-SUFFIX,pinkpussy.tv
   - DOMAIN-SUFFIX,pinkrod.com
   - DOMAIN-SUFFIX,pinkteentube.net
@@ -20797,6 +20806,7 @@ payload:
   - DOMAIN-SUFFIX,pori.hk
   - DOMAIN-SUFFIX,poringa.net
   - DOMAIN-SUFFIX,pormhub.com
+  - DOMAIN-SUFFIX,porn-images-xxx.com
   - DOMAIN-SUFFIX,porn-star.com
   - DOMAIN-SUFFIX,porn-w.org
   - DOMAIN-SUFFIX,porn-wanted.com
@@ -32635,6 +32645,7 @@ payload:
   - DOMAIN-SUFFIX,yangyangyang.me
   - DOMAIN-SUFFIX,yao.cl
   - DOMAIN-SUFFIX,yaoluba.com
+  - DOMAIN-SUFFIX,yaoyaomumu.com
   - DOMAIN-SUFFIX,yaptube.com
   - DOMAIN-SUFFIX,yarininsuyu.com
   - DOMAIN-SUFFIX,yarnpkg.com

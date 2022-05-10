@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 19:59:12
+# UPDATED: 2022-05-10 23:11:10
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70193
+# DOMAIN-SUFFIX: 70192
 # DOMAIN: 76
 # IP-CIDR: 6239
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4183
-# TOTAL: 80768
+# TOTAL: 80767
 265.com
 adservice.google.com
 analytics.strava.com
@@ -12771,7 +12771,6 @@ www4-static.gog-statics.com
 .bqg8.cc
 .bqg8.la
 .bqgwu.com
-.bqgyy.com
 .bqiapp.com
 .bqimg.com
 .bql999.com
