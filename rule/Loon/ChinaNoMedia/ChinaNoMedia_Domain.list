@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 19:59:12
+# UPDATED: 2022-05-13 02:13:56
 # USER-AGENT: 32
-# DOMAIN-SUFFIX: 7090
+# DOMAIN-SUFFIX: 7092
 # DOMAIN: 17
-# IP-CIDR: 6144
+# IP-CIDR: 6146
 # DOMAIN-KEYWORD: 13
-# IP-CIDR6: 4183
-# TOTAL: 17479
+# IP-CIDR6: 4166
+# TOTAL: 17466
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -2882,6 +2882,7 @@ weizhiyundong.list
 .goodfeel.cn
 .goodluckcalendar.com
 .goodread.com
+.goofish.com
 .googletraveladservices.com
 .goproxy.cn
 .got001.com
@@ -6514,6 +6515,7 @@ weizhiyundong.list
 .xiaogou999.com
 .xiaogouds.com
 .xiaogouzhineng.com
+.xiaohongshu.com
 .xiaohu8.com
 .xiaojuchefu.cn
 .xiaojukeji.com

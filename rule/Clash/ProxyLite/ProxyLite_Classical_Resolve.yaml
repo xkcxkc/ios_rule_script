@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 23:11:14
-# DOMAIN-SUFFIX: 33329
+# UPDATED: 2022-05-13 02:14:00
+# DOMAIN-SUFFIX: 33332
 # DOMAIN: 37
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 33485
+# TOTAL: 33488
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -10209,6 +10209,7 @@ payload:
   - DOMAIN-SUFFIX,europornstar.com
   - DOMAIN-SUFFIX,europroxy.eu
   - DOMAIN-SUFFIX,eurorgb.com
+  - DOMAIN-SUFFIX,evaelfie.com
   - DOMAIN-SUFFIX,evemodels.com
   - DOMAIN-SUFFIX,events4fun.net
   - DOMAIN-SUFFIX,eventsinfocus.org
@@ -24040,6 +24041,7 @@ payload:
   - DOMAIN-SUFFIX,swdist.apple.com.akadns.net
   - DOMAIN-SUFFIX,sweetadult-tube.com
   - DOMAIN-SUFFIX,sweetkiss.me
+  - DOMAIN-SUFFIX,sweetmlif.net
   - DOMAIN-SUFFIX,sweetpacks-search.com
   - DOMAIN-SUFFIX,sweetsinner.com
   - DOMAIN-SUFFIX,swegold.com
@@ -24393,6 +24395,7 @@ payload:
   - DOMAIN-SUFFIX,teleconomiser.com
   - DOMAIN-SUFFIX,telega.one
   - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram-cdn.org
   - DOMAIN-SUFFIX,telegram.dog
   - DOMAIN-SUFFIX,telegram.me
   - DOMAIN-SUFFIX,telegram.org

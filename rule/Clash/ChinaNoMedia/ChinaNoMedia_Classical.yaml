@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-08 19:59:14
-# DOMAIN-SUFFIX: 7090
+# UPDATED: 2022-05-13 02:13:59
+# DOMAIN-SUFFIX: 7092
 # PROCESS-NAME: 5
 # DOMAIN: 17
-# IP-CIDR: 6144
+# IP-CIDR: 6146
 # DOMAIN-KEYWORD: 13
-# IP-CIDR6: 4183
-# TOTAL: 17452
+# IP-CIDR6: 4166
+# TOTAL: 17439
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -2883,6 +2883,7 @@ payload:
   - DOMAIN-SUFFIX,goodfeel.cn
   - DOMAIN-SUFFIX,goodluckcalendar.com
   - DOMAIN-SUFFIX,goodread.com
+  - DOMAIN-SUFFIX,goofish.com
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,goproxy.cn
   - DOMAIN-SUFFIX,got001.com
@@ -6515,6 +6516,7 @@ payload:
   - DOMAIN-SUFFIX,xiaogou999.com
   - DOMAIN-SUFFIX,xiaogouds.com
   - DOMAIN-SUFFIX,xiaogouzhineng.com
+  - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,xiaohu8.com
   - DOMAIN-SUFFIX,xiaojuchefu.cn
   - DOMAIN-SUFFIX,xiaojukeji.com
@@ -7609,6 +7611,7 @@ payload:
   - IP-CIDR,103.146.252.0/23,no-resolve
   - IP-CIDR,103.146.6.0/23,no-resolve
   - IP-CIDR,103.146.72.0/23,no-resolve
+  - IP-CIDR,103.146.8.0/23,no-resolve
   - IP-CIDR,103.146.88.0/22,no-resolve
   - IP-CIDR,103.147.12.0/23,no-resolve
   - IP-CIDR,103.147.124.0/23,no-resolve
@@ -10480,6 +10483,7 @@ payload:
   - IP-CIDR,194.138.136.0/24,no-resolve
   - IP-CIDR,194.138.202.0/23,no-resolve
   - IP-CIDR,194.138.245.0/24,no-resolve
+  - IP-CIDR,194.246.96.0/24,no-resolve
   - IP-CIDR,195.142.215.0/24,no-resolve
   - IP-CIDR,198.11.128.0/18,no-resolve
   - IP-CIDR,198.175.100.0/22,no-resolve
@@ -13527,6 +13531,7 @@ payload:
   - IP-CIDR6,2400:7440::/32,no-resolve
   - IP-CIDR6,2400:74c0::/32,no-resolve
   - IP-CIDR6,2400:7540::/32,no-resolve
+  - IP-CIDR6,2400:75a0::/28,no-resolve
   - IP-CIDR6,2400:75c0::/32,no-resolve
   - IP-CIDR6,2400:7640::/32,no-resolve
   - IP-CIDR6,2400:7680::/32,no-resolve
@@ -13839,12 +13844,14 @@ payload:
   - IP-CIDR6,2401:f300::/32,no-resolve
   - IP-CIDR6,2401:f7c0::/32,no-resolve
   - IP-CIDR6,2401:f9c0:cdcd::/48,no-resolve
-  - IP-CIDR6,2401:fa00:40::/43,no-resolve
+  - IP-CIDR6,2401:fa00:40::/47,no-resolve
+  - IP-CIDR6,2401:fa00:44::/48,no-resolve
+  - IP-CIDR6,2401:fa00:46:400::/54,no-resolve
+  - IP-CIDR6,2401:fa00:47::/48,no-resolve
   - IP-CIDR6,2401:fa00:480:7600::/55,no-resolve
-  - IP-CIDR6,2401:fa00:62::/48,no-resolve
-  - IP-CIDR6,2401:fa00:64::/47,no-resolve
-  - IP-CIDR6,2401:fa00:6c::/46,no-resolve
-  - IP-CIDR6,2401:fa00:70::/44,no-resolve
+  - IP-CIDR6,2401:fa00:48::/48,no-resolve
+  - IP-CIDR6,2401:fa00:5f:c000::/54,no-resolve
+  - IP-CIDR6,2401:fa00:5f:c500::/56,no-resolve
   - IP-CIDR6,2401:fa80::/32,no-resolve
   - IP-CIDR6,2401:fb80::/32,no-resolve
   - IP-CIDR6,2401:fc80::/32,no-resolve
@@ -16041,7 +16048,13 @@ payload:
   - IP-CIDR6,2406:840:f480::/41,no-resolve
   - IP-CIDR6,2406:840:f500::/40,no-resolve
   - IP-CIDR6,2406:840:f600::/39,no-resolve
-  - IP-CIDR6,2406:840:f800::/37,no-resolve
+  - IP-CIDR6,2406:840:f800::/38,no-resolve
+  - IP-CIDR6,2406:840:fc00::/39,no-resolve
+  - IP-CIDR6,2406:840:fe00::/40,no-resolve
+  - IP-CIDR6,2406:840:ff10::/44,no-resolve
+  - IP-CIDR6,2406:840:ff20::/43,no-resolve
+  - IP-CIDR6,2406:840:ff40::/42,no-resolve
+  - IP-CIDR6,2406:840:ff80::/41,no-resolve
   - IP-CIDR6,2406:8480::/32,no-resolve
   - IP-CIDR6,2406:8500::/32,no-resolve
   - IP-CIDR6,2406:8580::/32,no-resolve
@@ -16357,32 +16370,6 @@ payload:
   - IP-CIDR6,2600:70ff:a89b::/48,no-resolve
   - IP-CIDR6,2600:70ff:a89c::/47,no-resolve
   - IP-CIDR6,2602:fe9f:a00::/48,no-resolve
-  - IP-CIDR6,2602:feda:c00::/42,no-resolve
-  - IP-CIDR6,2602:feda:c40::/44,no-resolve
-  - IP-CIDR6,2602:feda:c60::/43,no-resolve
-  - IP-CIDR6,2602:feda:c80::/43,no-resolve
-  - IP-CIDR6,2602:feda:ca0::/48,no-resolve
-  - IP-CIDR6,2602:feda:ca2::/47,no-resolve
-  - IP-CIDR6,2602:feda:ca4::/46,no-resolve
-  - IP-CIDR6,2602:feda:ca8::/45,no-resolve
-  - IP-CIDR6,2602:feda:cb0::/44,no-resolve
-  - IP-CIDR6,2602:feda:cc0::/42,no-resolve
-  - IP-CIDR6,2602:feda:d00::/42,no-resolve
-  - IP-CIDR6,2602:feda:d40::/43,no-resolve
-  - IP-CIDR6,2602:feda:d60::/44,no-resolve
-  - IP-CIDR6,2602:feda:d80::/42,no-resolve
-  - IP-CIDR6,2602:feda:dc0::/44,no-resolve
-  - IP-CIDR6,2602:feda:de0::/47,no-resolve
-  - IP-CIDR6,2602:feda:de3::/48,no-resolve
-  - IP-CIDR6,2602:feda:de4::/46,no-resolve
-  - IP-CIDR6,2602:feda:de8::/45,no-resolve
-  - IP-CIDR6,2602:feda:df0::/44,no-resolve
-  - IP-CIDR6,2602:feda:e00::/44,no-resolve
-  - IP-CIDR6,2602:feda:e20::/44,no-resolve
-  - IP-CIDR6,2602:feda:e30::/48,no-resolve
-  - IP-CIDR6,2602:feda:e40::/42,no-resolve
-  - IP-CIDR6,2602:feda:e80::/41,no-resolve
-  - IP-CIDR6,2602:feda:f00::/40,no-resolve
   - IP-CIDR6,2605:3e80:1b00::/40,no-resolve
   - IP-CIDR6,2606:54c0:1980:100::/64,no-resolve
   - IP-CIDR6,2606:54c0:1980:108::/64,no-resolve

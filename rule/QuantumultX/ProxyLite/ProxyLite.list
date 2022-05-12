@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 23:11:09
-# HOST-SUFFIX: 33329
+# UPDATED: 2022-05-13 02:13:56
+# HOST-SUFFIX: 33332
 # USER-AGENT: 5
 # HOST: 37
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 33490
+# TOTAL: 33493
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -10209,6 +10209,7 @@ HOST-SUFFIX,europepmc.org,ProxyLite
 HOST-SUFFIX,europornstar.com,ProxyLite
 HOST-SUFFIX,europroxy.eu,ProxyLite
 HOST-SUFFIX,eurorgb.com,ProxyLite
+HOST-SUFFIX,evaelfie.com,ProxyLite
 HOST-SUFFIX,evemodels.com,ProxyLite
 HOST-SUFFIX,events4fun.net,ProxyLite
 HOST-SUFFIX,eventsinfocus.org,ProxyLite
@@ -24040,6 +24041,7 @@ HOST-SUFFIX,swdevelop.de,ProxyLite
 HOST-SUFFIX,swdist.apple.com.akadns.net,ProxyLite
 HOST-SUFFIX,sweetadult-tube.com,ProxyLite
 HOST-SUFFIX,sweetkiss.me,ProxyLite
+HOST-SUFFIX,sweetmlif.net,ProxyLite
 HOST-SUFFIX,sweetpacks-search.com,ProxyLite
 HOST-SUFFIX,sweetsinner.com,ProxyLite
 HOST-SUFFIX,swegold.com,ProxyLite
@@ -24393,6 +24395,7 @@ HOST-SUFFIX,telecomspace.com,ProxyLite
 HOST-SUFFIX,teleconomiser.com,ProxyLite
 HOST-SUFFIX,telega.one,ProxyLite
 HOST-SUFFIX,telegra.ph,ProxyLite
+HOST-SUFFIX,telegram-cdn.org,ProxyLite
 HOST-SUFFIX,telegram.dog,ProxyLite
 HOST-SUFFIX,telegram.me,ProxyLite
 HOST-SUFFIX,telegram.org,ProxyLite

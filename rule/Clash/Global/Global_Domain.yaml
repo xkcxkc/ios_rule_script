@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-10 23:11:13
-# DOMAIN-SUFFIX: 25572
+# UPDATED: 2022-05-13 02:13:59
+# DOMAIN-SUFFIX: 25573
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25764
+# TOTAL: 25765
 payload:
   - 'addons.mozilla.org'
   - 'amp-api.podcasts.apple.com'
@@ -17628,6 +17628,7 @@ payload:
   - '+.telecomspace.com'
   - '+.teleconomiser.com'
   - '+.telegra.ph'
+  - '+.telegram-cdn.org'
   - '+.telegram.dog'
   - '+.telegram.me'
   - '+.telegram.org'
