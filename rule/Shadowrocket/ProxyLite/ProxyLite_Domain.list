@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-13 02:14:01
-# DOMAIN-SUFFIX: 33332
+# UPDATED: 2022-05-14 02:15:58
+# DOMAIN-SUFFIX: 33346
 # USER-AGENT: 5
-# DOMAIN: 37
+# DOMAIN: 36
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
-# TOTAL: 33490
+# TOTAL: 33503
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -28,7 +28,6 @@ e122475.dscg.akamaiedge.net
 elib.maruzen.co.jp
 faronics.kayako.com
 firstsearch.oclc.org
-gitlab-assets.oss-cn-hongkong.aliyuncs.com
 hpstore.corpmerchandise.com
 i.jeded.com
 imperial.insendi.com
@@ -19463,7 +19462,6 @@ wrds-www.wharton.upenn.edu
 .nytalk.net
 .nytchina.com
 .nytcn.me
-.nytcnapps.oss-cn-hongkong.aliyuncs.com
 .nytco.com
 .nytfilmclub.com
 .nyti.ms
@@ -19861,6 +19859,21 @@ wrds-www.wharton.upenn.edu
 .osmfoundation.org
 .ospray.net
 .ospray.org
+.oss-ap-northeast-1.aliyuncs.com
+.oss-ap-northeast-2.aliyuncs.com
+.oss-ap-south-1.aliyuncs.com
+.oss-ap-southeast-1.aliyuncs.com
+.oss-ap-southeast-2.aliyuncs.com
+.oss-ap-southeast-3.aliyuncs.com
+.oss-ap-southeast-5.aliyuncs.com
+.oss-ap-southeast-6.aliyuncs.com
+.oss-ap-southeast-7.aliyuncs.com
+.oss-cn-hongkong.aliyuncs.com
+.oss-eu-central-1.aliyuncs.com
+.oss-eu-west-1.aliyuncs.com
+.oss-me-east-1.aliyuncs.com
+.oss-us-east-1.aliyuncs.com
+.oss-us-west-1.aliyuncs.com
 .osxdaily.com
 .otaku13.howbbs.com
 .otakuss.com

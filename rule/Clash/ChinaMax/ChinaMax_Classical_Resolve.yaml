@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-13 02:13:59
-# DOMAIN-SUFFIX: 70103
+# UPDATED: 2022-05-14 02:15:57
+# DOMAIN-SUFFIX: 70104
 # PROCESS-NAME: 6
 # DOMAIN: 76
-# IP-CIDR: 6241
+# IP-CIDR: 6244
 # DOMAIN-KEYWORD: 15
 # IP-CIDR6: 4166
-# TOTAL: 80607
+# TOTAL: 80611
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -29380,6 +29380,7 @@ payload:
   - DOMAIN-SUFFIX,hongyeshuzhai.com
   - DOMAIN-SUFFIX,hongyicd.net
   - DOMAIN-SUFFIX,hongyingfangshui.com
+  - DOMAIN-SUFFIX,hongyuanqh.com
   - DOMAIN-SUFFIX,hongyue.com
   - DOMAIN-SUFFIX,hongyunlww.com
   - DOMAIN-SUFFIX,hongyunvren.com
@@ -76241,6 +76242,7 @@ payload:
   - IP-CIDR,45.255.64.0/19
   - IP-CIDR,45.255.96.0/20
   - IP-CIDR,45.40.192.0/18
+  - IP-CIDR,45.45.176.0/22
   - IP-CIDR,45.65.16.0/20
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.87.54.0/23
@@ -76402,10 +76404,12 @@ payload:
   - IP-CIDR,67.198.207.0/24
   - IP-CIDR,67.198.208.0/24
   - IP-CIDR,67.198.221.0/24
+  - IP-CIDR,67.198.229.0/24
   - IP-CIDR,67.198.235.0/24
   - IP-CIDR,67.198.239.0/24
   - IP-CIDR,67.198.244.0/24
   - IP-CIDR,67.198.255.0/24
+  - IP-CIDR,67.229.1.0/24
   - IP-CIDR,68.79.0.0/18
   - IP-CIDR,69.194.166.0/24
   - IP-CIDR,69.230.192.0/18

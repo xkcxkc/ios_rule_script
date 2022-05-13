@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-13 02:14:00
+# UPDATED: 2022-05-14 02:15:58
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70103
+# DOMAIN-SUFFIX: 70104
 # DOMAIN: 76
-# IP-CIDR: 6241
+# IP-CIDR: 6244
 # DOMAIN-KEYWORD: 15
-# TOTAL: 76497
+# TOTAL: 76501
 265.com
 adservice.google.com
 analytics.strava.com
@@ -29378,6 +29378,7 @@ www4-static.gog-statics.com
 .hongyeshuzhai.com
 .hongyicd.net
 .hongyingfangshui.com
+.hongyuanqh.com
 .hongyue.com
 .hongyunlww.com
 .hongyunvren.com

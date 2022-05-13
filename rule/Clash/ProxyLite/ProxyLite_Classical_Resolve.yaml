@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-13 02:14:00
-# DOMAIN-SUFFIX: 33332
-# DOMAIN: 37
+# UPDATED: 2022-05-14 02:15:57
+# DOMAIN-SUFFIX: 33346
+# DOMAIN: 36
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 90
 # IP-CIDR6: 3
-# TOTAL: 33488
+# TOTAL: 33501
 payload:
   - DOMAIN,angle.com.tw
   - DOMAIN,api-p.videomarket.jp
@@ -29,7 +29,6 @@ payload:
   - DOMAIN,elib.maruzen.co.jp
   - DOMAIN,faronics.kayako.com
   - DOMAIN,firstsearch.oclc.org
-  - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,i.jeded.com
   - DOMAIN,imperial.insendi.com
@@ -19464,7 +19463,6 @@ payload:
   - DOMAIN-SUFFIX,nytalk.net
   - DOMAIN-SUFFIX,nytchina.com
   - DOMAIN-SUFFIX,nytcn.me
-  - DOMAIN-SUFFIX,nytcnapps.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,nytco.com
   - DOMAIN-SUFFIX,nytfilmclub.com
   - DOMAIN-SUFFIX,nyti.ms
@@ -19862,6 +19860,21 @@ payload:
   - DOMAIN-SUFFIX,osmfoundation.org
   - DOMAIN-SUFFIX,ospray.net
   - DOMAIN-SUFFIX,ospray.org
+  - DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
+  - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
   - DOMAIN-SUFFIX,osxdaily.com
   - DOMAIN-SUFFIX,otaku13.howbbs.com
   - DOMAIN-SUFFIX,otakuss.com

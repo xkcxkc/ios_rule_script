@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-13 02:13:56
-# HOST-SUFFIX: 33332
+# UPDATED: 2022-05-14 02:15:53
+# HOST-SUFFIX: 33346
 # USER-AGENT: 5
-# HOST: 37
+# HOST: 36
 # HOST-KEYWORD: 26
 # IP-CIDR: 90
 # IP6-CIDR: 3
-# TOTAL: 33493
+# TOTAL: 33506
 HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
@@ -29,7 +29,6 @@ HOST,e122475.dscg.akamaiedge.net,ProxyLite
 HOST,elib.maruzen.co.jp,ProxyLite
 HOST,faronics.kayako.com,ProxyLite
 HOST,firstsearch.oclc.org,ProxyLite
-HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,ProxyLite
 HOST,hpstore.corpmerchandise.com,ProxyLite
 HOST,i.jeded.com,ProxyLite
 HOST,imperial.insendi.com,ProxyLite
@@ -19464,7 +19463,6 @@ HOST-SUFFIX,nyt.net,ProxyLite
 HOST-SUFFIX,nytalk.net,ProxyLite
 HOST-SUFFIX,nytchina.com,ProxyLite
 HOST-SUFFIX,nytcn.me,ProxyLite
-HOST-SUFFIX,nytcnapps.oss-cn-hongkong.aliyuncs.com,ProxyLite
 HOST-SUFFIX,nytco.com,ProxyLite
 HOST-SUFFIX,nytfilmclub.com,ProxyLite
 HOST-SUFFIX,nyti.ms,ProxyLite
@@ -19862,6 +19860,21 @@ HOST-SUFFIX,osm.org,ProxyLite
 HOST-SUFFIX,osmfoundation.org,ProxyLite
 HOST-SUFFIX,ospray.net,ProxyLite
 HOST-SUFFIX,ospray.org,ProxyLite
+HOST-SUFFIX,oss-ap-northeast-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-northeast-2.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-south-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-2.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-3.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-5.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-6.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-ap-southeast-7.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-cn-hongkong.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-eu-central-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-eu-west-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-me-east-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-us-east-1.aliyuncs.com,ProxyLite
+HOST-SUFFIX,oss-us-west-1.aliyuncs.com,ProxyLite
 HOST-SUFFIX,osxdaily.com,ProxyLite
 HOST-SUFFIX,otaku13.howbbs.com,ProxyLite
 HOST-SUFFIX,otakuss.com,ProxyLite
