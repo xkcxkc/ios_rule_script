@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-14 02:15:58
+# UPDATED: 2022-05-15 02:15:15
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 70104
+# DOMAIN-SUFFIX: 70103
 # DOMAIN: 76
 # IP-CIDR: 6244
 # DOMAIN-KEYWORD: 15
-# TOTAL: 76501
+# TOTAL: 76500
 265.com
 adservice.google.com
 analytics.strava.com
@@ -34323,7 +34323,6 @@ www4-static.gog-statics.com
 .jinlanqihua.com
 .jinlianchu.com
 .jinligou.com
-.jinlijzbd.com
 .jinlila.com
 .jinlinghotel.com
 .jinlinghotels.com
