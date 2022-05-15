@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-15 02:15:14
+# UPDATED: 2022-05-16 02:14:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 51906
+# DOMAIN: 51907
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 72383
+# DOMAIN-SUFFIX: 72395
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 124931
+# TOTAL: 124944
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -9920,6 +9920,7 @@ clickhereforfun.org
 clickhosted.com
 clickhype.com
 clickideaonline.com
+clickiocdn.com
 clickkydsp.com
 clickly.co
 clickly.me
@@ -34879,6 +34880,7 @@ positivebusinessimages.com
 poslovno-pregovaranje.com
 post.netchina.com.cn
 posta.andriake.com
+postclickmarketing.com
 posteezy.xyz
 posteitalianeevolution.com
 posteitalianemobile.com
@@ -35703,7 +35705,6 @@ push-tools-system.com
 push.cnnindonesia.com
 push.connect.digital
 push.daksham.in
-push.esputnik.com
 push.meitu.com
 push.mobogenie.com
 push.mobohappy.com
@@ -60806,6 +60807,7 @@ zzzrtrcm2.com
 .an.xemvtv.net
 .ana.mediable.info
 .ana.tv5unis.ca
+.anabcd.xyz
 .analights.com
 .analitica.webrpp.com
 .analitits.com
@@ -66431,6 +66433,7 @@ zzzrtrcm2.com
 .c0563.com
 .c0594.com
 .c09.xyz
+.c0c.biz
 .c0c.xyz
 .c0i.ckoi.com
 .c0i8h8ac7e.bid
@@ -68321,7 +68324,6 @@ zzzrtrcm2.com
 .clickinc.com
 .clickintext.com
 .clickintext.net
-.clickiocdn.com
 .clickit.go2net.com
 .clickkingdom.net
 .clicklink.jp
@@ -70794,6 +70796,7 @@ zzzrtrcm2.com
 .cyitohoteasqwe.top
 .cyjaruvndimgaa.com
 .cykynethe.com
+.cyl3h68.cn
 .cylinderlongcheng.com
 .cylize.com
 .cylwwyy.xyz
@@ -73216,6 +73219,7 @@ zzzrtrcm2.com
 .dmdi.pl
 .dmeq7blex6x1u.cloudfront.net
 .dmfhqzo.cn
+.dmfjeu.xyz
 .dmfwniplqhnf.com
 .dmg0877nfcvqj.cloudfront.net
 .dmhpgshchfoawtn.com
@@ -75950,6 +75954,7 @@ zzzrtrcm2.com
 .esp-12f.xyz
 .espn-ak.starwave.com
 .esptj.com
+.esputnik.com
 .esqfctbqf.com
 .esrpxyahzna.bid
 .essayads.com
@@ -76878,6 +76883,7 @@ zzzrtrcm2.com
 .fans.bestvogue.com
 .fansi365.com
 .fansign.streamray.com
+.fanst.club
 .fantasticsmash.com
 .fanumi.com
 .fanwoyang.com
@@ -80845,6 +80851,7 @@ zzzrtrcm2.com
 .gxunj.com
 .gxxcbj.com
 .gxymlqcnu.com
+.gxzxiww.com
 .gybdtg.com
 .gybyxsy1588.com
 .gyca9f.dahuangcheng.cn
@@ -87353,6 +87360,7 @@ zzzrtrcm2.com
 .kuhou.com
 .kujrsivgg.com
 .kukanlm-lubu1.com
+.kukanlm-my1.com
 .kukanlm-youeryuan.com
 .kukulm.com
 .kukury2hf8nd09.com
@@ -93035,6 +93043,7 @@ zzzrtrcm2.com
 .mobpushup.com
 .mobreach.com
 .mobrevflwms.com
+.mobrkbb.com
 .mobshark.net
 .mobstrks.com
 .mobtop.az
@@ -98336,6 +98345,7 @@ zzzrtrcm2.com
 .pf34zdjoeycr.com
 .pfcdnc.com
 .pffw8mgd.com
+.pfiparts.com
 .pfklopud.xyz
 .pflexads.com
 .pflhnpu.cn
@@ -99609,7 +99619,6 @@ zzzrtrcm2.com
 .postback.info
 .postbacks.net
 .postbox.mos.ru
-.postclickmarketing.com
 .poster.gamesprite.me
 .poster.weather.com.cn
 .postgraduate.smu.edu.sg
@@ -103965,6 +103974,7 @@ zzzrtrcm2.com
 .s.cambridgetimes.ca
 .s.cameratico.com
 .s.cdn.u17t.com
+.s.clickiocdn.com
 .s.clicktex.ru
 .s.cntqk.com
 .s.cntqk.vn
@@ -110564,6 +110574,7 @@ zzzrtrcm2.com
 .summer.ntua.edu.tw
 .summerhamster.com
 .summerobject.com
+.summerxzp.xyz
 .summit.edm.globalsources.com
 .sumo.com
 .sumofainstuff.com
@@ -110607,6 +110618,7 @@ zzzrtrcm2.com
 .sunvin.vin
 .sunwardamoraic.com
 .sunyftlaoiiy.com
+.sunyujia.top
 .suocloud.com
 .suoksm.cn
 .suolaka.23txt.com
@@ -114198,7 +114210,6 @@ zzzrtrcm2.com
 .tracker.downdetector.com
 .tracker.durasite.net
 .tracker.edupia.vn
-.tracker.esputnik.com
 .tracker.euroweb.net
 .tracker.fado.vn
 .tracker.financialcontent.com
@@ -118311,6 +118322,7 @@ zzzrtrcm2.com
 .wa.and.co.uk
 .wa.gtimg.com
 .wa.kuwo.cn
+.wa.mail.com
 .wa.metro.co.uk
 .wa.planet-wissen.de
 .wa.quarks.de
@@ -122455,6 +122467,7 @@ zzzrtrcm2.com
 .ygtx.mobi
 .yguap.com
 .ygudtbdnhkhlmkd.xyz
+.yguo.xyz
 .yguuoibdsscki.com
 .ygyl.xyz
 .ygyzx.cn

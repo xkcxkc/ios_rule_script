@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-15 02:15:11
-# DOMAIN: 46584
+# UPDATED: 2022-05-16 02:14:26
+# DOMAIN: 46585
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 89788
+# DOMAIN-SUFFIX: 89801
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 136713
+# TOTAL: 136727
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -8847,6 +8847,7 @@ payload:
   - 'clickhosted.com'
   - 'clickhype.com'
   - 'clickideaonline.com'
+  - 'clickiocdn.com'
   - 'clickkydsp.com'
   - 'clickly.co'
   - 'clickly.me'
@@ -56755,6 +56756,7 @@ payload:
   - '+.an1.hfyy120.cn'
   - '+.ana.mediable.info'
   - '+.ana.tv5unis.ca'
+  - '+.anabcd.xyz'
   - '+.analights.com'
   - '+.analitica.webrpp.com'
   - '+.analitits.com'
@@ -66084,7 +66086,6 @@ payload:
   - '+.clickinc.com'
   - '+.clickintext.com'
   - '+.clickintext.net'
-  - '+.clickiocdn.com'
   - '+.clickit.go2net.com'
   - '+.clickkingdom.net'
   - '+.clicklink.jp'
@@ -69239,6 +69240,7 @@ payload:
   - '+.cyitohoteasqwe.top'
   - '+.cyjaruvndimgaa.com'
   - '+.cykynethe.com'
+  - '+.cyl3h68.cn'
   - '+.cylinderlongcheng.com'
   - '+.cylize.com'
   - '+.cylwwyy.xyz'
@@ -71290,6 +71292,7 @@ payload:
   - '+.dexplatform.com'
   - '+.dexpredict.com'
   - '+.dexuanyu.top'
+  - '+.deya.ink'
   - '+.deyidesign.com'
   - '+.dezfu.com'
   - '+.df-srv.de'
@@ -72197,6 +72200,7 @@ payload:
   - '+.dmeq7blex6x1u.cloudfront.net'
   - '+.dmfadb.xyz'
   - '+.dmfhqzo.cn'
+  - '+.dmfjeu.xyz'
   - '+.dmfwniplqhnf.com'
   - '+.dmg0877nfcvqj.cloudfront.net'
   - '+.dmgmediaprivacy.co.uk'
@@ -76717,6 +76721,7 @@ payload:
   - '+.fans.bestvogue.com'
   - '+.fansi365.com'
   - '+.fansign.streamray.com'
+  - '+.fanst.club'
   - '+.fantasticsmash.com'
   - '+.fanumi.com'
   - '+.fanwoyang.com'
@@ -81561,6 +81566,7 @@ payload:
   - '+.gxxcbj.com'
   - '+.gxymlqcnu.com'
   - '+.gxzjzg.com'
+  - '+.gxzxiww.com'
   - '+.gybdtg.com'
   - '+.gybles.shopee.ph'
   - '+.gybyxsy1588.com'
@@ -89616,6 +89622,7 @@ payload:
   - '+.kujrsivgg.com'
   - '+.kuk8.com'
   - '+.kukanlm-lubu1.com'
+  - '+.kukanlm-my1.com'
   - '+.kukanlm-youeryuan.com'
   - '+.kuku99.com'
   - '+.kukulm.com'
@@ -90033,6 +90040,7 @@ payload:
   - '+.lantuyj.com'
   - '+.lanvbh.factory54.co.il'
   - '+.lanxiangji.com'
+  - '+.lanyue.ink'
   - '+.lanzar.publicidadweb.com'
   - '+.lanzuankeji.cn'
   - '+.lao9123.com'
@@ -97356,6 +97364,7 @@ payload:
   - '+.mobrand.net'
   - '+.mobreach.com'
   - '+.mobrevflwms.com'
+  - '+.mobrkbb.com'
   - '+.mobshark.net'
   - '+.mobstrks.com'
   - '+.mobsuitem.com'
@@ -103896,6 +103905,7 @@ payload:
   - '+.pfdgbyoj.com'
   - '+.pfdqxv.bibloo.ro'
   - '+.pffw8mgd.com'
+  - '+.pfiparts.com'
   - '+.pfklopud.xyz'
   - '+.pflexads.com'
   - '+.pflhnpu.cn'
@@ -110747,6 +110757,7 @@ payload:
   - '+.s.cambridgetimes.ca'
   - '+.s.cameratico.com'
   - '+.s.cdn.u17t.com'
+  - '+.s.clickiocdn.com'
   - '+.s.clicktex.ru'
   - '+.s.cntqk.com'
   - '+.s.cntqk.vn'
@@ -119855,6 +119866,7 @@ payload:
   - '+.sunvin.vin'
   - '+.sunwardamoraic.com'
   - '+.sunyftlaoiiy.com'
+  - '+.sunyujia.top'
   - '+.suocloud.com'
   - '+.suoksm.cn'
   - '+.suoooi.cn'
@@ -129361,6 +129373,7 @@ payload:
   - '+.wa.eonline.com'
   - '+.wa.gtimg.com'
   - '+.wa.kuwo.cn'
+  - '+.wa.mail.com'
   - '+.wa.metro.co.uk'
   - '+.wa.ncr.com'
   - '+.wa.personalcreations.com'
@@ -134174,6 +134187,7 @@ payload:
   - '+.ygtx.mobi'
   - '+.yguap.com'
   - '+.ygudtbdnhkhlmkd.xyz'
+  - '+.yguo.xyz'
   - '+.yguuoibdsscki.com'
   - '+.ygyl.xyz'
   - '+.ygyzx.cn'

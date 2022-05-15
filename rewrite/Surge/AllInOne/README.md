@@ -16,11 +16,11 @@
 | ---- | ---- |
 | mitm | 545 |
 | force_http_engine_hosts | 12 |
-| DOMAIN-SUFFIX | 1 |
 | URL-REGEX | 4 |
-| DOMAIN | 6 |
-| IP-CIDR | 1 |
 | IP-CIDR6 | 1 |
+| DOMAIN | 6 |
+| DOMAIN-SUFFIX | 1 |
+| IP-CIDR | 1 |
 | USER-AGENT | 1 |
 | reject | 794 |
 | http-response | 27 |

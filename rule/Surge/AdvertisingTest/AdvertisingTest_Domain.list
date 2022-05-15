@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-15 02:15:06
+# UPDATED: 2022-05-16 02:14:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 46584
+# DOMAIN: 46585
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 89788
+# DOMAIN-SUFFIX: 89801
 # IP-CIDR: 255
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 137015
+# TOTAL: 137029
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -8848,6 +8848,7 @@ clickhereforfun.org
 clickhosted.com
 clickhype.com
 clickideaonline.com
+clickiocdn.com
 clickkydsp.com
 clickly.co
 clickly.me
@@ -56756,6 +56757,7 @@ zzzrtrcm2.com
 .an1.hfyy120.cn
 .ana.mediable.info
 .ana.tv5unis.ca
+.anabcd.xyz
 .analights.com
 .analitica.webrpp.com
 .analitits.com
@@ -66085,7 +66087,6 @@ zzzrtrcm2.com
 .clickinc.com
 .clickintext.com
 .clickintext.net
-.clickiocdn.com
 .clickit.go2net.com
 .clickkingdom.net
 .clicklink.jp
@@ -69240,6 +69241,7 @@ zzzrtrcm2.com
 .cyitohoteasqwe.top
 .cyjaruvndimgaa.com
 .cykynethe.com
+.cyl3h68.cn
 .cylinderlongcheng.com
 .cylize.com
 .cylwwyy.xyz
@@ -71291,6 +71293,7 @@ zzzrtrcm2.com
 .dexplatform.com
 .dexpredict.com
 .dexuanyu.top
+.deya.ink
 .deyidesign.com
 .dezfu.com
 .df-srv.de
@@ -72198,6 +72201,7 @@ zzzrtrcm2.com
 .dmeq7blex6x1u.cloudfront.net
 .dmfadb.xyz
 .dmfhqzo.cn
+.dmfjeu.xyz
 .dmfwniplqhnf.com
 .dmg0877nfcvqj.cloudfront.net
 .dmgmediaprivacy.co.uk
@@ -76718,6 +76722,7 @@ zzzrtrcm2.com
 .fans.bestvogue.com
 .fansi365.com
 .fansign.streamray.com
+.fanst.club
 .fantasticsmash.com
 .fanumi.com
 .fanwoyang.com
@@ -81562,6 +81567,7 @@ zzzrtrcm2.com
 .gxxcbj.com
 .gxymlqcnu.com
 .gxzjzg.com
+.gxzxiww.com
 .gybdtg.com
 .gybles.shopee.ph
 .gybyxsy1588.com
@@ -89617,6 +89623,7 @@ zzzrtrcm2.com
 .kujrsivgg.com
 .kuk8.com
 .kukanlm-lubu1.com
+.kukanlm-my1.com
 .kukanlm-youeryuan.com
 .kuku99.com
 .kukulm.com
@@ -90034,6 +90041,7 @@ zzzrtrcm2.com
 .lantuyj.com
 .lanvbh.factory54.co.il
 .lanxiangji.com
+.lanyue.ink
 .lanzar.publicidadweb.com
 .lanzuankeji.cn
 .lao9123.com
@@ -97357,6 +97365,7 @@ zzzrtrcm2.com
 .mobrand.net
 .mobreach.com
 .mobrevflwms.com
+.mobrkbb.com
 .mobshark.net
 .mobstrks.com
 .mobsuitem.com
@@ -103897,6 +103906,7 @@ zzzrtrcm2.com
 .pfdgbyoj.com
 .pfdqxv.bibloo.ro
 .pffw8mgd.com
+.pfiparts.com
 .pfklopud.xyz
 .pflexads.com
 .pflhnpu.cn
@@ -110748,6 +110758,7 @@ zzzrtrcm2.com
 .s.cambridgetimes.ca
 .s.cameratico.com
 .s.cdn.u17t.com
+.s.clickiocdn.com
 .s.clicktex.ru
 .s.cntqk.com
 .s.cntqk.vn
@@ -119856,6 +119867,7 @@ zzzrtrcm2.com
 .sunvin.vin
 .sunwardamoraic.com
 .sunyftlaoiiy.com
+.sunyujia.top
 .suocloud.com
 .suoksm.cn
 .suoooi.cn
@@ -129362,6 +129374,7 @@ zzzrtrcm2.com
 .wa.eonline.com
 .wa.gtimg.com
 .wa.kuwo.cn
+.wa.mail.com
 .wa.metro.co.uk
 .wa.ncr.com
 .wa.personalcreations.com
@@ -134175,6 +134188,7 @@ zzzrtrcm2.com
 .ygtx.mobi
 .yguap.com
 .ygudtbdnhkhlmkd.xyz
+.yguo.xyz
 .yguuoibdsscki.com
 .ygyl.xyz
 .ygyzx.cn
