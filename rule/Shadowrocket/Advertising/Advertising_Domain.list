@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-16 02:14:28
+# UPDATED: 2022-05-17 02:14:55
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51907
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 72395
+# DOMAIN-SUFFIX: 72411
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 124944
+# TOTAL: 124960
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -53235,6 +53235,7 @@ zzzrtrcm2.com
 .4info.com
 .4jiqzr.ru
 .4jnzhl0d0.com
+.4kddyfd.cn
 .4kfv18.cn
 .4kmovies.online
 .4kyu.cn
@@ -56506,7 +56507,6 @@ zzzrtrcm2.com
 .ad2iction.com
 .ad2links.com
 .ad2up.com
-.ad3.cross-a.net
 .ad3.eu
 .ad3.iinfo.cz
 .ad3.nationalreview.com
@@ -61351,6 +61351,7 @@ zzzrtrcm2.com
 .andbeyond.media
 .andcanbere.fun
 .andersenit.dk
+.andhub.jp
 .andibringto.biz
 .andinterpers.com
 .andlache.com
@@ -70367,6 +70368,7 @@ zzzrtrcm2.com
 .crookedcareers.com
 .croresh.com
 .crorop.com
+.cross-a.net
 .crossboardmobile.com
 .crosschannel.com
 .crossed.wang
@@ -72528,6 +72530,7 @@ zzzrtrcm2.com
 .dexpredict.com
 .dextersolutions.actonservice.com
 .dexuanyu.top
+.deya.ink
 .deyidesign.com
 .dezfu.com
 .df-srv.de
@@ -78062,6 +78065,7 @@ zzzrtrcm2.com
 .fprnt.com
 .fpt.microsoft.com
 .fptad.com
+.fpvdxd5.com
 .fpwtsp.xxxlutz.de
 .fpyacdna.com
 .fqab5xq7qlgt.info
@@ -80999,6 +81003,7 @@ zzzrtrcm2.com
 .habtcng.cn
 .habyc.com
 .hackelevensol.com
+.hackeraa.xyz
 .hackerz.ir
 .hackesie.net
 .hacmoone.net
@@ -82230,6 +82235,7 @@ zzzrtrcm2.com
 .hoohavoa.com
 .hooify.com
 .hookeroblong.com
+.hooliganmedia.com
 .hoolyfy.com
 .hoood.info
 .hoophaub.com
@@ -82630,6 +82636,7 @@ zzzrtrcm2.com
 .huixingcheng.cn
 .huiyef.cn
 .huiyutz.cn
+.huizai.top
 .huizeyoupin.com
 .hulai0323166.space
 .hulauf.cn
@@ -85025,6 +85032,7 @@ zzzrtrcm2.com
 .ixmlusc.cn
 .ixnow.xyz
 .ixnp.com
+.ixnrmco.com
 .ixpub.net
 .ixqfughrynmfh.com
 .ixsgoy.getpenta.com
@@ -85127,6 +85135,7 @@ zzzrtrcm2.com
 .jacketzerobelieved.com
 .jacklm1.com
 .jacklm2.com
+.jacksonyee.club
 .jacobeshort.pro
 .jacquelinelaura.com
 .jadcenter.com
@@ -87450,6 +87459,7 @@ zzzrtrcm2.com
 .kxbvazfrioxs.com
 .kxclorpruisyo.com
 .kxhie.com
+.kxla.xyz
 .kxldvcytb.xyz
 .kxmav2.com
 .kxmvoppmbtzdi.com
@@ -87713,6 +87723,7 @@ zzzrtrcm2.com
 .lantocha.ru
 .lantuyj.com
 .lanxiangji.com
+.lanyue.ink
 .lanzar.publicidadweb.com
 .lanzuankeji.cn
 .laobaigushi.com
@@ -99749,6 +99760,7 @@ zzzrtrcm2.com
 .ppxbsbluutiwc.xyz
 .ppxhpc.eurocamp.nl
 .ppxldikxksuo.com
+.ppyibei.com
 .pq.stat.ku6.com
 .pqdhda.bluepops.co.kr
 .pqezdo.cn
@@ -110875,6 +110887,7 @@ zzzrtrcm2.com
 .switchpreposterous.com
 .swithaccura.club
 .swjrzk.cn
+.swml.xyz
 .swnmuh.ru
 .swnptn.cn
 .swoodlander.site
@@ -116855,6 +116868,7 @@ zzzrtrcm2.com
 .uuu88.top
 .uuvm.pornpics.com
 .uuwhg.com
+.uuwn7ho.cn
 .uuxnwoevyb.com
 .uuybnrimdyg.com
 .uuydabxaindfsb.xyz
@@ -119659,6 +119673,7 @@ zzzrtrcm2.com
 .wmton.com
 .wmzona.com
 .wn052ucd.online
+.wn68din.cn
 .wnbeiskivkkmpy.xyz
 .wnbfw.com
 .wnbssfaitzgt.com
@@ -122476,6 +122491,7 @@ zzzrtrcm2.com
 .yhaizy.cn
 .yhaxlxpuwl.com
 .yhbdzh.farmasiint.com
+.yhbsk.cn
 .yhdichan.com
 .yhdtns.com
 .yheyg94gjv2o.ru

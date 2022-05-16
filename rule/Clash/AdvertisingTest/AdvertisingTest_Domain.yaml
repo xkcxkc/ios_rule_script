@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-16 02:14:26
+# UPDATED: 2022-05-17 02:14:53
 # DOMAIN: 46585
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 89801
+# DOMAIN-SUFFIX: 89815
 # IP-CIDR: 255
 # IP-CIDR6: 1
-# TOTAL: 136727
+# TOTAL: 136741
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -48261,6 +48261,7 @@ payload:
   - '+.4jiqzr.ru'
   - '+.4jnzhl0d0.com'
   - '+.4jpf0karrejn6yla.pro'
+  - '+.4kddyfd.cn'
   - '+.4ke5b4ila.codedge.de'
   - '+.4kfv18.cn'
   - '+.4kmovies.online'
@@ -51888,7 +51889,6 @@ payload:
   - '+.ad2iction.com'
   - '+.ad2links.com'
   - '+.ad2up.com'
-  - '+.ad3.cross-a.net'
   - '+.ad3.eu'
   - '+.ad3.iinfo.cz'
   - '+.ad3.nationalreview.com'
@@ -57477,6 +57477,7 @@ payload:
   - '+.andbeyond.media'
   - '+.andcanbere.fun'
   - '+.andersenit.dk'
+  - '+.andhub.jp'
   - '+.andibringto.biz'
   - '+.andinterpers.com'
   - '+.andlache.com'
@@ -68685,6 +68686,7 @@ payload:
   - '+.crookedcareers.com'
   - '+.croresh.com'
   - '+.crorop.com'
+  - '+.cross-a.net'
   - '+.cross-system.com'
   - '+.crossboardmobile.com'
   - '+.crosschannel.com'
@@ -78196,6 +78198,7 @@ payload:
   - '+.fpsekwpfk.com'
   - '+.fpt.microsoft.com'
   - '+.fptad.com'
+  - '+.fpvdxd5.com'
   - '+.fpwtsp.xxxlutz.de'
   - '+.fpxewa.ilmeteo.it'
   - '+.fpyacdna.com'
@@ -81751,6 +81754,7 @@ payload:
   - '+.habtcng.cn'
   - '+.habyc.com'
   - '+.hackelevensol.com'
+  - '+.hackeraa.xyz'
   - '+.hackerz.ir'
   - '+.hackesie.net'
   - '+.hacmoone.net'
@@ -83264,6 +83268,7 @@ payload:
   - '+.hookhub.webcam'
   - '+.hookupbucks.com'
   - '+.hookworm.commanddot.com'
+  - '+.hooliganmedia.com'
   - '+.hooligapps.com'
   - '+.hoolyfy.com'
   - '+.hoood.info'
@@ -83783,6 +83788,7 @@ payload:
   - '+.huixingcheng.cn'
   - '+.huiyef.cn'
   - '+.huiyutz.cn'
+  - '+.huizai.top'
   - '+.huizeyoupin.com'
   - '+.hulai0323166.space'
   - '+.hulauf.cn'
@@ -86783,6 +86789,7 @@ payload:
   - '+.ixmlusc.cn'
   - '+.ixnow.xyz'
   - '+.ixnp.com'
+  - '+.ixnrmco.com'
   - '+.ixpub.net'
   - '+.ixqfughrynmfh.com'
   - '+.ixrfsm.sawiday.fr'
@@ -86905,6 +86912,7 @@ payload:
   - '+.jacketzerobelieved.com'
   - '+.jacklm1.com'
   - '+.jacklm2.com'
+  - '+.jacksonyee.club'
   - '+.jacobeshort.pro'
   - '+.jacquelinelaura.com'
   - '+.jadcenter.com'
@@ -89728,6 +89736,7 @@ payload:
   - '+.kxhie.com'
   - '+.kxid.cn'
   - '+.kxji.com'
+  - '+.kxla.xyz'
   - '+.kxldvcytb.xyz'
   - '+.kxmav2.com'
   - '+.kxmrwu.ibarakinews.jp'
@@ -105616,6 +105625,7 @@ payload:
   - '+.ppxbsbluutiwc.xyz'
   - '+.ppxhpc.eurocamp.nl'
   - '+.ppxldikxksuo.com'
+  - '+.ppyibei.com'
   - '+.pqciix.busuu.com'
   - '+.pqdhda.bluepops.co.kr'
   - '+.pqezdo.cn'
@@ -120275,6 +120285,7 @@ payload:
   - '+.swjrzk.cn'
   - '+.swkism.moon-trade.ru'
   - '+.swmdqn.sizeofficial.fr'
+  - '+.swml.xyz'
   - '+.swnmuh.ru'
   - '+.swnptn.cn'
   - '+.swoodlander.site'
@@ -127607,6 +127618,7 @@ payload:
   - '+.uuu88.top'
   - '+.uuvm.pornpics.com'
   - '+.uuwhg.com'
+  - '+.uuwn7ho.cn'
   - '+.uux79.com'
   - '+.uuxnwoevyb.com'
   - '+.uuybnrimdyg.com'
@@ -131033,6 +131045,7 @@ payload:
   - '+.wmton.com'
   - '+.wmzona.com'
   - '+.wn052ucd.online'
+  - '+.wn68din.cn'
   - '+.wnbeiskivkkmpy.xyz'
   - '+.wnbfw.com'
   - '+.wnbssfaitzgt.com'
@@ -134198,6 +134211,7 @@ payload:
   - '+.yhaizy.cn'
   - '+.yhaxlxpuwl.com'
   - '+.yhbdzh.farmasiint.com'
+  - '+.yhbsk.cn'
   - '+.yhdcdo.crazy-factory.com'
   - '+.yhdichan.com'
   - '+.yhdtns.com'
