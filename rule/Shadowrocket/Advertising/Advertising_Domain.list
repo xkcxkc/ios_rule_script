@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-17 02:14:55
+# UPDATED: 2022-05-17 09:41:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51907
 # DOMAIN-KEYWORD: 85
-# DOMAIN-SUFFIX: 72411
+# DOMAIN-SUFFIX: 72410
 # IP-CIDR: 255
 # URL-REGEX: 302
-# TOTAL: 124960
+# TOTAL: 124959
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -61867,7 +61867,6 @@ zzzrtrcm2.com
 .apparentlyhandbook.com
 .apparentsav.club
 .apparest.com
-.appboy-images.com
 .appboy.com
 .appboycdn.com
 .appc.baidu.cn
