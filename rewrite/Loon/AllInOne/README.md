@@ -17,9 +17,9 @@
 | mitm | 545 |
 | DOMAIN | 6 |
 | USER-AGENT | 1 |
-| DOMAIN-SUFFIX | 1 |
 | URL-REGEX | 4 |
 | IP-CIDR6 | 1 |
+| DOMAIN-SUFFIX | 1 |
 | IP-CIDR | 1 |
 | reject | 794 |
 | http-response | 27 |

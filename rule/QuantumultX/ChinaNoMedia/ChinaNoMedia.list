@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-05-15 02:15:08
+# UPDATED: 2022-05-18 02:20:47
 # USER-AGENT: 32
 # HOST-SUFFIX: 7092
 # HOST: 17
-# IP-CIDR: 6149
+# IP-CIDR: 6150
 # HOST-KEYWORD: 13
 # IP6-CIDR: 4166
-# TOTAL: 17469
+# TOTAL: 17470
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -10197,6 +10197,7 @@ IP-CIDR,153.36.0.0/15,ChinaNoMedia
 IP-CIDR,153.99.0.0/16,ChinaNoMedia
 IP-CIDR,154.209.251.0/24,ChinaNoMedia
 IP-CIDR,154.8.128.0/17,ChinaNoMedia
+IP-CIDR,154.95.2.0/23,ChinaNoMedia
 IP-CIDR,155.102.0.0/16,ChinaNoMedia
 IP-CIDR,155.126.176.0/23,ChinaNoMedia
 IP-CIDR,156.107.160.0/24,ChinaNoMedia
